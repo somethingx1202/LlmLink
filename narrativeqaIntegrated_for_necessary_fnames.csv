@@ -1,0 +1,991 @@
+document_id,set,question,answer1,answer2,question_tokenized,answer1_tokenized,answer2_tokenized
+0029bdbe75423337b551e42bb31f9a102785376f,train,Who is Arabella Manson?,Miss Delma house guest,She's Percival's mother,Who is Arabella Manson ?,Miss Delma house guest,She s Percival s mother
+0029bdbe75423337b551e42bb31f9a102785376f,train,Who was Percival Kneene?,Arabella and Been son,Ben and Arabella's son,Who was Percival Kneene ?,Arabella and Been son,Ben and Arabella s son
+0029bdbe75423337b551e42bb31f9a102785376f,train,Who was Minnie?,A Heiress,Daughter  to the dutch merchant,Who was Minnie ?,A Heiress,Daughter to the dutch merchant
+00ee9e01a0e581e0d8cbf7e865a895147c480c5e,train,Who is Kaylo?,A transvestite that helps Chelios find Alex.,A transvestite,Who is Kaylo ?,A transvestite that helps Chelios find Alex .,A transvestite
+00f9dbb0a851bc6099d5216e5fa8719b2ac3b82b,train,Who is jealous of Ebby?,Crash,Crash,Who is jealous of Ebby ?,Crash,Crash
+014de1a8802c05ff64efa047e9290fb7fccea2b4,test,Who is Krag an acquaintance of?,Nightspore,Nightspore.,Who is Krag an acquaintance of ?,Nightspore,Nightspore .
+014de1a8802c05ff64efa047e9290fb7fccea2b4,test,Who is Krag to Maskull?,A acquaintance of his friend Nightspore.,An acquaintance ,Who is Krag to Maskull ?,A acquaintance of his friend Nightspore .,An acquaintance
+014de1a8802c05ff64efa047e9290fb7fccea2b4,test,Who is Nightspore?,Maskull,maskull,Who is Nightspore ?,Maskull,maskull
+015c99b411cef291d31cd5543c7ae957edebe6b4,train,Who is Shinzon a clone of?,Picard.,Picard,Who is Shinzon a clone of ?,Picard .,Picard
+015c99b411cef291d31cd5543c7ae957edebe6b4,train,Who is Shinzon a clone of?,Captain Picard.,Picard,Who is Shinzon a clone of ?,Captain Picard .,Picard
+019a9611dd8e1b822bd0a58f075cc4a30bdd0797,test,Who is Jacob to Lisbeth?,He is her brother. ,Her brother,Who is Jacob to Lisbeth ?,He is her brother .,Her brother
+01a4a870914fd148e2fd4e55ccbc9a3595f6bab6,train,Who was pregnant with Jim Morrison's child?,Patricia Kenneally,Patricia.,Who was pregnant with Jim Morrison s child ?,Patricia Kenneally,Patricia .
+01a4a870914fd148e2fd4e55ccbc9a3595f6bab6,train,Who is Pamela Courson to Jim?,Jim's girlfriend. ,Girlfriend,Who is Pamela Courson to Jim ?,Jim s girlfriend .,Girlfriend
+01f5ab49ace7ff6c2bca8c2e537076ae1f1b5c90,train,Who is Emily St. Aubert?,Emily St Aubert is a young french woman who became orphaned after her father died.,A french orphan.,Who is Emily St. Aubert ?,Emily St Aubert is a young french woman who became orphaned after her father died .,A french orphan .
+0269408ac78193a0e13f1033bec6f658b00437b3,test,Who is Zeus' illegitimate son?,Filmore,Filmore,Who is Zeus ' illegitimate son ?,Filmore,Filmore
+0269408ac78193a0e13f1033bec6f658b00437b3,test,Who is Zeus's illegitimate daughter?,Marie-Noel,Marie-Noel,Who is Zeus s illegitimate daughter ?,Marie-Noel,Marie-Noel
+02ec0dda4d6b545c8a180b4e66108f32acc7fefa,train,Who is Jason Allison?,Dr. Jay Allison's other personality,Dr. Jay Allison's secondary personality,Who is Jason Allison ?,Dr. Jay Allison s other personality,Dr. Jay Allison s secondary personality
+02ec0dda4d6b545c8a180b4e66108f32acc7fefa,train,Who is Jason Allison?,Dr. Jay Allison's secondary personality,Second personality.,Who is Jason Allison ?,Dr. Jay Allison s secondary personality,Second personality .
+03690ff2154ebecb454ea267cec529358ab6923b,test,Who is Mrs. Baines to Sophia and Constance?,Their mother.,Their mother.,Who is Mrs. Baines to Sophia and Constance ?,Their mother .,Their mother .
+03a048c35b81d8a422e0efd0d5de016b63659869,train,Who is Isidore Beautrelet?,A young amateur detective.,A gifted high school detective.,Who is Isidore Beautrelet ?,A young amateur detective .,A gifted high school detective .
+03a048c35b81d8a422e0efd0d5de016b63659869,train,Who is Louis Valmeras?,Arsene Lupin.,Arsene Lupin,Who is Louis Valmeras ?,Arsene Lupin .,Arsene Lupin
+042bb7019f583cebe3290795149fdc70412ad813,valid,Who is Sophia?,Sophia is Nadia's real name.,Sophia is a criminal posing as a mail-order bride named Nadia.,Who is Sophia ?,Sophia is Nadia s real name .,Sophia is a criminal posing as a mail-order bride named Nadia .
+0434145d9284423a36a714fc55246ed0bdc39a82,train,WHO IS CATHERINE TO MARTY?,HIS AUNT,His aunt,WHO IS CATHERINE TO MARTY ?,HIS AUNT,His aunt
+04954299c7b6bdc7b31b951bc0daa277353576a9,test,Who is Dragon?,the farmer's cat,A cat.,Who is Dragon ?,the farmer s cat,A cat .
+04dc9134485dee27252734f24c2a3b3dd397b8a4,train,Who is Marge?,The Brainerd police chief,Brainerd police chief,Who is Marge ?,The Brainerd police chief,Brainerd police chief
+04ef491311759e1e853f9c7fc7e8c946c6eab31b,test,Who is Jake?,Bianca and Bernard's guide and protector,a hopping mouse who works for RAS,Who is Jake ?,Bianca and Bernard s guide and protector,a hopping mouse who works for RAS
+050f88f6c8fed44ecbd7658b0f450fb705ce368d,train,Who is Li Mu Bai?,A Wudang swordsman.,An accomplished Wudang swordsman.,Who is Li Mu Bai ?,A Wudang swordsman .,An accomplished Wudang swordsman .
+050f88f6c8fed44ecbd7658b0f450fb705ce368d,train,Who is Lo to Jen?,He is a bandit who loves her.,Her love.,Who is Lo to Jen ?,He is a bandit who loves her .,Her love .
+05f1a40c41101a714a3ace0359d4a550d908742e,train,Who is Milton Rogers?,A former partner of Silas.,Silas Lapham's former business partner. ,Who is Milton Rogers ?,A former partner of Silas .,Silas Lapham s former business partner .
+05f1a40c41101a714a3ace0359d4a550d908742e,train,Who is Milton K. Rogers?,Silas Lapham's ex-business partner,Silas Lapham's business partner.,Who is Milton K. Rogers ?,Silas Lapham s ex-business partner,Silas Lapham s business partner .
+0619e886fb3167a3d70f4d191754a82b3f9ecf7f,train,Who is Ridd?,The son of a mudered farmer.,john son of respectable farmer.,Who is Ridd ?,The son of a mudered farmer .,john son of respectable farmer .
+061c5dd1dc117e3161f1f0a7794b807932ef4675,train,Who was Barbara Drummond?,Barbara Drummond was a patient's daughter,"a patients daughter, that came with her father from mexico for his treatmant.",Who was Barbara Drummond ?,Barbara Drummond was a patient s daughter,"a patients daughter , that came with her father from mexico for his treatmant ."
+069ba0ceb78ef8fe8a193b7b4f225938f2044f0c,test,Who is Simon Phoenix?,A psychopathic career criminal,A psychopathic career criminal.,Who is Simon Phoenix ?,A psychopathic career criminal,A psychopathic career criminal .
+069ba0ceb78ef8fe8a193b7b4f225938f2044f0c,test,Who is John Spartan?,An LAPD sargeant,An LAPD Sergant,Who is John Spartan ?,An LAPD sargeant,An LAPD Sergant
+07115dadb9d1831d9a0951dd1c392587dfcae9df,train,Who is secretly one of the Helpers?,Julia.,Julia,Who is secretly one of the Helpers ?,Julia .,Julia
+076acafe2eb72ccf6e894bbb4b8b318f4cf3c58d,train,Who was Ross's source?,Neal Daniels,Neil Daniels,Who was Ross s source ?,Neal Daniels,Neil Daniels
+08373775c3d82d8bbf4ff286a3a0076a3627c652,valid,"Who is abusive to ""del""?",Percy,Percy Wetmore,Who is abusive to del ?,Percy,Percy Wetmore
+08373775c3d82d8bbf4ff286a3a0076a3627c652,valid,Who is Percy a nephew of?,Louisiana's First Lady.,Louisiana's First Lady.,Who is Percy a nephew of ?,Louisiana s First Lady .,Louisiana s First Lady .
+084e3e9625f032d6fc7454e94841a6045a0454e8,train,Who is Imar's twin-sister?,Marva,Marva.,Who is Imar s twin-sister ?,Marva,Marva .
+084e3e9625f032d6fc7454e94841a6045a0454e8,train,Who is Marva?,Queen of Ossets,Queen of the Ossets.,Who is Marva ?,Queen of Ossets,Queen of the Ossets .
+08c3429e9717bc663bc5f41cd3a2c701c222ed2f,test,Who was Lucinda?,Lucinda was a doll,a doll,Who was Lucinda ?,Lucinda was a doll,a doll
+08c3429e9717bc663bc5f41cd3a2c701c222ed2f,test,Who was Jane? ,Lucinda cook,A DOLL THAT IS SUPPOSE TO BE THE COOK DOLL,Who was Jane ?,Lucinda cook,A DOLL THAT IS SUPPOSE TO BE THE COOK DOLL
+09333c7d604bd412e6aef5d3e56b046ed301c5e5,test,Who is Morton?,He is an inspector,He is a police inspector called in to arrest Smith,Who is Morton ?,He is an inspector,He is a police inspector called in to arrest Smith
+0a133d2f741f023f11260893729c5dc63f9ef89a,train,Who is Newt?,The only known survivor of the colony.,A liitle girl.,Who is Newt ?,The only known survivor of the colony .,A liitle girl .
+0ac0e7c55534399855675cf41872ae6c5a8a32dd,valid,Who is Tito Melema?,A shipwrecked stranger and a young Italianate-Greek scholar.,An Italianate-Greek scholar ,Who is Tito Melema ?,A shipwrecked stranger and a young Italianate-Greek scholar .,An Italianate-Greek scholar
+0ac0e7c55534399855675cf41872ae6c5a8a32dd,valid,Who is Baldassarre?,Tito's adoptive father.,Tito's adopted father,Who is Baldassarre ?,Tito s adoptive father .,Tito s adopted father
+0b5d946ecfbdeb6629ae3f8cd42f4c499892e4ce,train,Who is Theodore de Summervieux?,An artist.,An artist ,Who is Theodore de Summervieux ?,An artist .,An artist
+0b5d946ecfbdeb6629ae3f8cd42f4c499892e4ce,train,Who is Madame Rogiun?,Augustine's younger cousin. ,Madame Guillaume's younger cousin.,Who is Madame Rogiun ?,Augustine s younger cousin .,Madame Guillaume s younger cousin .
+0bae1f959cf453f77d465ab3d7de58735c3cea38,train,Who is Duke Mitchell in relation to Maverick?,His father.,His father,Who is Duke Mitchell in relation to Maverick ?,His father .,His father
+0bb7c49bd644d0a4c0ea9fd6239e84c07013a811,train,Who is a civil war veteran?,Lighnin' Bill is a civil war veteran.,Lightnin' Bill Jones,Who is a civil war veteran ?,Lighnin ' Bill is a civil war veteran .,Lightnin ' Bill Jones
+0bc7352d6a0e678c0d8acc57c0c1cc3466fe9ef7,train,Who is Keisha?,Lucky's daughter,Lucky's daughter,Who is Keisha ?,Lucky s daughter,Lucky s daughter
+0bc7352d6a0e678c0d8acc57c0c1cc3466fe9ef7,train,Who is Keisha?,Lucky's daughter,Lucky's daughter,Who is Keisha ?,Lucky s daughter,Lucky s daughter
+0bd270c8c46f84a4abd99d65e2f17a9e11a7f76d,test,Who was George Shapiro to Andy Kaufman?,his talent agent,his agent,Who was George Shapiro to Andy Kaufman ?,his talent agent,his agent
+0bd270c8c46f84a4abd99d65e2f17a9e11a7f76d,test,Who was Tony Clifton?,Andy Kaufman in disguise.,a villain character that was created by Haufman,Who was Tony Clifton ?,Andy Kaufman in disguise .,a villain character that was created by Haufman
+0bec3c185ffe7f716108fce8bd4a1558d4cd4a54,train,Who is Billy's sisters boyfriend?,Andy,Andy,Who is Billy s sisters boyfriend ?,Andy,Andy
+0c1274df8299049d4959ef8a1ea23a6a68e26f6e,test,Who is Holly?,Stanley Jobsonâs daughter,Stanley and Melissa's daughter.,Who is Holly ?,Stanley Jobsonâs daughter,Stanley and Melissa s daughter .
+0c6bb0eb4a8f40ba3bdd6b1e6e86163e759d04e9,test,Who is El Cid? ,Don Rodrigue,"Rodrigue is called El Cid, because of his battlefield victories.  ",Who is El Cid ?,Don Rodrigue,"Rodrigue is called El Cid , because of his battlefield victories ."
+0cb3433c5ac030dba47414e2655c3c49e4f37527,train,Who is Anna's boyfriend? ,Gerald,Gerald and Jack,Who is Anna s boyfriend ?,Gerald,Gerald and Jack
+0cd690f600881ef37a4e36ca79e378c733636c30,test,Who is Zuleika's grandfather?,The Warden of Judas College,The Warden of Judas College.,Who is Zuleika s grandfather ?,The Warden of Judas College,The Warden of Judas College .
+0d0bc01441afbec48663e3b38827e1529a287765,test,Who is Helen Chester?,The niece of Judge Arthur Chester.,Judges Arthur Chester's neice,Who is Helen Chester ?,The niece of Judge Arthur Chester .,Judges Arthur Chester s neice
+0d0bc01441afbec48663e3b38827e1529a287765,test,Who is Alexander McNamara?,A politician seeking control in the Alaskan Territory.,A politician,Who is Alexander McNamara ?,A politician seeking control in the Alaskan Territory .,A politician
+0d0bc01441afbec48663e3b38827e1529a287765,test,Who was Helen Chester?,Helen Chester was Judge Arthur Cheaster niece.,Niece of judge Arthur chester,Who was Helen Chester ?,Helen Chester was Judge Arthur Cheaster niece .,Niece of judge Arthur chester
+0d0bc01441afbec48663e3b38827e1529a287765,test,Who was Alexander  McNamara?,A politician,a strongman politician,Who was Alexander McNamara ?,A politician,a strongman politician
+0d6f958d03124c4176549fce64ed4e7849e351f9,train,Who is Augusta?,Augusta is Emmeline's friend and Delemare's sister,Delamere's sister.,Who is Augusta ?,Augusta is Emmeline s friend and Delemare s sister,Delamere s sister .
+0d6f958d03124c4176549fce64ed4e7849e351f9,train,Who is Godolphin's sister? ,Adelina,Adelina,Who is Godolphin s sister ?,Adelina,Adelina
+0e386fb9ead81ac7dbda4798564ab2f7968234c8,train,Who is George to Rabina?,Her husband.,One is son and the other is husband.,Who is George to Rabina ?,Her husband .,One is son and the other is husband .
+0e453816e78ebb5abeaf4ea5dc283e1455fd57f9,train,Who is Olga Larina?,Olga Larina is Vladimir Lensky's fiance.,Lensky's fiance,Who is Olga Larina ?,Olga Larina is Vladimir Lensky s fiance .,Lensky s fiance
+0e453816e78ebb5abeaf4ea5dc283e1455fd57f9,train,Who is Lensky's fiance?,Olga.,Olga,Who is Lensky s fiance ?,Olga .,Olga
+0ecd1d809dabb7dab891d9c8a9e19a5f76397d2d,valid,Who is Esther?,A 9 year old girl whom Kate and John adopt.,"Leena Klammer , a mentally ill 33 year old woman with hypopituitarism. ",Who is Esther ?,A 9 year old girl whom Kate and John adopt .,"Leena Klammer , a mentally ill 33 year old woman with hypopituitarism ."
+0f849890e27fd05b9a8683d111f489515db72ea4,train,Who is Agave and Cadmus' son?,Pentheus,Pentheus,Who is Agave and Cadmus ' son ?,Pentheus,Pentheus
+0ffdd0e4abb67f0012a68d719a2d509ee8ec643d,train,Who is Nate?,McCauley's fence.,McCauley's fence,Who is Nate ?,McCauley s fence .,McCauley s fence
+0ffdd0e4abb67f0012a68d719a2d509ee8ec643d,train,Who is Lauren?,Hanna's stepdaughter.,Hanna's step daughter,Who is Lauren ?,Hanna s stepdaughter .,Hanna s step daughter
+105672e2bb1bcc9dd50e90822ca49a66876ac198,train,Who is Trampas to the Virginian?,He is a gambler that the Virginian faced down. ,An enemy,Who is Trampas to the Virginian ?,He is a gambler that the Virginian faced down .,An enemy
+105672e2bb1bcc9dd50e90822ca49a66876ac198,train,Who is Trampas?,The Virginian's enemy.,a gambler who is enemies with the Virginian,Who is Trampas ?,The Virginian s enemy .,a gambler who is enemies with the Virginian
+10910853a653d0e6ef540a1a3cc63ef2746a798c,train,Who is Danny Parker?,The alias of the protagonist,an addict and police informant,Who is Danny Parker ?,The alias of the protagonist,an addict and police informant
+10910853a653d0e6ef540a1a3cc63ef2746a798c,train,Who is Colette?,Danny's neighbor.,a neighbor,Who is Colette ?,Danny s neighbor .,a neighbor
+10c992498cf8bea350d6209b4b8f1d0437440694,train,Who is Edward de Vere's wife? ,Anne Cecil,Anne Cecil,Who is Edward de Vere s wife ?,Anne Cecil,Anne Cecil
+10d52d13b492d0e2319b8b5d3349ce4f9eaf26d4,train,Who is Ghostface?,Roman,Cotton Weary,Who is Ghostface ?,Roman,Cotton Weary
+11545d73892f9fedd42044f9fa098de4bf33ec18,train,Who is Prester John?,A legendary Christian ruler of whom Laputa claims he is the heir,A former leader of the people.,Who is Prester John ?,A legendary Christian ruler of whom Laputa claims he is the heir,A former leader of the people .
+11c498b404bec5dee6cbf41e54a8b682851fb934,valid,Who is  Slasher?,Slasher is a feral dog that joins Balthus and Conan.,a feral dog,Who is Slasher ?,Slasher is a feral dog that joins Balthus and Conan .,a feral dog
+11c498b404bec5dee6cbf41e54a8b682851fb934,valid,Who is Slasher?,feral dog,a dog,Who is Slasher ?,feral dog,a dog
+11c498b404bec5dee6cbf41e54a8b682851fb934,valid,Who is Slasher?,A feral dog.,a feral dog who once belonged to a murdered settler,Who is Slasher ?,A feral dog .,a feral dog who once belonged to a murdered settler
+1225b1acc92c2554e91c09639f86c1d75f8e9161,train,Who is Isabel's brother?,Pierre,Pierre,Who is Isabel s brother ?,Pierre,Pierre
+127e1efe32b11e606a0c8f49a2399abb4a52f9d9,valid,Who is pregnant?,Bess,Bess,Who is pregnant ?,Bess,Bess
+1284e77a2d72ec3a45540ada5416917eddd9f954,train,Who is Catherine to Joseph?,His mother.,mother,Who is Catherine to Joseph ?,His mother .,mother
+12d6955c88a3d48c00cde7853e47a4dcd5020b60,train,Who is Silas Pickman? ,The Apollinean Female Institute owner. ,Owner of Apollinean female Institute,Who is Silas Pickman ?,The Apollinean Female Institute owner .,Owner of Apollinean female Institute
+12ec522e344ec19702bc8bc74d85b4e5adf2d229,valid,Who is Eliza's favorite?,Mary's brother,Her son,Who is Eliza s favorite ?,Mary s brother,Her son
+1343fe0f3a4293a8d5a214cd30e857f9abe77ebb,train,Who is Nimmie Amee?,the ward of the Wicked Witch of the East who the Tinman loved,The Wicked Witch of the East's ward,Who is Nimmie Amee ?,the ward of the Wicked Witch of the East who the Tinman loved,The Wicked Witch of the East s ward
+1343fe0f3a4293a8d5a214cd30e857f9abe77ebb,train,Who is Ku-Klip?,The tinsmith.,He is the tinsmith.,Who is Ku-Klip ?,The tinsmith .,He is the tinsmith .
+1343fe0f3a4293a8d5a214cd30e857f9abe77ebb,train,Who is Nimmie Amee?,The ward of the Wicked Witch of the East who is loved by the Woodman.,The Wicked Witch of the East's ward.,Who is Nimmie Amee ?,The ward of the Wicked Witch of the East who is loved by the Woodman .,The Wicked Witch of the East s ward .
+141a5885bb6d8df56dadbd617b5dec7db102701d,train,Who was Pino?,Sal's  elder son,Sal's son ,Who was Pino ?,Sal s elder son,Sal s son
+141a5885bb6d8df56dadbd617b5dec7db102701d,train,Who is Tina?,Mookie's girlfriend. ,Mookie's girlfriend,Who is Tina ?,Mookie s girlfriend .,Mookie s girlfriend
+145200abf14baeffa646797dfbfa58861cb4b079,test,Who is Alpha?,Alpha is a doberman and the leader of a pack of dogs.,a doberman,Who is Alpha ?,Alpha is a doberman and the leader of a pack of dogs .,a doberman
+145200abf14baeffa646797dfbfa58861cb4b079,test,Who was Ellie to Carl?,his wife,Ellie is Carl's late wife.,Who was Ellie to Carl ?,his wife,Ellie is Carl s late wife .
+145200abf14baeffa646797dfbfa58861cb4b079,test,Who is 9 year old Carl Fredricksen's hero?,"Charles Muntz, a famous explorer",Charles Muntz.,Who is 9 year old Carl Fredricksen s hero ?,"Charles Muntz , a famous explorer",Charles Muntz .
+145200abf14baeffa646797dfbfa58861cb4b079,test,Who is Kevin?,"a colorful, flightless bird that Russell finds",A flightless bird. ,Who is Kevin ?,"a colorful , flightless bird that Russell finds",A flightless bird .
+14ed79ad4d7dbda55c43a696dc1366a71605ac58,train,Who is Mattie Fae?,Violet's sister.,Violet's sister,Who is Mattie Fae ?,Violet s sister .,Violet s sister
+14fc0de61e9e8044764da1fb9f647d8ceb60e561,test,Who is La Fleur to Yorick?,He is a servant who will join Yorick on his travels.,A servant,Who is La Fleur to Yorick ?,He is a servant who will join Yorick on his travels .,A servant
+14fc0de61e9e8044764da1fb9f647d8ceb60e561,test,Who was England at war with?,France,France,Who was England at war with ?,France,France
+150683ab8156bdc78ebd23a2ed7f7e265b780bd0,train,Who was Archibald Tuttle?,A suspected terrorist,a suspected terrorist and air conditioning specialist,Who was Archibald Tuttle ?,A suspected terrorist,a suspected terrorist and air conditioning specialist
+1508452704b5829941b98aeee2eeba192f5beae5,train,Who is Marcella?,Marcella is Martin's secretary.,Martin Black's secretary. ,Who is Marcella ?,Marcella is Martin s secretary .,Martin Black s secretary .
+1528f4c003dde308ae74bdec458466765944ca6a,test,Who was Margaret?,Paul's wife.,Paul's wife.,Who was Margaret ?,Paul s wife .,Paul s wife .
+1528f4c003dde308ae74bdec458466765944ca6a,test,Who was Tiffany?,Ted Waters girlfriend.,Ted Waters' girlfriend,Who was Tiffany ?,Ted Waters girlfriend .,Ted Waters ' girlfriend
+1528f4c003dde308ae74bdec458466765944ca6a,test,Who was Raymond?,Paul's brother,Paul's brother,Who was Raymond ?,Paul s brother,Paul s brother
+15329a294f5c4e40208bc75102fbd312f58599cb,test,Who is Lucas?,"A police officer monitoring Walter, wanting to catch him reoffending to bust him back to prison.",police officer,Who is Lucas ?,"A police officer monitoring Walter , wanting to catch him reoffending to bust him back to prison .",police officer
+15e5cdd93340ecf4ab97248e15f3870eb26bf10b,train,Who is David in relationship to Kirk?,His son.,David is Kirk's son.,Who is David in relationship to Kirk ?,His son .,David is Kirk s son .
+16380f54b88ffa64ca4cd82d3dc5481e78ad5118,test,WHO IS AMANDA TO BENHAM?,HIS WIFE,His wife.,WHO IS AMANDA TO BENHAM ?,HIS WIFE,His wife .
+16380f54b88ffa64ca4cd82d3dc5481e78ad5118,test,WHO IS PROTHERO TO BENHAM?,A CHILDHOOD SCHOOL FRIEND,His friend,WHO IS PROTHERO TO BENHAM ?,A CHILDHOOD SCHOOL FRIEND,His friend
+16380f54b88ffa64ca4cd82d3dc5481e78ad5118,test,Who was Amanda?,Benham's  wife,a young woman he loved passionately,Who was Amanda ?,Benham s wife,a young woman he loved passionately
+16380f54b88ffa64ca4cd82d3dc5481e78ad5118,test,Who was Prothero?,Benham's friend.,Benham's schoolboy friend,Who was Prothero ?,Benham s friend .,Benham s schoolboy friend
+166e4604f74997601e16793ca5af0f54bc2cc81c,train,Who is Roger St Luke's girlfriend?,Nurse Forsythe,Nurse Forsythe,Who is Roger St Luke s girlfriend ?,Nurse Forsythe,Nurse Forsythe
+167ec212289f7c34823629931c967090650c10dc,train,Who is behind the criminal operation?,Steven Reign,Steven Reign,Who is behind the criminal operation ?,Steven Reign,Steven Reign
+1718768b5be4356b36704d5876db8009916ecd0c,test,Who was Esther Bloomenbergensteinenthal?,Mordechai's love interest.,Mordecai's love interest and daughter of the leader of the Jewish Justice League,Who was Esther Bloomenbergensteinenthal ?,Mordechai s love interest .,Mordecai s love interest and daughter of the leader of the Jewish Justice League
+17272570cdcbfce7fda86ae35332b1fcae569c30,train,Who was Howard Doyle?,he was an actor from one of donalys opera soaps.,an actor,Who was Howard Doyle ?,he was an actor from one of donalys opera soaps .,an actor
+1773a177343713782c2437b460f5399aae80e18c,train,Who is Maggie to Adam?,Adam's daughter,His daughter,Who is Maggie to Adam ?,Adam s daughter,His daughter
+17f2e2685467b6eebf01d2a643e31f53ea215e91,test,Who is Florentina?,Pablo's beautiful cousin whom he's supposed to marry.,Pablo's cousin.,Who is Florentina ?,Pablo s beautiful cousin whom he s supposed to marry .,Pablo s cousin .
+1853a60c054cce3f34f9969c558141580b925085,train,WHO IS LITTLE CHRIS TO BIG CHRIS?,HIS SON,son,WHO IS LITTLE CHRIS TO BIG CHRIS ?,HIS SON,son
+18a67c48f4afdee5d95afd681e6e1787471b5f30,test,Who was Conan's predecessor as king?,Numedides.,Numedides,Who was Conan s predecessor as king ?,Numedides .,Numedides
+193805049ab9d8f8f745cee9d77d8d2ea8cc9a2d,train,Who was Lambert Strether fiancee?,Mrs Newsome,Marie de Vionnet,Who was Lambert Strether fiancee ?,Mrs Newsome,Marie de Vionnet
+193805049ab9d8f8f745cee9d77d8d2ea8cc9a2d,train,Who was  Little Bilham?,Chad's friend,A friend of Chads.,Who was Little Bilham ?,Chad s friend,A friend of Chads .
+193805049ab9d8f8f745cee9d77d8d2ea8cc9a2d,train,Who was Sarah Pocock?,Chad sisiter,Chad's sister,Who was Sarah Pocock ?,Chad sisiter,Chad s sister
+193805049ab9d8f8f745cee9d77d8d2ea8cc9a2d,train,Who was Marie de Vionnnet?,Jeanne's mother., lovely woman of impeccable manners,Who was Marie de Vionnnet ?,Jeanne s mother .,lovely woman of impeccable manners
+193805049ab9d8f8f745cee9d77d8d2ea8cc9a2d,train,Who was in the Inn with Chad?,Marie,Marie,Who was in the Inn with Chad ?,Marie,Marie
+194fd3c13f34b5a640280e7f43e59dbed66c215c,test,Who is Odin?,Odin is the king of Asgard. ,King of Asgard,Who is Odin ?,Odin is the king of Asgard .,King of Asgard
+194fd3c13f34b5a640280e7f43e59dbed66c215c,test,Who is Loki to Laufey?,Son,His son,Who is Loki to Laufey ?,Son,His son
+1a26b476901a0785835b0ebeecaae3a212b026ef,train,Who is Lucius?,Lucius is the son of Joseph Mason and his second wife.,Son of Lady Mason,Who is Lucius ?,Lucius is the son of Joseph Mason and his second wife .,Son of Lady Mason
+1aae28477e771b3af008ec59ce29086a1bc66776,test,Who is Lily to Leo?,Lily is Leo's sister,his sister,Who is Lily to Leo ?,Lily is Leo s sister,his sister
+1b0fb60ae65cb97ab4278e4296de48583fdaa269,train,Who is Holdebrooke?,His real name is Palmer and he was responsible for stashing the stolen money.,Palmer,Who is Holdebrooke ?,His real name is Palmer and he was responsible for stashing the stolen money .,Palmer
+1b458192e39bd7fdf10e69d6b975844a211e72a9,train,Who was Jerry's brother?,Michael,michael,Who was Jerry s brother ?,Michael,michael
+1b458192e39bd7fdf10e69d6b975844a211e72a9,train,Who was Jerry's brother?,Michael,michael,Who was Jerry s brother ?,Michael,michael
+1c5ca93baf311815addd6b6fa1cdb23dd8c35b4a,train,Who was Bella Swan boyfriend?,Edward Cullen,Edward,Who was Bella Swan boyfriend ?,Edward Cullen,Edward
+1c5ca93baf311815addd6b6fa1cdb23dd8c35b4a,train,Who was Jasper?,Edward brother,Edward's brother,Who was Jasper ?,Edward brother,Edward s brother
+1c5ca93baf311815addd6b6fa1cdb23dd8c35b4a,train,Who was Alice?,Edward sister,Edward's sister,Who was Alice ?,Edward sister,Edward s sister
+1cb9eac7e7352cd7cac800000c09c244ae2ce13f,train,Who is Virgil Samms?,"He is the first Lensmen, a man of bravery and very incorruptible.",the founder of the galactic Patrol,Who is Virgil Samms ?,"He is the first Lensmen , a man of bravery and very incorruptible .",the founder of the galactic Patrol
+1d6b5926027e0ce1ae376bbd4798fa6a93c7a548,train,Who is Henry's wife?,Debbie,debbie,Who is Henry s wife ?,Debbie,debbie
+1da161b6007d46d85eda16ae391e1e78218fabd2,test,Who is Bruce's employer?,Eyewitness News WKBW-TV,WKBW-TV,Who is Bruce s employer ?,Eyewitness News WKBW-TV,WKBW-TV
+1dcd41b8faacf141817133954ff78291593520b5,train,Who is Lady Lundies brother-in-law?,Sir Patrick Lundie,Sir Patrick Lundie,Who is Lady Lundies brother-in-law ?,Sir Patrick Lundie,Sir Patrick Lundie
+1e44e31fb8bb26dc8aae3ca3cd7131acb59a447f,train,Who was Margaret Brandt?,Gerard's  husband.,Margaret Roger,Who was Margaret Brandt ?,Gerard s husband .,Margaret Roger
+1f3c4d904224764b1305205dfa99eae47c63240b,train,Who is Ignosi king of?,King of the Kukuanas.,Kukuanas,Who is Ignosi king of ?,King of the Kukuanas .,Kukuanas
+1f8e03c7b6a6864108933fba1906455f78e4cfa6,train,Who is Hellboy?,An infant demon with a right hand made of stone.,An infant demon. ,Who is Hellboy ?,An infant demon with a right hand made of stone .,An infant demon .
+20f1cc76a6b149b417e0d9943c7f2caac3a04875,train,Who is John Cedar?,The late Martin Semple's attorney.,Martin Semple's attorney.,Who is John Cedar ?,The late Martin Semple s attorney .,Martin Semple s attorney .
+2114ee4681976de8a9d75d0e411ccc47bfa1caa3,train,WHO IS RONNIE TO KALE?,HIS BEST FRIEND.,Best friend,WHO IS RONNIE TO KALE ?,HIS BEST FRIEND .,Best friend
+2114ee4681976de8a9d75d0e411ccc47bfa1caa3,train,WHO IS KALE TO JULIE?,HER SON,Son,WHO IS KALE TO JULIE ?,HER SON,Son
+2132babdf6d70933760a9d8e9c6ac5c3305ed253,valid,Who is Carl Hughes?,Chris Hughes' adoptive father. ,He's Chris' dad.,Who is Carl Hughes ?,Chris Hughes ' adoptive father .,He s Chris ' dad .
+214cb5277750c1ccddec0b10fa545c3c78c45f64,test,Who is Maleficent's daughter?,Mal,Mal,Who is Maleficent s daughter ?,Mal,Mal
+216a7a5535571aae2842944a3529fae1f664cb0f,train,Who is Marie's fiance?,Victor de Gisons,Victor de Gisons,Who is Marie s fiance ?,Victor de Gisons,Victor de Gisons
+229bcf6a72dbf68b2b074ab4266fa677da43f68d,train,Who is Eyolf?,Eyolf was the son of Alfred ans Rita,son of Alfred & Rita,Who is Eyolf ?,Eyolf was the son of Alfred ans Rita,son of Alfred & Rita
+229bcf6a72dbf68b2b074ab4266fa677da43f68d,train,Who is  Astar?,Alfred's sister,Alfred's sister,Who is Astar ?,Alfred s sister,Alfred s sister
+22d1af3e29dc599ec0634fe860359027adea6944,test,Who is Grayes' employer?,Miss Aldclyffe,Miss Aldclyffe,Who is Grayes ' employer ?,Miss Aldclyffe,Miss Aldclyffe
+22d1af3e29dc599ec0634fe860359027adea6944,test,Who is Grayes' brother?,Edward,the local rector,Who is Grayes ' brother ?,Edward,the local rector
+22d80f4823a64ed818417fcf2d172222f0f18bbf,train,Who is Darryl? ,Darryl is Marcus' best friend,Marcus's best friend,Who is Darryl ?,Darryl is Marcus ' best friend,Marcus s best friend
+23fa36d9def95414a50968d216460d52f3dd3653,train,Who is Ventidius?,A Roman General,A Roman general,Who is Ventidius ?,A Roman General,A Roman general
+2527b96b0a25841507a88966736c4e40181db6c9,train,Who is Angelo Dundee?,Clay's trainer/manager.,Ali's trainer and manager.,Who is Angelo Dundee ?,Clay s trainer/manager .,Ali s trainer and manager .
+2527b96b0a25841507a88966736c4e40181db6c9,train,Who is Sonji Roi to Ali?,His first wife,His ex-wife.,Who is Sonji Roi to Ali ?,His first wife,His ex-wife .
+254ce2e2522625e70a10c88ef265769083049b46,train,Who was Botton Bright? ,A cute and weatlhly little boy.,a little boy,Who was Botton Bright ?,A cute and weatlhly little boy .,a little boy
+254ce2e2522625e70a10c88ef265769083049b46,train,Who was Polychrome?,Daughter of the rainbow.,The daughter of the rainbow,Who was Polychrome ?,Daughter of the rainbow .,The daughter of the rainbow
+254ce2e2522625e70a10c88ef265769083049b46,train,Who was Polychrome?,Polychrome was the daughter of Rainbow,the daughter of a rainbow,Who was Polychrome ?,Polychrome was the daughter of Rainbow,the daughter of a rainbow
+25643d5e536303284b5c4148ab4243671580adeb,train,Who is Remmo Gaggi?,The Chicago mafia boss.,A Mafia boss.,Who is Remmo Gaggi ?,The Chicago mafia boss .,A Mafia boss .
+25643d5e536303284b5c4148ab4243671580adeb,train,Who was Remo Gaggi?,Mafia boss,A mafia boss.,Who was Remo Gaggi ?,Mafia boss,A mafia boss .
+265fa34cf1f2c6145cce7ee9402bb3af6d898624,train,Who was a pathological liar?,Sam was a pathological liar.,Sam,Who was a pathological liar ?,Sam was a pathological liar .,Sam
+266f5b2295980ad31b5090a6c51b69055c87b3a7,train,Who is Elle's boyfriend?,Warner Huntington III,Warner,Who is Elle s boyfriend ?,Warner Huntington III,Warner
+269ffd1de413e4556ac009ffabd821a869fdf75d,train,Who is Clotilde?,Pascal's niece,Pascal's niece,Who is Clotilde ?,Pascal s niece,Pascal s niece
+269ffd1de413e4556ac009ffabd821a869fdf75d,train,Who is Tante Dide?,Pascal's grandmother,Pascal's grandmother,Who is Tante Dide ?,Pascal s grandmother,Pascal s grandmother
+269ffd1de413e4556ac009ffabd821a869fdf75d,train,Who is Antoine Macquart?,Pascal's alcoholic uncle,Felicite's brother-in-law. ,Who is Antoine Macquart ?,Pascal s alcoholic uncle,Felicite s brother-in-law .
+26da72cfd563728fc90c2a808a9c6f076fa4e815,train,Who is Carnegie's mistress?,Claudia,Claudia,Who is Carnegie s mistress ?,Claudia,Claudia
+26da72cfd563728fc90c2a808a9c6f076fa4e815,train,Who is Claudia?,Carnegie's blind mistress.,Carnegie's mistress who is blind,Who is Claudia ?,Carnegie s blind mistress .,Carnegie s mistress who is blind
+27118c9662889769c25d52ff3b870b596d743518,valid,Who is Pandarus?,Criseyde's uncle.,Criseyde's uncle,Who is Pandarus ?,Criseyde s uncle .,Criseyde s uncle
+27118c9662889769c25d52ff3b870b596d743518,valid,Who is Calchas' daughter?,Criseyde,Cirseyde ,Who is Calchas ' daughter ?,Criseyde,Cirseyde
+276006bb1b1bd92dca33b940d92fdb97b818f906,test,Who is Laura Newton?,The President's daughter.,The president's daughter.,Who is Laura Newton ?,The President s daughter .,The president s daughter .
+276006bb1b1bd92dca33b940d92fdb97b818f906,test,Who is Robert Scott?,A former Force Recon Master Gunnery Sergeant.,A delta force cadre member.  ,Who is Robert Scott ?,A former Force Recon Master Gunnery Sergeant .,A delta force cadre member .
+27ad3a0a84489109ca5d3cc4bf3b8b74a7b8ed9a,train,Who is a child psychologist in Philadelphia?,Dr. Malcolm Crowe,Dr. Malcolm Crowe.,Who is a child psychologist in Philadelphia ?,Dr. Malcolm Crowe,Dr. Malcolm Crowe .
+295d5533ffd87d5ff68f51902e13559bac902085,train,Who is Jeffrey Aspern?,A dead American poet who has become famous,A famous and now dead American poet,Who is Jeffrey Aspern ?,A dead American poet who has become famous,A famous and now dead American poet
+295d5533ffd87d5ff68f51902e13559bac902085,train,Who is Jeffrey Aspern?,a famous dead American poet,A dead American poet. ,Who is Jeffrey Aspern ?,a famous dead American poet,A dead American poet .
+295d5533ffd87d5ff68f51902e13559bac902085,train,Who was Jeffrey to Juliana?,An old lover,An old lover.,Who was Jeffrey to Juliana ?,An old lover,An old lover .
+29b3a0b4e9bd807c59912ec69f4617e1fa5c6a3e,test,Who is Mirabell's former lover?,Mrs. Fainall,Mrs. Fainall,Who is Mirabell s former lover ?,Mrs. Fainall,Mrs. Fainall
+29b3a0b4e9bd807c59912ec69f4617e1fa5c6a3e,test,Who is Lady Wishfort's female servant?,Foible,Foible,Who is Lady Wishfort s female servant ?,Foible,Foible
+2a5fa9ea07b66ac0c558f0148e79aa8f48d2d773,train,Who is Bartley's mistress?,Hilda,Hilda Burgoyne.,Who is Bartley s mistress ?,Hilda,Hilda Burgoyne .
+2a74184610bf91866dbdf37cba0b874dfc748a86,valid,Who is Cratylus?,He is a disciple of Heraclitus.,A disciple of Heraclitus.,Who is Cratylus ?,He is a disciple of Heraclitus .,A disciple of Heraclitus .
+2a74184610bf91866dbdf37cba0b874dfc748a86,valid,Who is Cratylus a disciple of?,Hericlitus ,Heraclitus.,Who is Cratylus a disciple of ?,Hericlitus,Heraclitus .
+2b0d41cec61dc3b7faf7a011051cdbcacb55050b,train,Who is Leonard Merch?,Leonard Merch is a rapist that is blamed for Robin's death.,A rapist.,Who is Leonard Merch ?,Leonard Merch is a rapist that is blamed for Robin s death .,A rapist .
+2b5468141ef0e57d4635249e7d9d9ff6039d18f4,train,Who is Jasper Leigh?,The person employed by Lionel to kidnap his brother Oliver. ,The man who kidnapped Oliver,Who is Jasper Leigh ?,The person employed by Lionel to kidnap his brother Oliver .,The man who kidnapped Oliver
+2b5d19eb7767f089cf6b5cee04106b964962eb00,train,Who is Tugg's agent?,Rick Peck,rick peck,Who is Tugg s agent ?,Rick Peck,rick peck
+2b9fe583527a8ceb95eea02144cd628a961c2ad4,train,Who is Jody's girlfriend?,Dil,Dil,Who is Jody s girlfriend ?,Dil,Dil
+2c882e70f540d28c884fcedd83fc2c893c6dcbdf,train,Who is Jennie's daughter?,Vesta.,Vesta,Who is Jennie s daughter ?,Vesta .,Vesta
+2c882e70f540d28c884fcedd83fc2c893c6dcbdf,train,Who is Vesta?,Jennies daughter,Jennies daughter,Who is Vesta ?,Jennies daughter,Jennies daughter
+2c882e70f540d28c884fcedd83fc2c893c6dcbdf,train,Who is Letty?,A rich widow who marries Lester,An affluent widow who marries Kane.,Who is Letty ?,A rich widow who marries Lester,An affluent widow who marries Kane .
+2caed8cd33002af756cef1c108986384a0b7066b,train,Who is Maria?,Harold's neighbor whom he likes.,Harold's neighbor and love interest.,Who is Maria ?,Harold s neighbor whom he likes .,Harold s neighbor and love interest .
+2caed8cd33002af756cef1c108986384a0b7066b,train,Who was Harold Lee?,He is an investment banker.,An investment banker.,Who was Harold Lee ?,He is an investment banker .,An investment banker .
+2caed8cd33002af756cef1c108986384a0b7066b,train,Who was Maria?,Harold's neighbor.,Harold's neighbor,Who was Maria ?,Harold s neighbor .,Harold s neighbor
+2cf851eeec79ada442b42d8d17d99cf24dbbb157,train,Who is an amateur dramatist? ,Littlewit,Littlewit,Who is an amateur dramatist ?,Littlewit,Littlewit
+2cf851eeec79ada442b42d8d17d99cf24dbbb157,train,Who is Littlewit's Mother-in-Law? ,Dame Purecraft,Dame Purecraft,Who is Littlewit s Mother-in-Law ?,Dame Purecraft,Dame Purecraft
+2cf851eeec79ada442b42d8d17d99cf24dbbb157,train,Who is Dame Purecraft to Littlewit?,His mother-in-law.,Mother in Law.,Who is Dame Purecraft to Littlewit ?,His mother-in-law .,Mother in Law .
+2dd23dbf75e37c1f35eb8e2e317a36b7033495d0,train,Who is against the Dalai Lama and religion?,Mao Zedong,Mao Zedong,Who is against the Dalai Lama and religion ?,Mao Zedong,Mao Zedong
+2e3b266eda62694b15254616844a26d972f5939b,test,Who was Graeme's prisoner?,Isabel,Isabel Vere,Who was Graeme s prisoner ?,Isabel,Isabel Vere
+2e3b266eda62694b15254616844a26d972f5939b,test,Who is Jedediah Cleishbotham?,A fictional editor of the Landlord series.,fictional editor,Who is Jedediah Cleishbotham ?,A fictional editor of the Landlord series .,fictional editor
+2f413edcd92b785fe7bf948138fde95c1a1d2b9c,test,Who is Vanessa?,Fait's daughter and Ling's girlfriend,Fait's daughter,Who is Vanessa ?,Fait s daughter and Ling s girlfriend,Fait s daughter
+2fc2cfddbe1ca72a7c2ae750a6c8b656dad60f9b,test,Who is Saul's supplier?,Red,Red,Who is Saul s supplier ?,Red,Red
+301cb14d65a257ef05cf122e2c0635b531d6e33c,train,Who is Lina?,Lina is the creature who accompanies Curdie on his way to Gwynystrom.,Curdie's beast companion,Who is Lina ?,Lina is the creature who accompanies Curdie on his way to Gwynystrom .,Curdie s beast companion
+311862def6b1e7d1cdf16a9b797f554e1dce866f,train,Who is Tommy's childhood sweetheart?,Nan,Nan,Who is Tommy s childhood sweetheart ?,Nan,Nan
+311862def6b1e7d1cdf16a9b797f554e1dce866f,train,Who is Tommy's childhood freind?,Nan,Nan,Who is Tommy s childhood freind ?,Nan,Nan
+311862def6b1e7d1cdf16a9b797f554e1dce866f,train,Who is bhaer's nephew?,Emil,Emil,Who is bhaer s nephew ?,Emil,Emil
+31783db2180c4e27c1e7f920ce9433111cc676b2,test,Who is severely wounded?,Luka,Luka.,Who is severely wounded ?,Luka,Luka .
+317fe46b2903da739b059733cd618db6ca49a494,train,Who is Jeff Lebowski?,Jeff Lebowski is also known as The Dude.,a slacker,Who is Jeff Lebowski ?,Jeff Lebowski is also known as The Dude .,a slacker
+31c7eca71291b68f55dec4af7e61b6bcae8c5a8a,valid,Who is Pelagia?,Phiammon's long lost sister. ,Philammon's sister,Who is Pelagia ?,Phiammon s long lost sister .,Philammon s sister
+31c7eca71291b68f55dec4af7e61b6bcae8c5a8a,valid,Who is Pelagia?,Philammon's long lost sister,Plilammon's long-lost sister,Who is Pelagia ?,Philammon s long lost sister,Plilammon s long-lost sister
+31c7eca71291b68f55dec4af7e61b6bcae8c5a8a,valid,Who is Philammon's sister?,Pelagia.,Peligia,Who is Philammon s sister ?,Pelagia .,Peligia
+31ce5b74112c35db9004ecd486c543e9373f5d53,train,Who is Caesar?,He is Bright Eyes' baby.,Bright eyes' offspring.,Who is Caesar ?,He is Bright Eyes ' baby .,Bright eyes ' offspring .
+31ce5b74112c35db9004ecd486c543e9373f5d53,train,Who is Caesar?,Bright Eyes' infant.,Chimp ,Who is Caesar ?,Bright Eyes ' infant .,Chimp
+331adcaf22f837c92a3c9ec6cc28b5a5c9689373,test,Who is John Carter?,The warlord of Mars?,Warlord of Mars,Who is John Carter ?,The warlord of Mars ?,Warlord of Mars
+331adcaf22f837c92a3c9ec6cc28b5a5c9689373,test,Who is Carthoris' parents?,John Carter & Dejah Thoris of Helium,John Carter and Dejah Thoris,Who is Carthoris ' parents ?,John Carter & Dejah Thoris of Helium,John Carter and Dejah Thoris
+331adcaf22f837c92a3c9ec6cc28b5a5c9689373,test,Who is princess of Ptarth?,Thuvia,Thuvia,Who is princess of Ptarth ?,Thuvia,Thuvia
+33563aed8b26142ec99e57b67fe18f21f7c1c794,train,Who is Boone's girlfriend?,Lori Winston,Lori,Who is Boone s girlfriend ?,Lori Winston,Lori
+344cddeff8cb90fe176ea9809fd8d3169a7dba34,test,Who is Austin to Maud?,Her father.,her father,Who is Austin to Maud ?,Her father .,her father
+34d16136feb3eba74060953631414400f9a3cb20,train,Who is Edward Scrope?,Lord Bishop of Princhester,Lord Bishop of Princhester.,Who is Edward Scrope ?,Lord Bishop of Princhester,Lord Bishop of Princhester .
+350c0f8265c2d1183fd9a7e2a92c748998ac8775,test,Who is David's captive?,A reptilian Mahar,A Mahar,Who is David s captive ?,A reptilian Mahar,A Mahar
+3513ebaa62106c8e80a0c9723eb456f28950adb8,valid,Who is George Monck?,Governor of Scottland,Governor of Scotland,Who is George Monck ?,Governor of Scottland,Governor of Scotland
+3513ebaa62106c8e80a0c9723eb456f28950adb8,valid,Who was Spitfire?,Wildrakes page.,Wildrake page,Who was Spitfire ?,Wildrakes page .,Wildrake page
+35891de62bab83d5b312ddeb835c7e0b245e3282,test,Who was Keaton's lawyer?,Edie Finneran,Edie Finneran,Who was Keaton s lawyer ?,Edie Finneran,Edie Finneran
+35ae42f3419e73b7c7357c222e494eaa4161026b,train,Who is Darla?,Sarah's mother,Sarah's mother ,Who is Darla ?,Sarah s mother,Sarah s mother
+361364f57460139410c4130a1e7a58caf152c2bd,train,Who is Flor Moreno to Christina Moreno?,Mother.,she is her mother,Who is Flor Moreno to Christina Moreno ?,Mother .,she is her mother
+3634471ed994ee7d4f382d8e7edbc56de5c28c42,train,Who is Dickie to Herbert Greenleaf?,his son,His son,Who is Dickie to Herbert Greenleaf ?,his son,His son
+3634471ed994ee7d4f382d8e7edbc56de5c28c42,train,Who is Freddie Miles to Dickie?,His longtime friend.,friend,Who is Freddie Miles to Dickie ?,His longtime friend .,friend
+3675e52aa687967667e5769337f0378715da9e3b,train,Who is Isabel Lahiri?,the Europol detective investigating the stock certificate theft,Detective,Who is Isabel Lahiri ?,the Europol detective investigating the stock certificate theft,Detective
+36aeff55596623a6b66445379010c2a762ef920f,train,Who is Larsan's alter-ego?,Ballmeyer,Ballmeyer,Who is Larsan s alter-ego ?,Ballmeyer,Ballmeyer
+36aeff55596623a6b66445379010c2a762ef920f,train,Who is Darzac in relationship to Ms Stangerson?,He is her fiance,Fiance,Who is Darzac in relationship to Ms Stangerson ?,He is her fiance,Fiance
+36aeff55596623a6b66445379010c2a762ef920f,train,Who is Ballmeyer's alter-ego?,Detective Larson,Frederic Larsan,Who is Ballmeyer s alter-ego ?,Detective Larson,Frederic Larsan
+36cdfca4aa4ecf0692b4c17f8fdc5c22dcf4d2e5,test,Who is Stella?,Stella is Uri's accountant and the object of his affection.,She is Uri's accountant,Who is Stella ?,Stella is Uri s accountant and the object of his affection .,She is Uri s accountant
+36ce1aa16abd65ad7265a9601631209bb4f0c347,train,Who is Luhmberg?,"Peter's boss, the Vice President of Initech.",Initech's vice-president,Who is Luhmberg ?,"Peter s boss , the Vice President of Initech .",Initech s vice-president
+3747036f950fe8f79cdaa0eb713104b9eb8af6c5,test,Who is Tommy Johnson?,A young black man they pick up on the road.,A young black man,Who is Tommy Johnson ?,A young black man they pick up on the road .,A young black man
+37fa67ed55fc62766b9a5f0edcafcc360131aebb,train,Who is Gerald jealous of?,Loerke,Gudrun,Who is Gerald jealous of ?,Loerke,Gudrun
+3886c254e53796b195d75a1208bdaf0ade8ffd9c,train,Who is Dr Margo?,Biologist ,An evolutionary biologist,Who is Dr Margo ?,Biologist,An evolutionary biologist
+38e24416d39a0a285ef1693adad25c9ed0c94487,train,Who is Mirtha in relation to George?,His wife,His wife. ,Who is Mirtha in relation to George ?,His wife,His wife .
+3907cf252b326a524485348ba766c9d55b691ed2,train,Who was behind the bedroom door?,Madeline.,Madeline,Who was behind the bedroom door ?,Madeline .,Madeline
+3988c295053fe9eb18747b735259fe78a7e760fd,test,Who is Archibald Molfam's father-in-law?,Daniel Brewster,Daniel Brewster,Who is Archibald Molfam s father-in-law ?,Daniel Brewster,Daniel Brewster
+3988c295053fe9eb18747b735259fe78a7e760fd,test,Who is Lucille?,Archie's wife.,Archie's wife,Who is Lucille ?,Archie s wife .,Archie s wife
+39ab35eb8bdecda3cfd79433774fc63c7c699171,train,Who is Bettina in relation to Rosalie?,her sister,Her sister ,Who is Bettina in relation to Rosalie ?,her sister,Her sister
+39b1f44ec2639226b6025140e2a7e7eaf570409e,train,Who is Lisa's brother?,Richie,Richie,Who is Lisa s brother ?,Richie,Richie
+39c5eed544ceeb78eb3202d040eb35361d96945f,valid,Who is Valka?,Hiccup's mother who was believed dead.,Hiccup's mother,Who is Valka ?,Hiccup s mother who was believed dead .,Hiccup s mother
+39c9fc154b2cc4030d2732fab674fc246eb28aed,test,Who is Benjamin Baker?,a barber,Sweeney Todd,Who is Benjamin Baker ?,a barber,Sweeney Todd
+39c9fc154b2cc4030d2732fab674fc246eb28aed,test,Who is Sweeney Todd's daughter?,Johanna,Johanna,Who is Sweeney Todd s daughter ?,Johanna,Johanna
+39f11774cd462fe3c40283af7c3778d18b78acb9,train,Who is Dante's current girlfriend?,Veronica Loughran,Vernonica,Who is Dante s current girlfriend ?,Veronica Loughran,Vernonica
+39f11774cd462fe3c40283af7c3778d18b78acb9,train,Who is Caitlin Bree?,Dante's high school girlfriend.,A high school girlfriend of Dante's,Who is Caitlin Bree ?,Dante s high school girlfriend .,A high school girlfriend of Dante s
+39fcd8f28d3cf91de459a71953a9ecaaea9f82b5,train,Who is Gray the paid compaion to?,Rosamund Hunt,Rosamund Hunt,Who is Gray the paid compaion to ?,Rosamund Hunt,Rosamund Hunt
+39fcd8f28d3cf91de459a71953a9ecaaea9f82b5,train,Who is Smith's prosecutor?,Moses Gould,Moses Gould,Who is Smith s prosecutor ?,Moses Gould,Moses Gould
+3a82541bb17890577626925533f6549efe5cf08e,test,Who is Marat Buzhayev?,The owner of the night club.,Bobby's boss,Who is Marat Buzhayev ?,The owner of the night club .,Bobby s boss
+3aebde6419420eb6b02f3d21541565001cc7c695,valid,Who is Clough's longtime assistant?,Peter Taylor.,Peter Taylor,Who is Clough s longtime assistant ?,Peter Taylor .,Peter Taylor
+3b017861cf026262a8fa4a2027a51f3218d38b13,train,Who is Ozias Midwinter's stepfather?,Mr. Neal,Mr Neal,Who is Ozias Midwinter s stepfather ?,Mr. Neal,Mr Neal
+3b2427be8d3bbfe55590d1ce307f778ede5bbcd9,train,Who is Larry?,Frank's brother,Frank's brother,Who is Larry ?,Frank s brother,Frank s brother
+3b2427be8d3bbfe55590d1ce307f778ede5bbcd9,train,Who is Kristy?,Larry and Julia's daughter.,Larry's daughter,Who is Kristy ?,Larry and Julia s daughter .,Larry s daughter
+3b44f7e2fd553e6026c16fac3b179346a49647a3,train,Who is Edwards's brother? ,"Edmund, Earl of Kent","Edmund, Earl of Kent",Who is Edwards s brother ?,"Edmund , Earl of Kent","Edmund , Earl of Kent"
+3b8b81b1451f953bfb01844ddd98542956290829,train,Who is responsible for the mysterious events?,Robur,Robur,Who is responsible for the mysterious events ?,Robur,Robur
+3bbc2ac0b3ad1f68b4d7cf3d27e26a06268a80d1,test,Who is Patty?,Phoebe's maid.,Phoebe's maid.,Who is Patty ?,Phoebe s maid .,Phoebe s maid .
+3c386a5d7ed42d052b9dfb9c609e6c11015196b4,train,Who is Carmela to Vito Corleone?,Carmela is Vito Corleone's spouse. ,wife,Who is Carmela to Vito Corleone ?,Carmela is Vito Corleone s spouse .,wife
+3c3dcc7b23c9b81de635e563ed1ee52b52a895c0,train,Who is William?,Kaiser Wilhelm II.,Kaiser Wlihelm II,Who is William ?,Kaiser Wilhelm II .,Kaiser Wlihelm II
+3c55bc1a4ea2c18df8939f9e849eef88150088dd,test,Who is Engels?,The eldest son of textile industrialist,"eldest son of a successful German textile industrialist, and got involved with radical journalism during his formative years",Who is Engels ?,The eldest son of textile industrialist,"eldest son of a successful German textile industrialist , and got involved with radical journalism during his formative years"
+3c5a131da6f43e2f92dce91aa238e6782e428748,valid,Who is Indian Jones' son?,Mutt Williams,Mutt,Who is Indian Jones ' son ?,Mutt Williams,Mutt
+3d20c51d711c74ec6eedf15e7550f70ed6d17e6f,test,Who was Henry Playel?,The brother of Theodore's wife Catherine and Clara's love interest.,catharine's brother,Who was Henry Playel ?,The brother of Theodore s wife Catherine and Clara s love interest .,catharine s brother
+3d248aa8bba34b3f5199c1aed1443b9fa3395d03,train,Who is Pete Dayton?,A young auto mechanic who was found in place of Fred at the prison cell.,A young auto mechanic who was found in Franks cell,Who is Pete Dayton ?,A young auto mechanic who was found in place of Fred at the prison cell .,A young auto mechanic who was found in Franks cell
+3d248aa8bba34b3f5199c1aed1443b9fa3395d03,train,Who is Eddie's mistress?,Alice Wakefield,alice wakefield,Who is Eddie s mistress ?,Alice Wakefield,alice wakefield
+3d59cad31537c384e1fde9cc33c518595115a621,train,Who is Frederick Lovel?,Earl Lovel's distant cousin.,Lord Lovel's distant cousin.,Who is Frederick Lovel ?,Earl Lovel s distant cousin .,Lord Lovel s distant cousin .
+3dddbcc83358a72adfd1c957ae3cbfc1d194a143,test,WHO IS MADAME D'ESTREES TO KITTY BRISTOL?,HER MOTHER,Her mother,WHO IS MADAME D'ESTREES TO KITTY BRISTOL ?,HER MOTHER,Her mother
+3e1d81664f7e7386e7b392ba670be09e3cf857ab,test,Who is Ellen to Rosemary?,Her sister,Ellen is Rosemary's sister.,Who is Ellen to Rosemary ?,Her sister,Ellen is Rosemary s sister .
+3e7f4a7762e1820edce17e273d8d03791647c9ae,train,Who is Edmund Widowson?,Monica Madden's husband.,Monicas husband.,Who is Edmund Widowson ?,Monica Madden s husband .,Monicas husband .
+3e9236a2abd5ae86c11292235cde0648042a60a0,train,Who is Luke Rowan?,A man from London who inherited an interest in a local brewery. ,part owner of a local brewery and the young man Rachel falls in love with,Who is Luke Rowan ?,A man from London who inherited an interest in a local brewery .,part owner of a local brewery and the young man Rachel falls in love with
+3e9666459feb414586d9d23b51c8a020bacc150a,train,Who is Attwater?,An upper-class Englishman they discovered at an unknown island,an upper class English man living on an island,Who is Attwater ?,An upper-class Englishman they discovered at an unknown island,an upper class English man living on an island
+3ed7c9dd02debf305c8bcf19afc9860e8d395d61,test,Who is Gallegos' low-level street supplier?,Eddie Dudley,Eddie Dudley.,Who is Gallegos ' low-level street supplier ?,Eddie Dudley,Eddie Dudley .
+3ef60c15b2829459347df39e18ba10598e57e743,train,Who is Patrick?,He is the leader of the cult.,The leader of the cult Martha became involved in.,Who is Patrick ?,He is the leader of the cult .,The leader of the cult Martha became involved in .
+3f596a5be9de38b6f63b6c4b92021fe78d403e80,test,Who is Savrola?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Who is Savrola?                                                                                                                                                                                                                                                       ,The revolution leader.,Savrola is a leader of the revolutionaries during the civil war.,Who is Savrola ? Who is Savrola ?,The revolution leader .,Savrola is a leader of the revolutionaries during the civil war .
+401274da0bb38ce2581280e3b557744d176bd66f,train,Who is Racer X?,Rex Racer.,"Racer X is Speed's brother, Rex, in disguise.",Who is Racer X ?,Rex Racer .,"Racer X is Speed s brother , Rex , in disguise ."
+403479540337f035a011f0ea84b4770e31e18207,test,Who is McClane's wife?,Holly,holly,Who is McClane s wife ?,Holly,holly
+405df1ccf0409ea6040c2a765a0315878f991d79,train,Who is Henry's mistress?,Janice Rossi,Janice Rossi,Who is Henry s mistress ?,Janice Rossi,Janice Rossi
+407624e45c153cdd848f539d37ca8b5d448f9580,train,Who is Vada?,She is an 11-year old tomboyish girl.,an 11 year old tomboyish girl,Who is Vada ?,She is an 11-year old tomboyish girl .,an 11 year old tomboyish girl
+407624e45c153cdd848f539d37ca8b5d448f9580,train,Who is Thomas J. Sennett?,He is Vada's best friend who has too many allergies to count,an unpopular boy with a lot of allergies,Who is Thomas J. Sennett ?,He is Vada s best friend who has too many allergies to count,an unpopular boy with a lot of allergies
+40a0872b40344eac6dfdc73e7bbb984e5ac49bac,train,Who is Bini Aru?,Kiki's father,a munchkin,Who is Bini Aru ?,Kiki s father,a munchkin
+411d53d3c5c42990aebb7cb0bf4964f8d0a6f0bc,train,Who is Bruno?,Bruno is Sonny Red's son.,Sonny Red's son,Who is Bruno ?,Bruno is Sonny Red s son .,Sonny Red s son
+411d53d3c5c42990aebb7cb0bf4964f8d0a6f0bc,train,Who is Richie Gazzo?,Richie is a FBI agent based in Miami.,FBI Agent,Who is Richie Gazzo ?,Richie is a FBI agent based in Miami .,FBI Agent
+416afcae95d4bf4b661db770cab8fd7ede5a06f7,train,Who is their regular accomplice?,Bang Bang,Bang Bang a explosive expert.,Who is their regular accomplice ?,Bang Bang,Bang Bang a explosive expert .
+416afcae95d4bf4b661db770cab8fd7ede5a06f7,train,Who is Penelope?,A rich socialite from New Jersey,A rich heiress.,Who is Penelope ?,A rich socialite from New Jersey,A rich heiress .
+424b3b5481b6fa3c49c83f8c347e7ccac9ceb163,train,Who is Deborah to Wolfe?,She is his cousin.,She is his cousin.,Who is Deborah to Wolfe ?,She is his cousin .,She is his cousin .
+424b3b5481b6fa3c49c83f8c347e7ccac9ceb163,train,Who is Wolfe's cousin?,Deborah,Deborah,Who is Wolfe s cousin ?,Deborah,Deborah
+424b3b5481b6fa3c49c83f8c347e7ccac9ceb163,train,Who is Kirby's son?,Clarke,Clarke,Who is Kirby s son ?,Clarke,Clarke
+432cfe548f1f51045f8cba8f8f50e4e0e47a0771,train,Who was Maurice a secretary to? ,Count Octave,Count Octave.,Who was Maurice a secretary to ?,Count Octave,Count Octave .
+44287f57e8bc2b329dbd0d5750e6747781ae50fe,train,Who is Neverbend's son?,Jack,Jack,Who is Neverbend s son ?,Jack,Jack
+44287f57e8bc2b329dbd0d5750e6747781ae50fe,train,Who is Britanula's oldest citizen?,Gabriel Crasweller,Gabriel Crasweller,Who is Britanula s oldest citizen ?,Gabriel Crasweller,Gabriel Crasweller
+44287f57e8bc2b329dbd0d5750e6747781ae50fe,train,Who is Britannula's oldest citizen?,"Gabriel Crasweller, he was born in 1913",crawsweller ,Who is Britannula s oldest citizen ?,"Gabriel Crasweller , he was born in 1913",crawsweller
+44287f57e8bc2b329dbd0d5750e6747781ae50fe,train,Who is Abraham Grundle?,"a young senator that believe as Neverbend does, but is engaged to Crasweller's daughter",A young Senator.,Who is Abraham Grundle ?,"a young senator that believe as Neverbend does , but is engaged to Crasweller s daughter",A young Senator .
+44cd7b845627af65bf84e6ce3bfc8cfab5bf7b7c,train,Who is Diego to Emily?,one of her cases,one of her cases,Who is Diego to Emily ?,one of her cases,one of her cases
+456e5a330da462f6fca6766a90b843e47d288e9c,train,Who was Rantaine?,A swindler who stole money from Mess Lethierry.,A swindler who stole from Mess Lethierry in the past.,Who was Rantaine ?,A swindler who stole money from Mess Lethierry .,A swindler who stole from Mess Lethierry in the past .
+46117f49c49ea357ba44983898397b0f5643af05,train,Who is Nuflo?,Rima's grandfather,An old man who protects his granddaughter Rima.,Who is Nuflo ?,Rima s grandfather,An old man who protects his granddaughter Rima .
+46a5ee8bbf57f56ad5472e0712e98370b734145d,train,Who is a celebrity photographer?,John,Charlotte's husband John,Who is a celebrity photographer ?,John,Charlotte s husband John
+46c83ab910bbf794c07735c7d55af442a54d090b,train,Who is Patrick?,A lacuna employee who erases memories.,Lacuna's tech,Who is Patrick ?,A lacuna employee who erases memories .,Lacuna s tech
+46cf28a716c255263334b3baca9fc759c44d8766,train,Who is Chango?,A hit man. ,a hit-man,Who is Chango ?,A hit man .,a hit-man
+46e592f1fd929d9d815e5d48dad8e766c02e9ce5,train,Who is responsible for the death of Ethan?,Kym,Kym.,Who is responsible for the death of Ethan ?,Kym,Kym .
+48266045f2dbe4de0cea552d3ec8ffb541c5e182,train,Who is Irvings wife?,Rosalyn,Rosalyn,Who is Irvings wife ?,Rosalyn,Rosalyn
+485b86c3ffec91e89fbc846985944adc0cf73c80,test,Who is Indefer Jones' only male relative?,"His nephew, Henry Jones.",His nephew Henry Jones,Who is Indefer Jones ' only male relative ?,"His nephew , Henry Jones .",His nephew Henry Jones
+485b86c3ffec91e89fbc846985944adc0cf73c80,test,Who is Indefer's niece?,Isabel Brodrick,Isabel.,Who is Indefer s niece ?,Isabel Brodrick,Isabel .
+485b86c3ffec91e89fbc846985944adc0cf73c80,test,Who is Indefer's only male heir?,his nephew Henry Jones,Henry.,Who is Indefer s only male heir ?,his nephew Henry Jones,Henry .
+4928fbeba0cc0a49fee877943c00d3a155985efc,train,Who is Najid?,The son of Najma.,Najma's son,Who is Najid ?,The son of Najma .,Najma s son
+492dd783e10bce6daf818b550715b9e2c73252dc,train,Who is Voivode?,Parent of Teuta ,Teuta's dad ,Who is Voivode ?,Parent of Teuta,Teuta s dad
+492f2d56eba93816e7d0958e2ba62d36d93bc97e,test,Who is Chloe to Jessica?,her daughter,Her daughter.,Who is Chloe to Jessica ?,her daughter,Her daughter .
+492f2d56eba93816e7d0958e2ba62d36d93bc97e,test,Who is Horace?,An associate of both Max and Ruiz.,"Horrace is connected to Max and Ruiz, Bobby and Ricky meet him in New York",Who is Horace ?,An associate of both Max and Ruiz .,"Horrace is connected to Max and Ruiz , Bobby and Ricky meet him in New York"
+4a671a90328ce7556f2582b163269a5e4c5aa5db,train,Who is Michaela?,Jakob's second wife,Jakob's second wife. ,Who is Michaela ?,Jakob s second wife,Jakob s second wife .
+4a796aac281a1ec7280c9cf1bbf199757ad8a6f1,test,Who is Reginald Bliss?,A fictional character who is taking the writings of another fictional character and passing them off as his own.,a literary character,Who is Reginald Bliss ?,A fictional character who is taking the writings of another fictional character and passing them off as his own .,a literary character
+4a796aac281a1ec7280c9cf1bbf199757ad8a6f1,test,Who is Hallery?,One of Boon's characters who is obsessed with the Mind of the Race,"A person who is ""fanatically obsessed by [the] idea of the Mind of the Race.""",Who is Hallery ?,One of Boon s characters who is obsessed with the Mind of the Race,A person who is fanatically obsessed by [ the ] idea of the Mind of the Race .
+4a796aac281a1ec7280c9cf1bbf199757ad8a6f1,test,Who is Edwin Dodd?,A member of the Rationalist Press Association,A leading member of the Rationalist Press Association.,Who is Edwin Dodd ?,A member of the Rationalist Press Association,A leading member of the Rationalist Press Association .
+4b166acdb5c93528532ddc12451c7f0befb8d212,train,Who is Clemenza?,A Detective that investigates Frye,Clemenza is the detective investigating the case,Who is Clemenza ?,A Detective that investigates Frye,Clemenza is the detective investigating the case
+4b166acdb5c93528532ddc12451c7f0befb8d212,train,Who was Hilary Thomas in a romantic relationship with?,Detective Tony Clemenza,"Tony Clemenza, the detective",Who was Hilary Thomas in a romantic relationship with ?,Detective Tony Clemenza,"Tony Clemenza , the detective"
+4b5d8c80075afad5ee734fa4bc84a80574a02675,train,Who was behind the sniper killings?,A Russian gang.,Russian gang's boss,Who was behind the sniper killings ?,A Russian gang .,Russian gang s boss
+4b5d8c80075afad5ee734fa4bc84a80574a02675,train,Who is Barr's sister?,Rosemary,Rosemary,Who is Barr s sister ?,Rosemary,Rosemary
+4b687c107c958aa724d6cb584e692bb1b065caaf,train,Who is Carruthers?,A minor official in a foreign office,A minor official in the foreign office,Who is Carruthers ?,A minor official in a foreign office,A minor official in the foreign office
+4b687c107c958aa724d6cb584e692bb1b065caaf,train,Who is Dollman?,An ex-patriot Englishman who is trying to recover a hidden treasure on Memmert Island.,An expatriate Englishman,Who is Dollman ?,An ex-patriot Englishman who is trying to recover a hidden treasure on Memmert Island .,An expatriate Englishman
+4bb855bbb2a0da63ac5717c87aba8883b829201e,train,Who is Gabrielle?,One of Vaughan's followers,A member of Vaughan's Cult who hooks up with Ballard.,Who is Gabrielle ?,One of Vaughan s followers,A member of Vaughan s Cult who hooks up with Ballard .
+4bb855bbb2a0da63ac5717c87aba8883b829201e,train,Who is Catherine?,Mr. Ballard's wife,A film producers wife played by Debora Unger,Who is Catherine ?,Mr. Ballard s wife,A film producers wife played by Debora Unger
+4c428ffec939a3607a4da2e68ca684c03f6e8959,train,Who is Katharine's cousin?,Thomas Culpeper,Thomas Culpeper,Who is Katharine s cousin ?,Thomas Culpeper,Thomas Culpeper
+4c428ffec939a3607a4da2e68ca684c03f6e8959,train,Who is Lady Mary?,The king's eldest daughter,King Henry's eldest daughter.,Who is Lady Mary ?,The king s eldest daughter,King Henry s eldest daughter .
+4c428ffec939a3607a4da2e68ca684c03f6e8959,train,Who is Thomas Cromwell?,The Lord Privy Seal,The Lord Privy Seal,Who is Thomas Cromwell ?,The Lord Privy Seal,The Lord Privy Seal
+4d9f09db509c6ee9f523b2499ed019af1d762c21,test,Who is La?,La is the high priestess that serves the Flaming God of Opar.,A high priestess.,Who is La ?,La is the high priestess that serves the Flaming God of Opar .,A high priestess .
+4d9f09db509c6ee9f523b2499ed019af1d762c21,test,Who is Albert Werper?,Someone hired by a criminal to follow Tarzan.,Belgian officer,Who is Albert Werper ?,Someone hired by a criminal to follow Tarzan .,Belgian officer
+4d9f09db509c6ee9f523b2499ed019af1d762c21,test,Who is La?,The high priestess and servant to the Flaming God of Opar.,A priestess who is a servant of the Flaming God of Opar.,Who is La ?,The high priestess and servant to the Flaming God of Opar .,A priestess who is a servant of the Flaming God of Opar .
+4dcfb547a77a706c9436a0e1960c0a9ffd1ec18f,train,Who is Mary's Uncle?,Archibald Crane,Archibald Craven,Who is Mary s Uncle ?,Archibald Crane,Archibald Craven
+4e075eb7a0ce3017e38cfa6fe3e558591f36ea77,train,Who is their only visitor?,Danny,Local drug dealer Danny,Who is their only visitor ?,Danny,Local drug dealer Danny
+4e075eb7a0ce3017e38cfa6fe3e558591f36ea77,train,Who was Monty?,Withnail Uncle?,Withnail's uncle and a homosexual.,Who was Monty ?,Withnail Uncle ?,Withnail s uncle and a homosexual .
+4e959a5d22e1968a1950ac836a1ba0cc3edffa41,valid,Who is Mrs.Graham's son?,Arthur.,Arthur.,Who is Mrs.Graham s son ?,Arthur .,Arthur .
+4e959a5d22e1968a1950ac836a1ba0cc3edffa41,valid,Who is Mr Lawrence to Mrs Helen Graham?,Her brother.,her brother,Who is Mr Lawrence to Mrs Helen Graham ?,Her brother .,her brother
+4f17e590323c45bf12f789e5990d6ab90698671a,train,Who is Tess?,Sam Bells wife.,Sam's wife,Who is Tess ?,Sam Bells wife .,Sam s wife
+505d50d3d0e05c17a28348c30da57b00118b81fd,train,Who is Bajazeth?,The Emperor of the Turks.,Emporer of Turks,Who is Bajazeth ?,The Emperor of the Turks .,Emporer of Turks
+505d50d3d0e05c17a28348c30da57b00118b81fd,train,Who is Callapine?,Bajazeth's son,son of bajazeth,Who is Callapine ?,Bajazeth s son,son of bajazeth
+505d50d3d0e05c17a28348c30da57b00118b81fd,train,Who is Bajazeth?,Emperor of the Turks,Emperor of the Turks,Who is Bajazeth ?,Emperor of the Turks,Emperor of the Turks
+505d50d3d0e05c17a28348c30da57b00118b81fd,train,Who is Bajazeth's wife?,Zabina,Zabina,Who is Bajazeth s wife ?,Zabina,Zabina
+518b93650f7e95289f694bccd0fd9f2da1d12369,train,Who is Commodore Hawser Trunnion?,An old seaman who raises Peregrine Pickle.,a seaman and misogynist,Who is Commodore Hawser Trunnion ?,An old seaman who raises Peregrine Pickle .,a seaman and misogynist
+518b93650f7e95289f694bccd0fd9f2da1d12369,train,Who is Emelia?,Peregrine's wife,Peregrines beloved,Who is Emelia ?,Peregrine s wife,Peregrines beloved
+522b857d537c17bcf6d7457e7b567a7fd50e9f0d,train,Who is Anatole?,Aunt Dahlia's prized chef.,Aunt Dahlia's chef.,Who is Anatole ?,Aunt Dahlia s prized chef .,Aunt Dahlia s chef .
+523a2eb1ae686d7bf0e664c89d0a490a7e1a22bc,test,Who is Pamela?,Pamela is the killers mother.,Jason Voorhees' mother,Who is Pamela ?,Pamela is the killers mother .,Jason Voorhees ' mother
+536558ac7e53cbcc0602600f3ccc1ba85e05b764,train,Who was Sholmes assistant?,Wilson.,Wilson,Who was Sholmes assistant ?,Wilson .,Wilson
+544bc77598d7a9e1229e251e6fc6056c39237037,train,WHO IS DARIAN TO JOE?,HIS DAUGHTER,Darian is Joe's daughter. ,WHO IS DARIAN TO JOE ?,HIS DAUGHTER,Darian is Joe s daughter .
+544bc77598d7a9e1229e251e6fc6056c39237037,train,Who is Cory the stripper's boyfriend?,"James ""Jimmy"" Alexander Dix",James Alexander Dix,Who is Cory the stripper s boyfriend ?,James Jimmy Alexander Dix,James Alexander Dix
+558b317a28f5d5637fcb08ab030ddcedcf8b167e,test,"Who is Hugo to David, Juliet and Alex? ",Their roommate,A new flatmate. ,"Who is Hugo to David , Juliet and Alex ?",Their roommate,A new flatmate .
+55ac84541ede6e0f1106b2e4ab01a2bac2f21e39,test,Who is Tartlet?,"Godfrey's mentor, teacher, and dance instructor.",Godfrey's teacher,Who is Tartlet ?,"Godfrey s mentor , teacher , and dance instructor .",Godfrey s teacher
+55d1940b8c8e1c73e175bac2fce0a4f9844fff02,train,Who is Maya?,She's a waitress at his favorite restaurant whom he likes.,a waitress Miles knows,Who is Maya ?,She s a waitress at his favorite restaurant whom he likes .,a waitress Miles knows
+567c1a39aff9590875a843a9df35f8c5b880ae27,train,"Who is John Merrick's ""owner""?",Mr. Bytes,Mr. Bytes,Who is John Merrick s owner ?,Mr. Bytes,Mr. Bytes
+56dedbff4098a09264f2032bf4242a7196fa0862,test,Who is Lucio?,Satan's incarnation.,The Devil,Who is Lucio ?,Satan s incarnation .,The Devil
+570c8d99794d019e34b3ead4b4fcf80bb0fac459,train,Who is Lora Baines? ,Kevin Flynn's ex-girlfriend,Flynn's ex-girlfriend.,Who is Lora Baines ?,Kevin Flynn s ex-girlfriend,Flynn s ex-girlfriend .
+570c8d99794d019e34b3ead4b4fcf80bb0fac459,train,Who was Lora Baines?,Kevin Flynn ex-girlfriend,Flynn's ex-girlfriend.,Who was Lora Baines ?,Kevin Flynn ex-girlfriend,Flynn s ex-girlfriend .
+570c8d99794d019e34b3ead4b4fcf80bb0fac459,train,Who was Yori?,Tron's love,Trons love,Who was Yori ?,Tron s love,Trons love
+570c8d99794d019e34b3ead4b4fcf80bb0fac459,train,Who is Kevin Flynn ex-girlfriend? ,Lora Baines. ,Lora Baines,Who is Kevin Flynn ex-girlfriend ?,Lora Baines .,Lora Baines
+570c8d99794d019e34b3ead4b4fcf80bb0fac459,train,Who is Kevin Flynn? ,A software Engeneer. ,A software engineer who runs a video arcade.,Who is Kevin Flynn ?,A software Engeneer .,A software engineer who runs a video arcade .
+570e10517cfe77fcda4a810650311dd79f3bcedc,train,Who is Dale?,a medical student who Kirby has had a crush on since college,A Medical Student,Who is Dale ?,a medical student who Kirby has had a crush on since college,A Medical Student
+573cdbc4363b1dfe9e2ad983d062dc036b20544f,train,Who is Walt Kowalski?,A cantankerous,A Korean War veteran who recently became a widower,Who is Walt Kowalski ?,A cantankerous,A Korean War veteran who recently became a widower
+57669ca4e799e01c9f6e4d1ed2088f7f02765108,train,Who is Weedon Scott?,A gold hunter.,"Weedon Scott is a rich, young gold-hunter.",Who is Weedon Scott ?,A gold hunter .,"Weedon Scott is a rich , young gold-hunter ."
+57ac4ad4ce16d18533df2e32d3686aebc7419dba,train,Who is Annie Black?,A local book seller,She is a bookseller,Who is Annie Black ?,A local book seller,She is a bookseller
+57dd0337b2fc1821f75618b2ba1e8d78c504b2f8,train,Who is Carter's beloved? ,Dejah Thoris,Dejah Thoris.,Who is Carter s beloved ?,Dejah Thoris,Dejah Thoris .
+57dd0337b2fc1821f75618b2ba1e8d78c504b2f8,train,Who is Dejha Thoris?,A Princess of Helium,The princess of Helium.,Who is Dejha Thoris ?,A Princess of Helium,The princess of Helium .
+580cca514fc51524f646f8ec306128d42b17b665,train,Who is Leonorina?,she is Espandian's future wife,The child-princess from Constantinople who eventually becomes Esplandian's wife,Who is Leonorina ?,she is Espandian s future wife,The child-princess from Constantinople who eventually becomes Esplandian s wife
+581e4f821d5275f6a6e9f4e5b64844d9fd92cd0b,train,Who is Malaga to Thaddee?,An invented mistress.,His mistress,Who is Malaga to Thaddee ?,An invented mistress .,His mistress
+599b6ffc75b39b2d8dde708ad37b08dde52fccc0,train,Who was Rosie?,Rosie was an abused circus elephant.,a circus elephant,Who was Rosie ?,Rosie was an abused circus elephant .,a circus elephant
+59d290894fce8fcea5e3f5df09e937535ae58893,train,Who is Mummble's?,Patsy's puppy,Patsey's Puppy,Who is Mummble s ?,Patsy s puppy,Patsey s Puppy
+5a3c3fa94456d41df5d8711b33687c39f2aa1ca8,test,Who is Crawly's Daughter?,Grace,Grace,Who is Crawly s Daughter ?,Grace,Grace
+5ad9844f125d7051ba23edbb8b48a74f4f6102c8,test,Who is Charlie?,He is a 15 year-old boy who is quiet and sensitive. ,shy 15 year old boy,Who is Charlie ?,He is a 15 year-old boy who is quiet and sensitive .,shy 15 year old boy
+5ae39df9a568442600cbc2ff2c223e87f2ed4acf,train,Who is Sssuri?,Dalagard's knife brother,Dalagard's knife brother,Who is Sssuri ?,Dalagard s knife brother,Dalagard s knife brother
+5c1d04428ffd3f0ddd732a723e61371e0255aa49,train,Who is Melanie Ralston?,A girl who lives with Ordell.,A stoned surfer that lives with Ordell. ,Who is Melanie Ralston ?,A girl who lives with Ordell .,A stoned surfer that lives with Ordell .
+5c8b96c00b579c1e89e0ffeedb47e6d122e4c159,train,Who is Earl's daughter?,Jane,Jane,Who is Earl s daughter ?,Jane,Jane
+5c8b96c00b579c1e89e0ffeedb47e6d122e4c159,train,Who is Marshall?,Brooks ID ,Brooks's id,Who is Marshall ?,Brooks ID,Brooks s id
+5ccdde3f4dcf2b0c2fc2bd386a6b88fe8b3cc29b,valid,Who is Josephine to Sharon?,Her mother.,Her mother,Who is Josephine to Sharon ?,Her mother .,Her mother
+5ccdde3f4dcf2b0c2fc2bd386a6b88fe8b3cc29b,valid,Who is Larry to Sharon?,Her brother.,her brother,Who is Larry to Sharon ?,Her brother .,her brother
+5d98d6db87225fde51cea450d8712cb6073df2e7,train,Who was Alexander the son of?,The Greek Emperor Alexander ,Greek emperor Alexander,Who was Alexander the son of ?,The Greek Emperor Alexander,Greek emperor Alexander
+5d98d6db87225fde51cea450d8712cb6073df2e7,train,Who is Alexander and Soredamors' son?,Cliges,Cliges,Who is Alexander and Soredamors ' son ?,Cliges,Cliges
+5d98d6db87225fde51cea450d8712cb6073df2e7,train,Who is Alexander's brother?,Alis,Alis,Who is Alexander s brother ?,Alis,Alis
+5df7b23024d86a042fcdcb06ee485d528317a156,test,Who was responsible for the virus?,Dr. Peters.,Cole,Who was responsible for the virus ?,Dr. Peters .,Cole
+5ebba624b541052be18e8fe9715dd76d7d2a9f57,train,Who is Mary Graham?,"An orphan girl Martin, Sr raised to be his nursemaid","Mary Graham is the orphan Martin Chuzzlewit, the elder, adopted as a child. ",Who is Mary Graham ?,"An orphan girl Martin , Sr raised to be his nursemaid","Mary Graham is the orphan Martin Chuzzlewit , the elder , adopted as a child ."
+5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,train,Who is Uriah Heep?,Mr. Wickfiel's 15 year old secretary,Wickfield's secretary,Who is Uriah Heep ?,Mr. Wickfiel s 15 year old secretary,Wickfield s secretary
+5f6df6afc107cfc05dd4bfc6fe963ae89aa9ab7f,train,Who is Agnes?,David's confidant and Mr. Wickfield's daughter.,The woman David marries eventually.,Who is Agnes ?,David s confidant and Mr. Wickfield s daughter .,The woman David marries eventually .
+5fc06920c10c190e4abcbe8f68803a7025cc0889,train,Who is Tatiana?,Grant's daughter,Grant's daughter.,Who is Tatiana ?,Grant s daughter,Grant s daughter .
+5fc06920c10c190e4abcbe8f68803a7025cc0889,train,Who was Sophina?,Grant's girlfriend.,oscar grant's girlfriend,Who was Sophina ?,Grant s girlfriend .,oscar grant s girlfriend
+6023bce51da121490e56cac51d6e1048afbcf89b,train,Who is Abigail Prim? ,The banker's daughter.,"Daughter of Jonas Prim, president of the bank.",Who is Abigail Prim ?,The banker s daughter .,"Daughter of Jonas Prim , president of the bank ."
+6031da6fa93ad9cac1b6da6586010aab81c7b4da,train,Who is Elsa's younger sister?,Anna,Anna,Who is Elsa s younger sister ?,Anna,Anna
+6031da6fa93ad9cac1b6da6586010aab81c7b4da,train,Who is Olaf?,Childhood snowman of Elsa and Anna ,Elsa and Anna's childhood snowman.,Who is Olaf ?,Childhood snowman of Elsa and Anna,Elsa and Anna s childhood snowman .
+60510bf4be495aeb1b4640a7a058b4ae7c04b884,test,Who is McTeague?,A Dentist.,He is a poor dentist.,Who is McTeague ?,A Dentist .,He is a poor dentist .
+60510bf4be495aeb1b4640a7a058b4ae7c04b884,test,Who is Marcus?,McTeague's bestfriend,McTeague's best friend.,Who is Marcus ?,McTeague s bestfriend,McTeague s best friend .
+608b8bcc44bdd6e1c03517468ebad835aa98ec28,test,WHO IS BEAUMELLE TO ROCHMONT?,HIS DAUGHTER,his daughter,WHO IS BEAUMELLE TO ROCHMONT ?,HIS DAUGHTER,his daughter
+608b8bcc44bdd6e1c03517468ebad835aa98ec28,test,WHO IS BELLEPERT TO BEAUMELLE?,HER WAITING WOMAN,Bellepert is her lady in waiting,WHO IS BELLEPERT TO BEAUMELLE ?,HER WAITING WOMAN,Bellepert is her lady in waiting
+618d2f89837edfa994dc76be81ddfb7a39434754,train,Who is truly the only real anarchist?,Gregory,Gregory ,Who is truly the only real anarchist ?,Gregory,Gregory
+625ee9d399b8fa5b0921bb3263a5547872ca4f77,train,Who is Barbara's daughter?,Rachel,Rachel,Who is Barbara s daughter ?,Rachel,Rachel
+63485ebd4514f71b23d90f8f49515688feed7d63,train,"Who is Mary's ex-boyfriend, Brett?",NFL Quarterback Brett Favre.,Brett Favre,"Who is Mary s ex-boyfriend , Brett ?",NFL Quarterback Brett Favre .,Brett Favre
+634abf83f11ee4449864e1c391b0456b3fdbdf64,train,Who was Jennifer's first victim?,Ahmet,Ahmet,Who was Jennifer s first victim ?,Ahmet,Ahmet
+634abf83f11ee4449864e1c391b0456b3fdbdf64,train,Who is Jennifer's third victim?,Colin,Chip,Who is Jennifer s third victim ?,Colin,Chip
+64de615fe8d7b550c3f9ce72e55bab8ebac69b2f,train,Who is Mrs. Vanderhei?,Tim's former teacher,Tim's former techer,Who is Mrs. Vanderhei ?,Tim s former teacher,Tim s former techer
+66b2162649e752116e5f975088df9d7ee7f8401a,train,Who is Prospero?,He is a prince.,A prince.,Who is Prospero ?,He is a prince .,A prince .
+67161aa1a00a7151b4b0d43229d177363f8c5568,train,Who is Rodolphe Boulange?,A rich landowner who starts an affair with Emma.,A rich landowner.,Who is Rodolphe Boulange ?,A rich landowner who starts an affair with Emma .,A rich landowner .
+67ca24897196449395daa9886c7fbaceab55c964,train,Who is Joey Lamotta?,Jake's brother,A boxer,Who is Joey Lamotta ?,Jake s brother,A boxer
+67ca24897196449395daa9886c7fbaceab55c964,train,Who is Joey's mafia connection?,Salvy Batts,Como,Who is Joey s mafia connection ?,Salvy Batts,Como
+681778326e846ea9979ff3aed4ee9668abe7d489,valid,Who is Jani?,A gambler who befriend's Jack,A gambler and robber. ,Who is Jani ?,A gambler who befriend s Jack,A gambler and robber .
+68e4c21a5ff3a6ffb04ccdb9831d549b7ebfc90e,train,Who is Sybil Lee to Madeleine Carrington?,Her sister.,her sister,Who is Sybil Lee to Madeleine Carrington ?,Her sister .,her sister
+68ee401e0c66832834f605b625d5062b06a59515,train,Who is Freeman's brother?,Anton,Anton,Who is Freeman s brother ?,Anton,Anton
+68ee401e0c66832834f605b625d5062b06a59515,train,Who is responsible for the accident with Jerome?,Vincent,Jerome,Who is responsible for the accident with Jerome ?,Vincent,Jerome
+69099d7d543fad22f61d8acf97c681c9c86cac0e,train,Who is Carl Bruner?,Sam Wheat's friend and coworker.,"Carl is SAMs friend, but later is found to be a con artist.",Who is Carl Bruner ?,Sam Wheat s friend and coworker .,"Carl is SAMs friend , but later is found to be a con artist ."
+6963fca5fa63778623b93b656f9da7389aad065c,train,Who is Eilert to George?,An academic rival,rival,Who is Eilert to George ?,An academic rival,rival
+6963fca5fa63778623b93b656f9da7389aad065c,train,Who is Eilert to Hedda?,A former lover,Her former lover.,Who is Eilert to Hedda ?,A former lover,Her former lover .
+6963fca5fa63778623b93b656f9da7389aad065c,train,Who is behind Eilert's recovery from alcoholism?,Thea,Thea,Who is behind Eilert s recovery from alcoholism ?,Thea,Thea
+6963fca5fa63778623b93b656f9da7389aad065c,train,Who is Eilerts former lover?,Hedda,Hedda,Who is Eilerts former lover ?,Hedda,Hedda
+698b8ef8efd1e1191c0c188f1767e1e2e7e5a12c,train,Who is Leonard in an affair with?,Juila Craven.,Julia Craven,Who is Leonard in an affair with ?,Juila Craven .,Julia Craven
+69add8ffcf964d23243ac02b7282d57beb63c355,valid,Who is Gertie to Michael?,His little sister.,His little sister ,Who is Gertie to Michael ?,His little sister .,His little sister
+6a02d46e87865ba5b033c56c658af2bfdd182093,valid,Who is Meister Eckhart?,A 14th century mystic who described Hell.,A 14th century christian mystic ,Who is Meister Eckhart ?,A 14th century mystic who described Hell .,A 14th century christian mystic
+6a02d46e87865ba5b033c56c658af2bfdd182093,valid,Who was Jezzie?,The woman he dated and lived with after the war.,Jacob's girlfriend,Who was Jezzie ?,The woman he dated and lived with after the war .,Jacob s girlfriend
+6a659de3aa344680261aaf152a26bf7a20fe22f2,train,Who is chief elder of one of the Amahagger tribes?,Billali,Billali ,Who is chief elder of one of the Amahagger tribes ?,Billali,Billali
+6a659de3aa344680261aaf152a26bf7a20fe22f2,train,Who is Ayesha confident of becomming the reincarnation of her former lover?,Leo,Leo,Who is Ayesha confident of becomming the reincarnation of her former lover ?,Leo,Leo
+6a659de3aa344680261aaf152a26bf7a20fe22f2,train,Who is ustane?,an amahagger maiden,A maiden of Amahagger,Who is ustane ?,an amahagger maiden,A maiden of Amahagger
+6a659de3aa344680261aaf152a26bf7a20fe22f2,train,Who is vincey?,colleague,Leo's father,Who is vincey ?,colleague,Leo s father
+6aa4c6be53eff0024e5c84f99ac94cddff4eb8f0,test,Who is Brian?,Jean's new husband.,current husband of Harvey's ex-wife,Who is Brian ?,Jean s new husband .,current husband of Harvey s ex-wife
+6b1832c46e0b3566463444ec9209b8f1ed6c7ac6,valid,Who is Nicky Rogan? ,Nicky Rogan is a successful play writer. ,a platwright,Who is Nicky Rogan ?,Nicky Rogan is a successful play writer .,a platwright
+6b63890ba5900ef88f6a04c5da1b522bb618a9c8,train,Who is Davison?,Queen Elizabeth's undersecretary,Elizabeth's undersecratary,Who is Davison ?,Queen Elizabeth s undersecretary,Elizabeth s undersecratary
+6b63890ba5900ef88f6a04c5da1b522bb618a9c8,train,Who is Elizabeth?,Mary's cousin,The Queen of Enland,Who is Elizabeth ?,Mary s cousin,The Queen of Enland
+6b63890ba5900ef88f6a04c5da1b522bb618a9c8,train,Who is Darnley?,Mary Stewart's deceased husband,The deceased husband of Mary Stuart,Who is Darnley ?,Mary Stewart s deceased husband,The deceased husband of Mary Stuart
+6b63890ba5900ef88f6a04c5da1b522bb618a9c8,train,Who is Mary to Elizabeth?,She is her cousin.,her cousin,Who is Mary to Elizabeth ?,She is her cousin .,her cousin
+6b63890ba5900ef88f6a04c5da1b522bb618a9c8,train,Who is Mortimer to Mary?,"Her custodian's nephew, who supports her claim and wishes to help her.",The nephew of her custodian.,Who is Mortimer to Mary ?,"Her custodian s nephew , who supports her claim and wishes to help her .",The nephew of her custodian .
+6b802a81a62df7b9bf1ce142f1766397c3ed9ef9,train,Who is Sebastian?,Onaelia's son,Onaelia's son,Who is Sebastian ?,Onaelia s son,Onaelia s son
+6b881cac500f954036851b4545272674389b0e82,train,Who was sinful during his youth?,St. Augustine.,St. Augustine,Who was sinful during his youth ?,St. Augustine .,St. Augustine
+6bb78f3d321f2a5b63edf9ffcfb4900f73ecd4dc,train,Who is Princess Kitty's brother-in law?,Oblonsky,Oblonksy Konstantin,Who is Princess Kitty s brother-in law ?,Oblonsky,Oblonksy Konstantin
+6bb78f3d321f2a5b63edf9ffcfb4900f73ecd4dc,train,Who is Anna's brother?,Oblonsky.,Oblonsky,Who is Anna s brother ?,Oblonsky .,Oblonsky
+6bb78f3d321f2a5b63edf9ffcfb4900f73ecd4dc,train,Who is Oblonsky's sister-in-law?,Princess Kitty,Princess Kitty.,Who is Oblonsky s sister-in-law ?,Princess Kitty,Princess Kitty .
+6bd5faba6a0bd427374f7e20d3044fbf09b5d1a8,train,Who is Maria Maraias?,the daughter of a leading National Party officer who secretly dates Peter although her father forbids it,The daughter of a leading National Party official.,Who is Maria Maraias ?,the daughter of a leading National Party officer who secretly dates Peter although her father forbids it,The daughter of a leading National Party official .
+6bd5faba6a0bd427374f7e20d3044fbf09b5d1a8,train,Who is Jaapie Botha?,He is an older student at the boarding school.,An older student at the boarding school PK attends,Who is Jaapie Botha ?,He is an older student at the boarding school .,An older student at the boarding school PK attends
+6bdca41d52b739bac71883b99a5a49c9c4afb05a,train,Who is Marianna's suitor?,Lubeck.,Lubeck.,Who is Marianna s suitor ?,Lubeck .,Lubeck .
+6bec7c2bdd0b01296bc9020288d833709e54cd52,test,Who is Easy Andy?,an illegal gun dealer,gun dealer,Who is Easy Andy ?,an illegal gun dealer,gun dealer
+6cfe7052daf187b667538b2858849a84c1f6b049,valid,Who is Lady Blythe to Innocent?,Her birth mother. ,she is her mother,Who is Lady Blythe to Innocent ?,Her birth mother .,she is her mother
+6d2e1b95ed2a00e16e046b6f3d0b03e687c7f7f7,valid,Who is Elaine Dickinson?,Ted's old girlfriend,A flight attendant.,Who is Elaine Dickinson ?,Ted s old girlfriend,A flight attendant .
+6d2e1b95ed2a00e16e046b6f3d0b03e687c7f7f7,valid,Who is Elaine Dickson?,"Ted's former girlfriend, now a flight attendant",Ted's wartime girlfriend.,Who is Elaine Dickson ?,"Ted s former girlfriend , now a flight attendant",Ted s wartime girlfriend .
+6d2e1b95ed2a00e16e046b6f3d0b03e687c7f7f7,valid,Who is Otto?,A large inflatable pilot that can fly but can't land the plane.,An inflatable pilot doll.,Who is Otto ?,A large inflatable pilot that can fly but ca n't land the plane .,An inflatable pilot doll .
+6d2e1b95ed2a00e16e046b6f3d0b03e687c7f7f7,valid,Who is Otto?,The inflatable doll that appears when the plane's autopilot is activated.,the inflatable pilot,Who is Otto ?,The inflatable doll that appears when the plane s autopilot is activated .,the inflatable pilot
+6dede499df79827ea44d634f07b998b90ee4a05d,test,Who is Kitty Killigrew?,The soubrette of the American Opera Company.,A beautiful singer,Who is Kitty Killigrew ?,The soubrette of the American Opera Company .,A beautiful singer
+6e3b7afa7408ab6c6f63b29841f1ed5139311571,train,Who is Prince Bulbo the son of?,he is the son of King Padella,King Padella,Who is Prince Bulbo the son of ?,he is the son of King Padella,King Padella
+6e3b7afa7408ab6c6f63b29841f1ed5139311571,train,Who is Princess Angelica?,She is King Valoroso's daughter,The daughter of King Valoroso.,Who is Princess Angelica ?,She is King Valoroso s daughter,The daughter of King Valoroso .
+6ea31b70e5af494ad2b7623d06b6487b3953b20d,test,Who is Solomon Northup?,A free American man working as a violinist.,Free African American,Who is Solomon Northup ?,A free American man working as a violinist .,Free African American
+6eb460087931ce9ad6655881727d059cc5505e47,train,Who is Victor Creed to James Howlett?,His half-brother,His half brother ,Who is Victor Creed to James Howlett ?,His half-brother,His half brother
+6eb460087931ce9ad6655881727d059cc5505e47,train,Who is Kayla Silverfox to James?,His girlfriend. ,his girlfriend,Who is Kayla Silverfox to James ?,His girlfriend .,his girlfriend
+6ed5d860df4edd3d32f1aca52ec369f0d21039a0,test,Who is Mary Ann?,The Mathews' daughter.,Mary Ann is a girl that appears to have been murdered on film,Who is Mary Ann ?,The Mathews ' daughter .,Mary Ann is a girl that appears to have been murdered on film
+6ed5d860df4edd3d32f1aca52ec369f0d21039a0,test,Who is Daniel Longdale an attorney for?,Mrs Christian.,Mrs. Christian,Who is Daniel Longdale an attorney for ?,Mrs Christian .,Mrs. Christian
+6f1e8b48580a3f57556ea3fcb129bb0024cf1567,train,Who is Ralph Newton a nephew of?,Squire Gregory Newton,Sir Gregory Newton,Who is Ralph Newton a nephew of ?,Squire Gregory Newton,Sir Gregory Newton
+6fc88efa5357b958b072332a14efd3e33cf4e4c0,train,Who is Dionysus's half brother?,Heracles,Heracles,Who is Dionysus s half brother ?,Heracles,Heracles
+6ffb5d981d101fbbd43d97bc45720388570f2c61,train,Who is Truman Bubank?,He is the star of a reality show called the Truman Show.,The unsuspecting star of The Truman Show.,Who is Truman Bubank ?,He is the star of a reality show called the Truman Show .,The unsuspecting star of The Truman Show .
+706d21321f927fefba090bf9af88835ac99035b0,train,WHO IS BEATRICE?,LEONATO'S NIECE,Leonatos niece.,WHO IS BEATRICE ?,LEONATO S NIECE,Leonatos niece .
+706d21321f927fefba090bf9af88835ac99035b0,train,WHO IS HERO TO LEONATO?,HIS DAUGHTER,daughter,WHO IS HERO TO LEONATO ?,HIS DAUGHTER,daughter
+706d21321f927fefba090bf9af88835ac99035b0,train,WHO IS URSULA TO HERO?,HER MAID,Hero's Maid,WHO IS URSULA TO HERO ?,HER MAID,Hero s Maid
+706d21321f927fefba090bf9af88835ac99035b0,train,WHO IS MARGARET?,HERO'S CHAMBERMAID,Hero's chambermaid ,WHO IS MARGARET ?,HERO S CHAMBERMAID,Hero s chambermaid
+706d21321f927fefba090bf9af88835ac99035b0,train,WHO IS ANTONIO TO LEONATO?,HIS BROTHER,brother,WHO IS ANTONIO TO LEONATO ?,HIS BROTHER,brother
+706d21321f927fefba090bf9af88835ac99035b0,train,Who was Beatrice?,Leonato's niece,Niece of Leonato,Who was Beatrice ?,Leonato s niece,Niece of Leonato
+706d21321f927fefba090bf9af88835ac99035b0,train,Who was Hero?,Leonato's daughter,Leonato's daughter.,Who was Hero ?,Leonato s daughter,Leonato s daughter .
+70794150f324949ca49f182db0d3f8d69d0c779e,train,Who is Samir Nahde?,A person of interest captured by the FBI.,a person of interest who signed visa applications,Who is Samir Nahde ?,A person of interest captured by the FBI .,a person of interest who signed visa applications
+70b3f55e376d461b1cb7dc5005c02091478e2e44,train,Who is Jeff King?,He is Anna's American boyfriend who showed up unannounced.,An American film star.,Who is Jeff King ?,He is Anna s American boyfriend who showed up unannounced .,An American film star .
+7106fc99070090d24c52168a4d1e0727b296fa20,train,Who is Ruth?,"Ruth is Mahlon's widow, and Naomi's daughter-in-law. ",Mahlons wife,Who is Ruth ?,"Ruth is Mahlon s widow , and Naomi s daughter-in-law .",Mahlons wife
+7106fc99070090d24c52168a4d1e0727b296fa20,train,Who was Ploni Almoni?,"A closer relative to Ruth's husband than Boaz, therefore he was given first choice to take her or not.",A close male relative of Ruth and Naomi. ,Who was Ploni Almoni ?,"A closer relative to Ruth s husband than Boaz , therefore he was given first choice to take her or not .",A close male relative of Ruth and Naomi .
+7106fc99070090d24c52168a4d1e0727b296fa20,train,Who is Ruth's grandson?,Jesse,Jesse,Who is Ruth s grandson ?,Jesse,Jesse
+7162d653cc3ccecd569009c27b38dac1da6499ee,train,Who is Alison?,Eldon Parr's daughter.,Parr's daughter,Who is Alison ?,Eldon Parr s daughter .,Parr s daughter
+7162d653cc3ccecd569009c27b38dac1da6499ee,train,Who is Eldon Parr?,The wealthiest member of the church.,The most wealthy and powerful man at St. John's Church.,Who is Eldon Parr ?,The wealthiest member of the church .,The most wealthy and powerful man at St. John s Church .
+71ce19cf034c830c1e2d8b98682ca1d53ead1067,train,Who is MUTHR?,"The computer of the spacecraft, Nostromo.",The Nostromo's computer.,Who is MUTHR ?,"The computer of the spacecraft , Nostromo .",The Nostromo s computer .
+71ce19cf034c830c1e2d8b98682ca1d53ead1067,train,Who is Jones?,The crew's cat.,The crews cat.,Who is Jones ?,The crew s cat .,The crews cat .
+7235e7853e8ea8ba99b6d7a386d8de03b3887ace,valid,Who is Annette Hargrove?,The virgin daughter of their school's new headmaster,virgin daughter of the headmaster,Who is Annette Hargrove ?,The virgin daughter of their school s new headmaster,virgin daughter of the headmaster
+728fb0c9da98fa7853adac4934987df261d51041,train,Who is Liana Teifer?,Her husband was the previous owner of the book in Balkan's possession.,Telfer's widow,Who is Liana Teifer ?,Her husband was the previous owner of the book in Balkan s possession .,Telfer s widow
+728fb0c9da98fa7853adac4934987df261d51041,train,Who is Dean Corso?,a book dealer in New York City who cons people to sell to him cheap and he resells at much higher prices,a rare book dealer,Who is Dean Corso ?,a book dealer in New York City who cons people to sell to him cheap and he resells at much higher prices,a rare book dealer
+72e585c04d8375bf66b301a68fd88e9e6117f7d9,train,Who is Daryll Lee Collum?,One of Helen's previous subjects,A serial killer,Who is Daryll Lee Collum ?,One of Helen s previous subjects,A serial killer
+73b739350f4657b6831e951b890b0894a5886607,test,Who is Paxton's ex-girldfriend?,Gertrude,Gertrude,Who is Paxton s ex-girldfriend ?,Gertrude,Gertrude
+73b739350f4657b6831e951b890b0894a5886607,test,Who is Ramone?,The locally famous over the hill stripper,a stripper,Who is Ramone ?,The locally famous over the hill stripper,a stripper
+73b739350f4657b6831e951b890b0894a5886607,test,Who is their immigration inspector?,Mr. Gilbertson,Mr. Gilbertson,Who is their immigration inspector ?,Mr. Gilbertson,Mr. Gilbertson
+73c7be237bdfb805034477c22066367b6ce7ddb3,train,Who is Fannie to Barry Oakley?,She is his wife.,Fannie is Barry's wife,Who is Fannie to Barry Oakley ?,She is his wife .,Fannie is Barry s wife
+74abab28263aed45e0602bcd004eed11971ad0b7,train,Who is Brent to Leigh?,Her coworker.,Her coworker,Who is Brent to Leigh ?,Her coworker .,Her coworker
+750ec3a9ab4879f2593fb1baed81e6b449a5c755,test,Who is Arwen's lover?,Strider,Strider,Who is Arwen s lover ?,Strider,Strider
+754184dec0d686d0b8b9ad7e1dc15bf0eb5027f5,valid,Who is Bateman's lawyer?,Harold.,Harold,Who is Bateman s lawyer ?,Harold .,Harold
+754184dec0d686d0b8b9ad7e1dc15bf0eb5027f5,valid,Who is Patrick's secretary?,Jean,Jean.,Who is Patrick s secretary ?,Jean,Jean .
+75871827f179df4ea960b4d93054d165cc042895,train,Who is Crichton a butler for?,Lord Loam,He is a butler for Loam. ,Who is Crichton a butler for ?,Lord Loam,He is a butler for Loam .
+76704480af32a57c3b72444e2fbe5cf855df37e8,train,Who is responsible for the Four Gospels?,"Matthew, Mark, Luke, John","Matthew, Mark, Luke, and John",Who is responsible for the Four Gospels ?,"Matthew , Mark , Luke , John","Matthew , Mark , Luke , and John"
+76704480af32a57c3b72444e2fbe5cf855df37e8,train,Who was David Hume?,A Scottish philosopher,a Scottish empirical philosopher,Who was David Hume ?,A Scottish philosopher,a Scottish empirical philosopher
+76971e76743f5a4defedb9ef516560a323fc2eac,train,Who is April's boyfriend?,Casey Jones.,Casey Jones.,Who is April s boyfriend ?,Casey Jones .,Casey Jones .
+76971e76743f5a4defedb9ef516560a323fc2eac,train,Who is April O'Neil's boy freind? ,Casey Jones. ,Casey Jones ,Who is April O'Neil s boy freind ?,Casey Jones .,Casey Jones
+76971e76743f5a4defedb9ef516560a323fc2eac,train,Who is Yaotl? ,An ancient Aztec warlord. ,An Aztec warlord.,Who is Yaotl ?,An ancient Aztec warlord .,An Aztec warlord .
+76a96d28a69c3aa9941e9b0496b5e8098ed712ce,train,Who is Dillon?,"A CIA agent, an old  friend of Dutch's, and former commando.",A friend of Dutch's.,Who is Dillon ?,"A CIA agent , an old friend of Dutch s , and former commando .",A friend of Dutch s .
+76a96d28a69c3aa9941e9b0496b5e8098ed712ce,train,Who is Anna?,A captured female guerrilla fighter.,A guerilla.,Who is Anna ?,A captured female guerrilla fighter .,A guerilla .
+778b1dc6fca050bfeb111f3e718d6fecce4bded4,train,Who is Lewis Haystoun?,A young Scottish laird,He is a young Scottish Laird,Who is Lewis Haystoun ?,A young Scottish laird,He is a young Scottish Laird
+778b1dc6fca050bfeb111f3e718d6fecce4bded4,train,Who is Alice Wishart?,The daughter of a rich city merchant,the daughter of a wealthy city merchant,Who is Alice Wishart ?,The daughter of a rich city merchant,the daughter of a wealthy city merchant
+77e055181c15321c82ef247dc7f421a30433456f,train,Who is Random's maternal uncle?,Tom Bowling,Tom Bowling.,Who is Random s maternal uncle ?,Tom Bowling,Tom Bowling .
+77e055181c15321c82ef247dc7f421a30433456f,train,Who is Random's uncle?,Tom Bowling,Tom Bowling.,Who is Random s uncle ?,Tom Bowling,Tom Bowling .
+77e055181c15321c82ef247dc7f421a30433456f,train,Who is Rory's uncle?,Tom Bowling,Tom Bowling.,Who is Rory s uncle ?,Tom Bowling,Tom Bowling .
+7805e001c28ab9aa85f51b3244a9f57fe972f5a9,train,Who is Belinda's guardian?,Sylph Ariel,slyph ariel,Who is Belinda s guardian ?,Sylph Ariel,slyph ariel
+7805e001c28ab9aa85f51b3244a9f57fe972f5a9,train,Who is Baron?,One of Belinda's suitors,suitor of belinda,Who is Baron ?,One of Belinda s suitors,suitor of belinda
+78775713129c757ce928985ab432f2751d7b46af,test,Who was responsible for Lulu's death in London?,Jack the Ripper,Jack the ripper,Who was responsible for Lulu s death in London ?,Jack the Ripper,Jack the ripper
+78775713129c757ce928985ab432f2751d7b46af,test,Who is Sclon's Son?,Alwa,Alwa,Who is Sclon s Son ?,Alwa,Alwa
+78e0e28b686c7157d598082bfaa8aaaab821b78b,train,Who is Walter in relationship to Bianca?,Her father.,Her father.,Who is Walter in relationship to Bianca ?,Her father .,Her father .
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who was Rome at war with?,Volsci,Volsic,Who was Rome at war with ?,Volsci,Volsic
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who was exiled/banished from Rome?,Coriolanus,Coriolanus,Who was exiled/banished from Rome ?,Coriolanus,Coriolanus
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who is Coriolanus' Wife?,Virgilia,Virgilia,Who is Coriolanus ' Wife ?,Virgilia,Virgilia
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who is Rome at war with?,Volsci.,Volsci,Who is Rome at war with ?,Volsci .,Volsci
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who is Caius Martius?,A Roman general.,A general,Who is Caius Martius ?,A Roman general .,A general
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who is Volumnia?,Coriolanus' mother.,Coriolanus' mother,Who is Volumnia ?,Coriolanus ' mother .,Coriolanus ' mother
+790e4567fa3788b2a778212e7321b3a1e1cbbe57,train,Who is Virgilia?,Coriolanus' wife.,Coriolanus's wife,Who is Virgilia ?,Coriolanus ' wife .,Coriolanus s wife
+7a62a3ec3bf145c16d244dc44648220d13c05e50,train,Who is Cimourdain to Gauvain?,His tutor and father figure as a child.,His was his teacher,Who is Cimourdain to Gauvain ?,His tutor and father figure as a child .,His was his teacher
+7aa7b07e8f87871690bf6f194d17adb9c6384ad4,train,Who is Evanthe's maid?,Cleone,Cleone.,Who is Evanthe s maid ?,Cleone,Cleone .
+7aa7b07e8f87871690bf6f194d17adb9c6384ad4,train,Who is Gotarzes?,A prince.,A prince.,Who is Gotarzes ?,A prince .,A prince .
+7c41a74fb0e568bd5fc658282facbf79bf541271,test,Who is Rollo Tomasi?,The nickname of the man who killed Ed Exley's father.,Exley's father's unknown assailant ,Who is Rollo Tomasi ?,The nickname of the man who killed Ed Exley s father .,Exley s father s unknown assailant
+7c531dc41880b96b8acfaf66a39a85b91d68b636,train,Who is Lucy?,Sam's young daughter,Sam's daughter,Who is Lucy ?,Sam s young daughter,Sam s daughter
+7c531dc41880b96b8acfaf66a39a85b91d68b636,train,Who is Rita Harrison?,A big shot lawyer who takes Sam's case pro bono to help him retain his parental rights.,Sam's lawyer,Who is Rita Harrison ?,A big shot lawyer who takes Sam s case pro bono to help him retain his parental rights .,Sam s lawyer
+7c963cf6567bcfcf092c9bb3d72d09562ba6b794,test,Who is Dionne?,Cher's best friend,cher's best friend,Who is Dionne ?,Cher s best friend,cher s best friend
+7ca86634d9d6d9f9f6ce2f9db0ca42f6a807b2ba,test,Who is Anna's stepson?,Owen,Owen,Who is Anna s stepson ?,Owen,Owen
+7ca86634d9d6d9f9f6ce2f9db0ca42f6a807b2ba,test,Who is Effie's governess?,Sophy Viner.,sophy viner,Who is Effie s governess ?,Sophy Viner .,sophy viner
+7ca86634d9d6d9f9f6ce2f9db0ca42f6a807b2ba,test,Who is Owen's grandmother?,The Dowager Marquis de Chantelle.,Dowager Marquise de Chantelle,Who is Owen s grandmother ?,The Dowager Marquis de Chantelle .,Dowager Marquise de Chantelle
+7ca86634d9d6d9f9f6ce2f9db0ca42f6a807b2ba,test,Who is Adelaide Painter?,An old family friend.,An old family friend.,Who is Adelaide Painter ?,An old family friend .,An old family friend .
+7e2bef0b43cf243f513853e82e482d695801e42b,train,Who is Koku? ,Koku is Tom's giant. ,Tom's giant.,Who is Koku ?,Koku is Tom s giant .,Tom s giant .
+7e4d0d1411048ca6d9a04d4eeab1837d650b228d,test,Who was Jean?,Douglas's wife,DOUGLAS' WIFE,Who was Jean ?,Douglas s wife,DOUGLAS ' WIFE
+7ef394b11230baf81f61e790839fa993c6ea1f72,train,Who is Curtis LaForche's wife?,Samantha.,Samantha,Who is Curtis LaForche s wife ?,Samantha .,Samantha
+7f1342389643da8afa5cdd6a7b512546e6f4b4c2,train,Who was a mercenary in Africa?,Blue.,Blue.,Who was a mercenary in Africa ?,Blue .,Blue .
+7fe863c608ba55d0443da0e1e6d5f92f1ece764e,train,Who is Ellinor to Edward?,Ellinor is his daughter.,Daughter,Who is Ellinor to Edward ?,Ellinor is his daughter .,Daughter
+8004891a07495f31f0a336429a5c8a05b452656b,train,Who is Bunda Chand?,The king of Vendhya,Dead king of Vendhya,Who is Bunda Chand ?,The king of Vendhya,Dead king of Vendhya
+808f984fae3980115cdbe74d4fdb43f7912418fa,train,Who is John Dolittle?,He is a physician and bachelor.,A single doctor,Who is John Dolittle ?,He is a physician and bachelor .,A single doctor
+80f03a1fcfa33d7dbbe32a6252022e9da17847b9,train,Who is Honora?,Pauline's mother.,Pauline's mom.,Who is Honora ?,Pauline s mother .,Pauline s mom .
+812fcb34b18fa3ebdce2e26f5a31c3cc8683e72f,test,Who is Caden Cotard's wife?,Adele,Claire,Who is Caden Cotard s wife ?,Adele,Claire
+812fcb34b18fa3ebdce2e26f5a31c3cc8683e72f,test,Who is Adele?,Caden's first wife.,Caden's wife,Who is Adele ?,Caden s first wife .,Caden s wife
+812fcb34b18fa3ebdce2e26f5a31c3cc8683e72f,test,Who is Hazel?,A woman who works in the box office that Caden has an affair with.  ,"A woman who works in the box office who Caden has a fling with, a relationship that carries on after she is married",Who is Hazel ?,A woman who works in the box office that Caden has an affair with .,"A woman who works in the box office who Caden has a fling with , a relationship that carries on after she is married"
+821b9a891aac7ceb29a0054e9e6d3eb7d2234af6,train,Who is Arnholm?,Bolette's former tutor.,A daughter of Dr. Wangel,Who is Arnholm ?,Bolette s former tutor .,A daughter of Dr. Wangel
+821b9a891aac7ceb29a0054e9e6d3eb7d2234af6,train,Who is Arnholm?,Bolette's former tutor.,A daughter of Dr. Wangel,Who is Arnholm ?,Bolette s former tutor .,A daughter of Dr. Wangel
+828c99d509e808fedfb0675781a5d137c4dfe0b7,train,Who is Alice Poulson?,Hoffman's girlfriend.,"Hoffman's girlfriend, an ex-con hired by NURV to manipulate him.",Who is Alice Poulson ?,Hoffman s girlfriend .,"Hoffman s girlfriend , an ex-con hired by NURV to manipulate him ."
+828c99d509e808fedfb0675781a5d137c4dfe0b7,train,Who is Milo Hoffman?,A young owner of Skullbocks,Stanford Graduate.,Who is Milo Hoffman ?,A young owner of Skullbocks,Stanford Graduate .
+828c99d509e808fedfb0675781a5d137c4dfe0b7,train,Who is Gary Winston?,The CEO of NURV who offers Milo a software job at his company,CEO of NURV,Who is Gary Winston ?,The CEO of NURV who offers Milo a software job at his company,CEO of NURV
+828c99d509e808fedfb0675781a5d137c4dfe0b7,train,Who is Lisa Calighan?,A coworker who agrees to help Hoffman but is really a double agent.,Friend and co-worker,Who is Lisa Calighan ?,A coworker who agrees to help Hoffman but is really a double agent .,Friend and co-worker
+83351acb498ae98e3b652dcbcdc3a615e83e2f63,train,Who is Duke Senior's daughter?,Rosalind,Rosalind.,Who is Duke Senior s daughter ?,Rosalind,Rosalind .
+83351acb498ae98e3b652dcbcdc3a615e83e2f63,train,Who is Touchstone?,The court clown,court clown ,Who is Touchstone ?,The court clown,court clown
+83351acb498ae98e3b652dcbcdc3a615e83e2f63,train,Who is Orlando's brother?,Oliver,Oliver,Who is Orlando s brother ?,Oliver,Oliver
+8372fe819d756bbdf0118d6efc16508603d41399,train,Who is Biocyte's CEO?,John McCloy,John C. McCloy,Who is Biocyte s CEO ?,John McCloy,John C. McCloy
+83a1fd492021ceb110451d65888072daf64a5d4f,train,Who is Deep Throat?,An anonymous source Woodward has used I'm the past. ,a senior government official,Who is Deep Throat ?,An anonymous source Woodward has used I m the past .,a senior government official
+84248647b95fced93f041f931426523b7d25d226,train,Who was Lauren Randall to Alex Corvis?,Girlfriend,girlfriend,Who was Lauren Randall to Alex Corvis ?,Girlfriend,girlfriend
+84327ef84b778b11993de1d2e3f6fb04eeb09fff,train,Who is Lucifer's son?,Mammon,Mammon,Who is Lucifer s son ?,Mammon,Mammon
+84732f85b51dfbfed6c40f2bc1e35e1697eade8e,train,Who is a foreign secret agent?,Dr. Zachary Smith.,Dr. Smith. ,Who is a foreign secret agent ?,Dr. Zachary Smith .,Dr. Smith .
+8554fa252eac2c69e447c0b19b34a25bc81faffc,train,Who is Frankie?,Cindy's daughter,Dean and Cindy's daughter.,Who is Frankie ?,Cindy s daughter,Dean and Cindy s daughter .
+85591366e6f0ab31815c40d55e1d4d5182d20ec5,train,Who is on his deathbed?,Kane,Charles Foster Kane,Who is on his deathbed ?,Kane,Charles Foster Kane
+85591366e6f0ab31815c40d55e1d4d5182d20ec5,train,Who is Kane's business manager?,Bernstein,Bernstein,Who is Kane s business manager ?,Bernstein,Bernstein
+85591366e6f0ab31815c40d55e1d4d5182d20ec5,train,Who is Emily Norton's uncle?,The President of the United States.,The President of the United States,Who is Emily Norton s uncle ?,The President of the United States .,The President of the United States
+85785803e7a805be4ea0926ed22b72a418e46679,train,Who is Ssgt Nantz?,An Iraq veteran made the platoon sergeant in the battle,an iraq veteren who and 1st platoon sergeant,Who is Ssgt Nantz ?,An Iraq veteran made the platoon sergeant in the battle,an iraq veteren who and 1st platoon sergeant
+86124527eecec5f80742149412e04a52909228e7,train,Who is Aucassin?,Son of count Garin Beaucaire,Son of Count Garin of Beaucaire,Who is Aucassin ?,Son of count Garin Beaucaire,Son of Count Garin of Beaucaire
+86124527eecec5f80742149412e04a52909228e7,train,Who is Nicolette?,Aucassin love,A Saracen maiden in love with Aucassin.,Who is Nicolette ?,Aucassin love,A Saracen maiden in love with Aucassin .
+87c046f7ad020a2da8302de2d39c918d5c3d46d6,train,Who is behind the killings?,Veidt,Adrian Veidt is behind the killings.,Who is behind the killings ?,Veidt,Adrian Veidt is behind the killings .
+87c046f7ad020a2da8302de2d39c918d5c3d46d6,train,Who is Blake's daughter? ,Jupiter is Blake's daughter. ,Laurie Jupiter is Blake's daughter.,Who is Blake s daughter ?,Jupiter is Blake s daughter .,Laurie Jupiter is Blake s daughter .
+87fe5dafbe80516d43917d624a49f61c3f5d2f06,test,Who is Imam?,A Muslim priest.,A Muslim Priest,Who is Imam ?,A Muslim priest .,A Muslim Priest
+8918f091ecb40e20e1597a4bb549cd925ba410a3,train,Who is Humphry's girfriend?,"Winifred Jenkins, the maid, is his woman.",Tabitha Bramble.,Who is Humphry s girfriend ?,"Winifred Jenkins , the maid , is his woman .",Tabitha Bramble .
+8918f091ecb40e20e1597a4bb549cd925ba410a3,train,Who is Tabitha's servant?,Winifred Jenkins,Win Jenkins.,Who is Tabitha s servant ?,Winifred Jenkins,Win Jenkins .
+89310fab440108c81d027f0407ad1a8ed20f9c24,train,Who is Julio Madariaga's oldest daughter?,She is the wife of Marcelo Desonyers.,Marcelo's wife,Who is Julio Madariaga s oldest daughter ?,She is the wife of Marcelo Desonyers .,Marcelo s wife
+89310fab440108c81d027f0407ad1a8ed20f9c24,train,Who is Julio Desnoyers?,The son of Marcelo Desnoyers and his wife.,The son of Marcelo Desnoyers.,Who is Julio Desnoyers ?,The son of Marcelo Desnoyers and his wife .,The son of Marcelo Desnoyers .
+897c6dbe8ac017f03e773168f3172bca343731a2,train,Who is Stacy?,The hit man hired by Avery,A hit-man.,Who is Stacy ?,The hit man hired by Avery,A hit-man .
+897c6dbe8ac017f03e773168f3172bca343731a2,train,Who is Valentine's security agent?,Avery,Avery.,Who is Valentine s security agent ?,Avery,Avery .
+8a7e6494d5895a4be094720ec4897e9b24abe222,train,Who is Sheerin 501?,A phychologist.,A psychologist. ,Who is Sheerin 501 ?,A phychologist .,A psychologist .
+8a7e6494d5895a4be094720ec4897e9b24abe222,train,Who is Siferra 89?,The archaeologist.,An archaeologist.,Who is Siferra 89 ?,The archaeologist .,An archaeologist .
+8afdb338362e2cf594bb0cdf1f3aef8a982832ed,train,Who is Pazzi?,He is the chief detective ,Chief Inspector.,Who is Pazzi ?,He is the chief detective,Chief Inspector .
+8b5a5e185f5a7d9f240a38d396205831967418ff,test,Who was Lady Glencora's closest confidant?,Mrs. Finn.,Mrs. Finn,Who was Lady Glencora s closest confidant ?,Mrs. Finn .,Mrs. Finn
+8b68fcbf0b9d48dcdbf55abfec3a09c3caa16a1b,train,Who is Mary's lover?,George,George,Who is Mary s lover ?,George,George
+8b6f5b48584406378734c720276da32e9d93adeb,train,WHO IS LUCY DEANE'S SUITOR?,STEPHEN GUEST,Stephen Guest,WHO IS LUCY DEANE S SUITOR ?,STEPHEN GUEST,Stephen Guest
+8b6f5b48584406378734c720276da32e9d93adeb,train,Who is Lucy Deane to Maggie?,Her cousin.,Her cousin,Who is Lucy Deane to Maggie ?,Her cousin .,Her cousin
+8b801dd3b69733e83206589fe5646f63838e5e1b,valid,Who is Linda to Earl?,His trophy wife. ,Linda is Earl's wife.,Who is Linda to Earl ?,His trophy wife .,Linda is Earl s wife .
+8b801dd3b69733e83206589fe5646f63838e5e1b,valid,Who is Donnie Smith?,"Donnie smith is a former winner on ""What do Kids Know?"" whose parents spent his prize money.",a former What Do Kids Know? champion whose parents spent his prize money,Who is Donnie Smith ?,Donnie smith is a former winner on What do Kids Know ? whose parents spent his prize money .,a former What Do Kids Know ? champion whose parents spent his prize money
+8b9bb18676d9e322b4348f46fbf856107a645db3,train,Who is Cleopatra to Pharaoh Ptolemy XIII?,"She is is sister, wife and queen. ","A sister, wife, and queen.",Who is Cleopatra to Pharaoh Ptolemy XIII ?,"She is is sister , wife and queen .","A sister , wife , and queen ."
+8b9bb18676d9e322b4348f46fbf856107a645db3,train,Who was Lucius?,He was a Roman officer. ,A Roman Officer,Who was Lucius ?,He was a Roman officer .,A Roman Officer
+8b9da16420edd653ae5e0e2925dd3cade3a21ebc,train,Who is Mikey Forrester?,A drug dealer that gave Mark opium,A drug dealer. ,Who is Mikey Forrester ?,A drug dealer that gave Mark opium,A drug dealer .
+8bed193f6ba9d1e50cc86f0b56531dc33bb8d409,test,Who is Ed's brother?,Ray,Ray,Who is Ed s brother ?,Ray,Ray
+8c363b08c0232e49fcf1e41b00a1719e2fa0d157,train,Who is Clifford to Charlotte?,Her Brother.,Mr. Wentworth's son,Who is Clifford to Charlotte ?,Her Brother .,Mr. Wentworth s son
+8c363b08c0232e49fcf1e41b00a1719e2fa0d157,train,Who is Felix to Eugenia?,It is her brother.,Her brother,Who is Felix to Eugenia ?,It is her brother .,Her brother
+8cea29a5fd9e324e9ff07ab2e4a1521d591cb318,train,Who is Sloane Hopkins?,Sloane Hopkins is the assistant to Delacroix.,Delacroix's personal assistant,Who is Sloane Hopkins ?,Sloane Hopkins is the assistant to Delacroix .,Delacroix s personal assistant
+8d34e0da546a23ce02b96f88aaba16054764807f,test,Who is Billy Moorcroft?,A Utah boy who goes mysteriously missing.,A missing boy.,Who is Billy Moorcroft ?,A Utah boy who goes mysteriously missing .,A missing boy .
+8e15ee1aade0ced118df14ec3c59a14fecba8e1f,test,Who is Chenille?,A single black mother who befriends Sara.,a single mother attending the same urban Chicago school as Sarah,Who is Chenille ?,A single black mother who befriends Sara .,a single mother attending the same urban Chicago school as Sarah
+90877c0799516d3386e0290d36a115b0b8ebb631,train,Who is Mack?,A farmer that Butch and Phillip meet.,a farmer,Who is Mack ?,A farmer that Butch and Phillip meet .,a farmer
+90dfa4ccac8047bf5b7e06a9fb1178ccf8482968,train,Who is Babette?,The miller's daughter. ,The miller's daughter,Who is Babette ?,The miller s daughter .,The miller s daughter
+916835cb4bcb3baa6333e7cca25bef7710dbdcbc,test,Who is Rosemary?,Olive's mother,Olive's mother,Who is Rosemary ?,Olive s mother,Olive s mother
+91d017e6c94cd38fe5fcd3b92297dbeca97a0112,train,Who is Sorsha?,Queen Bvmorda's daughter.,Queen Bavmorda's daughter,Who is Sorsha ?,Queen Bvmorda s daughter .,Queen Bavmorda s daughter
+92134f0c9dc82e7b2cc9afd5896ae8dc7d6d088e,train,Who is Geoffry Howe?,Lady Thatcher's Deputy that resigned,A politician ,Who is Geoffry Howe ?,Lady Thatcher s Deputy that resigned,A politician
+92134f0c9dc82e7b2cc9afd5896ae8dc7d6d088e,train,Who is Thatcher's deputy?,Geoffrey Howe,Geoffrey Howe,Who is Thatcher s deputy ?,Geoffrey Howe,Geoffrey Howe
+9225235e797e38d6177ba6e3a9ed63d06168bee2,train,Who is David?,a young boy that turns out to be a robot,An android,Who is David ?,a young boy that turns out to be a robot,An android
+922ac7cfbc0ffe736ce42b2f0035caed42364bed,valid,Who is Linda's boyfriend?,Doyle,Doyle Hargraves,Who is Linda s boyfriend ?,Doyle,Doyle Hargraves
+9292406d5193d3402195df7e5647fd168da2d15a,test,Who is Katherine McKay?,She is a young PhD. candidate doing her clinical aspect of her thesis at the hospital and Adam's therapist.,a PHD candidate who develops a personal and professional relationship with Adam,Who is Katherine McKay ?,She is a young PhD . candidate doing her clinical aspect of her thesis at the hospital and Adam s therapist .,a PHD candidate who develops a personal and professional relationship with Adam
+92e3d1558dc50b861ca5d07bfef2f030b4e785e7,train,Who is Comte de Mauves' sister?,Madame de Clarian,Madame de clairin,Who is Comte de Mauves ' sister ?,Madame de Clarian,Madame de clairin
+92e3d1558dc50b861ca5d07bfef2f030b4e785e7,train,Who was naive and idealistic as a child?,Madame de Mauves,Madame de Mauves,Who was naive and idealistic as a child ?,Madame de Mauves,Madame de Mauves
+9389f614fcf481375c892e8ecb80a4be26862fc0,train,Who is Felicia?,Mason Storm's wife.,Mason's wife.,Who is Felicia ?,Mason Storm s wife .,Mason s wife .
+94328b4aa4b54eab7b004ee7ecbaff9536498590,test,Who is Thomasina Tittlemouse?,"A ""resourceful"" wood mouse",A wood mouse.,Who is Thomasina Tittlemouse ?,A resourceful wood mouse,A wood mouse .
+949f179ab9de0a9bbb52fce8fecf52bf67caaccd,train,Who is Larry Sokolov?,He is a new casino advisor for the Shangri-La.,Consultant,Who is Larry Sokolov ?,He is a new casino advisor for the Shangri-La .,Consultant
+94dc6d01df88f97843813efb11e5d7e48562c869,valid,Who is Dain Maroola?,"A Malayan prince who wanted to talk to Almayer about trading, but ended up falling in love with Almayer's daughter Nina.",a Malayan prince,Who is Dain Maroola ?,"A Malayan prince who wanted to talk to Almayer about trading , but ended up falling in love with Almayer s daughter Nina .",a Malayan prince
+953a454c146650e09d27fdb4dbe3cfdc6a9ca697,train,Who is Harriet's sister?,Rose,Rose,Who is Harriet s sister ?,Rose,Rose
+9561a72a7b909a62c43b5ff74e26103f7a03c4bc,train,Who is Roquat?,King of the Nomes,nome king,Who is Roquat ?,King of the Nomes,nome king
+964b0f4d342647ea243f1e1156c2e691ff34e6e4,train,Who is Alwynne's secret admirer?,Roger.,Roger Lumsden,Who is Alwynne s secret admirer ?,Roger .,Roger Lumsden
+96546ceb80de8303f5057f1f2f4cb9fa5d0a2b20,train,Who is Nora?,Nora is Emily's sister.,Emilys sister,Who is Nora ?,Nora is Emily s sister .,Emilys sister
+96809d5bae3dc7d250e0d0eb811119c33f511824,train,Who is Arabella Bishop?,She is Colonel Bishop's niece whom Dr. Blood later marries.,Colonel Bishop's niece,Who is Arabella Bishop ?,She is Colonel Bishop s niece whom Dr . Blood later marries .,Colonel Bishop s niece
+96809d5bae3dc7d250e0d0eb811119c33f511824,train,Who is Arabella to Colonel Bishop?,His neice.,his niece,Who is Arabella to Colonel Bishop ?,His neice .,his niece
+96fe0d2109b097524413be7ec351eb78f40b8feb,train,Who is Scott Roper?,The best hostage negotiator in San Francisco.,the best hostage negotiator in San Francisco,Who is Scott Roper ?,The best hostage negotiator in San Francisco .,the best hostage negotiator in San Francisco
+96fe0d2109b097524413be7ec351eb78f40b8feb,train,"Who is Veronica ""Ronnie"" Tate?",A newspaper reporter.,A newspaper reporter,Who is Veronica Ronnie Tate ?,A newspaper reporter .,A newspaper reporter
+96fe0d2109b097524413be7ec351eb78f40b8feb,train,"Who is Veronica ""Ronnie"" Tate's boyfriend?",Scott Roper,Scott Roper,Who is Veronica Ronnie Tate s boyfriend ?,Scott Roper,Scott Roper
+96fe0d2109b097524413be7ec351eb78f40b8feb,train,Who is Korda?,A professional jewel thief.,Korda Is a professional  Jewel thief,Who is Korda ?,A professional jewel thief .,Korda Is a professional Jewel thief
+9875d5a34bf0215171fcc87c84a724c4971cf477,train,Who is Tamara's previous boyfriend?,Ben,Ben,Who is Tamara s previous boyfriend ?,Ben,Ben
+987d3e31dc8b6029a2b9450243e122c8862bbc24,train,Who is Pernilla?,Mikael Bomkvist's daughter.,Blomkvist's daughter,Who is Pernilla ?,Mikael Bomkvist s daughter .,Blomkvist s daughter
+987d3e31dc8b6029a2b9450243e122c8862bbc24,train,Who is Anita?,Harriet's cousin,The cousin of Harriet,Who is Anita ?,Harriet s cousin,The cousin of Harriet
+987d3e31dc8b6029a2b9450243e122c8862bbc24,train,Who is Harriet?,Henrik Vanger's grandniece who disappeared and is assumed dead,Henrick's grandniece,Who is Harriet ?,Henrik Vanger s grandniece who disappeared and is assumed dead,Henrick s grandniece
+987d3e31dc8b6029a2b9450243e122c8862bbc24,train,Who is Nils Bjurman?,Salander's new legal guardian who she blackmails,Salander's new guardian.,Who is Nils Bjurman ?,Salander s new legal guardian who she blackmails,Salander s new guardian .
+987d3e31dc8b6029a2b9450243e122c8862bbc24,train,Who is Holger Palmgren?,Salanders old caretaker who she confides in about her feelings for Blomkvist,Salander's previous guardian.,Who is Holger Palmgren ?,Salanders old caretaker who she confides in about her feelings for Blomkvist,Salander s previous guardian .
+989916b68c184be23de3334a7ee8ecfa4bdd2496,train,Who was Lang former aide?,Mike Mc Ara.,Mike McAra.,Who was Lang former aide ?,Mike Mc Ara .,Mike McAra .
+989916b68c184be23de3334a7ee8ecfa4bdd2496,train,Who is Richard Rycart?,Lang's former foreign secretary. ,"Lang's former foreign secretary, now at the UN",Who is Richard Rycart ?,Lang s former foreign secretary .,"Lang s former foreign secretary , now at the UN"
+991780bf52a8a596a25465dff974db075088e2d7,train,Who was Browners wife?,Mary Cushing,Mary,Who was Browners wife ?,Mary Cushing,Mary
+99585e4b51fa1bf94db82b0551d1d664e584621d,train,Who is Graham Dalton?,He's a seeming drifter who returns to live in Baton Rouge.,John friend from college,Who is Graham Dalton ?,He s a seeming drifter who returns to live in Baton Rouge .,John friend from college
+99585e4b51fa1bf94db82b0551d1d664e584621d,train,Who is Cynthia?,Cynthia is Ann's sister and a free-spirited bartender.,Ann's sister,Who is Cynthia ?,Cynthia is Ann s sister and a free-spirited bartender .,Ann s sister
+997d5c49c59f9ac935fe208ed84c5500cf649c98,test,Who is Cynthia Webb?,"She is Davinci's mistress, the stripper who they use to pin the murder on Joe",A local stripper and Divinci's mistress.,Who is Cynthia Webb ?,"She is Davinci s mistress , the stripper who they use to pin the murder on Joe",A local stripper and Divinci s mistress .
+9a03551bf48072d870d6aa0b3cbcd3028ca8e5ac,train,Who is Alleyne the son of?,Edric,Edric.,Who is Alleyne the son of ?,Edric,Edric .
+9a03551bf48072d870d6aa0b3cbcd3028ca8e5ac,train,Who is Mary to Sir Nigel?,his wife,his wife,Who is Mary to Sir Nigel ?,his wife,his wife
+9a50bcf24dea0f3934df9a55f6e82df03c19c7cb,train,Who was Young?,CIA Agent,An agent sent to confront the President about the fake war story.,Who was Young ?,CIA Agent,An agent sent to confront the President about the fake war story .
+9b827d8f4127cffdf56129bc91a3d2bbbdeb19a4,train,Who is Douglas's enemy?,Ted Baldwin,Moriarty,Who is Douglas s enemy ?,Ted Baldwin,Moriarty
+9bb9407d60ce0a2e7b57defe538f8578ea79493b,test,Who was Feemy?,Local prostitute.,the local prostitute,Who was Feemy ?,Local prostitute .,the local prostitute
+9bd99dd1525e23d34c132f256ad8204cdf6fe089,train,Who is Valerie?,The wife of the War Department clerk Marneffe.,Wife of Merfne,Who is Valerie ?,The wife of the War Department clerk Marneffe .,Wife of Merfne
+9c26a0e3cad380e2977b25e812a617e5083e73fd,train,Who is Fanny Bertram's younger brother?,William Price,william price,Who is Fanny Bertram s younger brother ?,William Price,william price
+9c26a0e3cad380e2977b25e812a617e5083e73fd,train,Who is Emma Knightly's protege?,Kitty,Kitty Bennet ,Who is Emma Knightly s protege ?,Kitty,Kitty Bennet
+9c26a0e3cad380e2977b25e812a617e5083e73fd,train,Who is Emma's Protege'?,Kitty Bennet.,Kitty Bennett,Who is Emma s Protege ' ?,Kitty Bennet .,Kitty Bennett
+9c443f4b7fae5240b65a04b5648d20fede649249,train,Who is Gretchen?,The Burgomaster's daughter.,The Burgomaster's daughter.,Who is Gretchen ?,The Burgomaster s daughter .,The Burgomaster s daughter .
+9c443f4b7fae5240b65a04b5648d20fede649249,train,Who is Burgomaster's daughter?,Gretchen.,Gretchen,Who is Burgomaster s daughter ?,Gretchen .,Gretchen
+9c721b9297f69a20a813b12fcb0047fb22cce385,train,Who is Rath's contractor?,Nicolai ,Nicolai.,Who is Rath s contractor ?,Nicolai,Nicolai .
+9c97f8fe3e6e78aa8d35e3c4759a4d1f766000bc,test,Who is Ramon Esperanza?,A dictator and drug lord from Velverde.,he is a drug lord and dictator of Val Verde,Who is Ramon Esperanza ?,A dictator and drug lord from Velverde .,he is a drug lord and dictator of Val Verde
+9cbe9d08ff6673e8dba308ac11ba88d71b425209,train,Who is Paul's occupation?,A middle aged American hotel owner,Hotel owner,Who is Paul s occupation ?,A middle aged American hotel owner,Hotel owner
+9cd25b973d253386eaebbb7f2f7821dc7518f6d6,test,Who is Francis Dollarhyde?,The Tooth Fairy,"The ""tooth fairy""/ the killer ",Who is Francis Dollarhyde ?,The Tooth Fairy,The tooth fairy / the killer
+9d8b79107628c4dedae91fa3648e56ae94b997fc,train,Who is Andrzej Bojucki to Wladyslaw?,Friend,a non-Jewish friend who helps him go into hiding,Who is Andrzej Bojucki to Wladyslaw ?,Friend,a non-Jewish friend who helps him go into hiding
+9d8ddfe86beba149b3463eeb1bae92919e179fed,valid,Who is Earl?,Mother Firefly's ex-husband.,Dr. Satan's assistant and Mother Firefly's ex-husband.,Who is Earl ?,Mother Firefly s ex-husband .,Dr. Satan s assistant and Mother Firefly s ex-husband .
+9dc012f8cd7449629d2563aff2f72315ba6d83d5,train,Who is Mr Pollys victory over?,Uncle Jim,Uncle Jim,Who is Mr Pollys victory over ?,Uncle Jim,Uncle Jim
+9e3a7d4c30143d737b783df94e7c1c2fd6fe6514,train,Who was Pinhead in a former life?,A British Army Captain,Captain Elliot Spencer,Who was Pinhead in a former life ?,A British Army Captain,Captain Elliot Spencer
+9e7069f1b5816540f2eb1cc238c59439f7c4345c,train,Who is Terry Benedict's girlfriend?,Tess,Tess,Who is Terry Benedict s girlfriend ?,Tess,Tess
+9e7069f1b5816540f2eb1cc238c59439f7c4345c,train,Who is Tess?,Danny's ex wife.,Danny's ex-wife and Benedict's current girlfriend,Who is Tess ?,Danny s ex wife .,Danny s ex-wife and Benedict s current girlfriend
+9ebb84bdc9cc6d698ccc331437bd1ec3b5f0dddb,train,Who is Osbourne's former superior?,Palmer Smith,Palmer Smith.,Who is Osbourne s former superior ?,Palmer Smith,Palmer Smith .
+9f0a853daffcf439934cbabb860d8d145dc5dd5f,train,Who is Pechorin's ex lover?,Vera,Vera,Who is Pechorin s ex lover ?,Vera,Vera
+9f208bd022ca1e96fbd5c4132d6f8e7e7441f290,test,Who is Riley Banks?,A teen pop-star who Celeste has no respect for.,a teen-pop star,Who is Riley Banks ?,A teen pop-star who Celeste has no respect for .,a teen-pop star
+9f83c8e49f5a53b211caf37cbdc659f97d2ef30a,train,WHO IS CRAIG SCWARTZ'S WIFE?,LOTTE,Lotte,WHO IS CRAIG SCWARTZ S WIFE ?,LOTTE,Lotte
+9f83c8e49f5a53b211caf37cbdc659f97d2ef30a,train,WHO IS MAXINE'S DAUGHTER?,EMILY,Emily,WHO IS MAXINE S DAUGHTER ?,EMILY,Emily
+9f83c8e49f5a53b211caf37cbdc659f97d2ef30a,train,Who is Maxine's daughter?,Emily.,Emily,Who is Maxine s daughter ?,Emily .,Emily
+9ff140c1a8d2d147eaa956d8783481e401ab3beb,train,Who is Willis?,a former Oxford peer who converted to Roman Catholicism,A former Oxford peer,Who is Willis ?,a former Oxford peer who converted to Roman Catholicism,A former Oxford peer
+a0046fa8fcc3e3e5d5205476e71e7b375e83158e,train,Who was John Manners secret lover?,Dorothy,Dorothy,Who was John Manners secret lover ?,Dorothy,Dorothy
+a03d6a5ddf48beb93529c87571fad8e02d17b373,train,Who is Jeannine?,Conrad's girlfriend,She is a fellow student Conrad is dating.,Who is Jeannine ?,Conrad s girlfriend,She is a fellow student Conrad is dating .
+a03d6a5ddf48beb93529c87571fad8e02d17b373,train,Who is Beth in relationship to Conrad?,She is his mother,She is his mother,Who is Beth in relationship to Conrad ?,She is his mother,She is his mother
+a291171000871c2588aacdbe03496c21fe9aec05,train,Who is Mini Me?,A clone of Dr. Evil.,Dr. Evil's miniature clone of himself.,Who is Mini Me ?,A clone of Dr . Evil .,Dr . Evil s miniature clone of himself .
+a396cef5286c5c07adbfc2a5d792402c1418d571,train,Who is Patsy?,'Tom Grogan's' daughter.,Tiny Tim's companion,Who is Patsy ?,Tom Grogan s ' daughter .,Tiny Tim s companion
+a414849832c3837bdc7e1316dfd9976485cf13b7,train,Who is Samuel's older brother?,Junior.,Junior.,Who is Samuel s older brother ?,Junior .,Junior .
+a414849832c3837bdc7e1316dfd9976485cf13b7,train,Who was in the emergency room and why?,suzie was in the emegency room because she grasped the knife.,Suzie was in the emergency room after she suffered a wound when grasping the knife that Samuel and Junior were struggling over during their fight.,Who was in the emergency room and why ?,suzie was in the emegency room because she grasped the knife .,Suzie was in the emergency room after she suffered a wound when grasping the knife that Samuel and Junior were struggling over during their fight .
+a4aef60147a93723b3f6618336ca90d672c25cbc,train,Who is Lily?,Another dancer that Leroy instructs Nina to observe and learn from. ,the understudy,Who is Lily ?,Another dancer that Leroy instructs Nina to observe and learn from .,the understudy
+a65c4ede45179964de0abc38a88aecd767eaf505,train,Who is Rhonda?,A graduate student who is conducting seismology tests ,A graduate student.,Who is Rhonda ?,A graduate student who is conducting seismology tests,A graduate student .
+a69fee0515cdb067fec5c42fa88ace5c9639118c,train,Who was Joanna?,Ted's wife,Ted's wife,Who was Joanna ?,Ted s wife,Ted s wife
+a69fee0515cdb067fec5c42fa88ace5c9639118c,train,Who was Billy?,Ted and Joanna son,Billy is Ted and Joanna's son.,Who was Billy ?,Ted and Joanna son,Billy is Ted and Joanna s son .
+a69fee0515cdb067fec5c42fa88ace5c9639118c,train,Who was Margaret?,Ted neighbor,Ted's neighbor,Who was Margaret ?,Ted neighbor,Ted s neighbor
+a6abf42f24dac561c0245f7638c6693d5a73bc28,train,Who is Marina?,She is the fiancee of Demetrius and the daughter of Mnischek. ,Demetrius' fiancee.,Who is Marina ?,She is the fiancee of Demetrius and the daughter of Mnischek .,Demetrius ' fiancee .
+a6abf42f24dac561c0245f7638c6693d5a73bc28,train,Who is Demetrius the son of?,Ivan the Terrible. ,Ivan The Terrible,Who is Demetrius the son of ?,Ivan the Terrible .,Ivan The Terrible
+a6dfeb4977cc8ba862878693664d326d7c6049e7,valid,Who is Jeanie?,A girl who died after eating the goblins' fruit,A girl who had died after eating the goblins' fruit.,Who is Jeanie ?,A girl who died after eating the goblins ' fruit,A girl who had died after eating the goblins ' fruit .
+a6dfeb4977cc8ba862878693664d326d7c6049e7,valid,Who is Laura to Lizzie?,Her sister.,She is her sister.,Who is Laura to Lizzie ?,Her sister .,She is her sister .
+a77f52738cbd7ce7658e3fe5853068eb8fc095c4,train,Who is Lora Lee Sherman's illegitimate son?,Mr. Marliston,Mr. Marliston,Who is Lora Lee Sherman s illegitimate son ?,Mr. Marliston,Mr. Marliston
+a7dda57366f6c9e627b4cbd97b89e3645551d258,test,Who is responsible for Bussy's destruction?,"Tamyra's husband, Montsurry.",Montsurry.,Who is responsible for Bussy s destruction ?,"Tamyra s husband , Montsurry .",Montsurry .
+a7dda57366f6c9e627b4cbd97b89e3645551d258,test,Who is Bussy's brother?,Clermont D'Ambois.,Clermont D'Ambois,Who is Bussy s brother ?,Clermont D'Ambois .,Clermont D'Ambois
+a7dda57366f6c9e627b4cbd97b89e3645551d258,test,Who is Clermont's brother?,Bussy. ,Bussy,Who is Clermont s brother ?,Bussy .,Bussy
+a7dda57366f6c9e627b4cbd97b89e3645551d258,test,Who is Claremont a follower of? ,Duc de Guise. ,The Duc de Guise.,Who is Claremont a follower of ?,Duc de Guise .,The Duc de Guise .
+a7dda57366f6c9e627b4cbd97b89e3645551d258,test,Who is Tymra? ,Bussey's former lover. ,Tamyra is Montsurry's wife.,Who is Tymra ?,Bussey s former lover .,Tamyra is Montsurry s wife .
+a7edd5dfe618e9d0fe3051af99e305362791e5e3,train,Who is Selden to Mrs. Barrymore?,A brother,her brother,Who is Selden to Mrs. Barrymore ?,A brother,her brother
+a8545e0060efd59a881c3724570efba89e2cd261,train,Who is Sheila's brother?,A fallen knight.,one of Arthur's fallen knights,Who is Sheila s brother ?,A fallen knight .,one of Arthur s fallen knights
+a8549480950ac906c9426b7d8cb7963e52e4cd6c,train,Who is Casy to Tom?,The preacher who had baptizes him.,The preacher who baptized him. ,Who is Casy to Tom ?,The preacher who had baptizes him .,The preacher who baptized him .
+a87d47ee243b5cc4f8ce3acf483ccf9e77083e16,train,Who is Marian's cousin?,Marian's cousin is Richard the Lionhearted.,King Richard ,Who is Marian s cousin ?,Marian s cousin is Richard the Lionhearted .,King Richard
+a887641959e80961ce68baaf02efa0d3f2e18daa,train,Who was Rhessus?,The king of Trace.,The king of Thrace,Who was Rhessus ?,The king of Trace .,The king of Thrace
+a8a9976abcdea78a876f01bb592a693f4befb419,train,Who is impenetrable by bullets? ,Cyprian Rougemont. ,Rougemont,Who is impenetrable by bullets ?,Cyprian Rougemont .,Rougemont
+a8e98a0a5f40a1eaa07a6219130671a51ea6eaac,train,Who is Madame Raquin's son?,Camille,Camille.,Who is Madame Raquin s son ?,Camille,Camille .
+a8e98a0a5f40a1eaa07a6219130671a51ea6eaac,train,Who is Laurent?,Camille's childhood friend.,A childhood friend of Camille and Therese's affair partner.,Who is Laurent ?,Camille s childhood friend .,A childhood friend of Camille and Therese s affair partner .
+a90970da83bef2b96566608cec4724c7c1da507f,train,Who is Aslan?,Aslan is a lion who leads the Narnians.,a lion who saves Narnia,Who is Aslan ?,Aslan is a lion who leads the Narnians .,a lion who saves Narnia
+a9498e8974748cf3d5b25e455138591a6da4cf5e,train,Who is William Miller's wife?,Olivia Carteret's illigitimate half sister Janet,janet,Who is William Miller s wife ?,Olivia Carteret s illigitimate half sister Janet,janet
+a9498e8974748cf3d5b25e455138591a6da4cf5e,train,Who is William Miller?,A black physician who moves back to Wellington to practice medicine.,A physician.,Who is William Miller ?,A black physician who moves back to Wellington to practice medicine .,A physician .
+a9498e8974748cf3d5b25e455138591a6da4cf5e,train,Who is Sandy Campbell?,A woman accused of killing Polly Olichtree unjustly.,A servant.,Who is Sandy Campbell ?,A woman accused of killing Polly Olichtree unjustly .,A servant .
+a9a03a147849d65e6bcaf3cc74c3dd93d0ef88d4,test,Who is Luchesi?,a wine aficionado ,a wine aficiondo,Who is Luchesi ?,a wine aficionado,a wine aficiondo
+a9a03a147849d65e6bcaf3cc74c3dd93d0ef88d4,test,Who is Luchesi?,A fellow wine aficionado,A wine aficionado.,Who is Luchesi ?,A fellow wine aficionado,A wine aficionado .
+ab35e5d3266a05297db471612ce06095c5190649,train,Who is Melchior de Canalis professionally?,a famous Parisian poet,A poet,Who is Melchior de Canalis professionally ?,a famous Parisian poet,A poet
+ab35e5d3266a05297db471612ce06095c5190649,train,Who is Ernest de la Briere?,Melchior de Canalis's secretary,Canalis' secretary.,Who is Ernest de la Briere ?,Melchior de Canalis s secretary,Canalis ' secretary .
+ab78e645d43e4f56ca208ef590f0a4662b4d8efb,train,Who was Bruce Wayne's childhood sweetheart?,Rachel Dawes,Rachel Dawes,Who was Bruce Wayne s childhood sweetheart ?,Rachel Dawes,Rachel Dawes
+ac807f3965591f8e23d3565d473fbf5e77264fd7,train,Who is Hero's wife?,Heroine.,Heroine.,Who is Hero s wife ?,Heroine .,Heroine .
+ac807f3965591f8e23d3565d473fbf5e77264fd7,train,Who is Bozo's brother?,Hot Wheels.,Bozo's brother is Hot Wheels,Who is Bozo s brother ?,Hot Wheels .,Bozo s brother is Hot Wheels
+ad13b1236bd9c3b925d27a487959205d209ca361,train,Who is Deke Thornton the leader of?,A group of bounty hunters,a posse of bounty hunters,Who is Deke Thornton the leader of ?,A group of bounty hunters,a posse of bounty hunters
+ad63a9aa1afa22bf51451da2e2f45d9543c9ca62,train,Who is Lisa?,Lisa is Jeff's girlfriend.,She is Jeff's girlfriend.,Who is Lisa ?,Lisa is Jeff s girlfriend .,She is Jeff s girlfriend .
+ad63a9aa1afa22bf51451da2e2f45d9543c9ca62,train,Who is Stella?,Jeff's nurse who comes to check on him frequently. ,jeff's insurance company's nurse,Who is Stella ?,Jeff s nurse who comes to check on him frequently .,jeff s insurance company s nurse
+add8e2efd820ef2778c746e2d3d6c0cd8c650672,train,Who is Erica with at the restaurant?,Julian,Harry,Who is Erica with at the restaurant ?,Julian,Harry
+add8e2efd820ef2778c746e2d3d6c0cd8c650672,train,Who is Julian?,ER Doctor,The doctor who initially treated Harry ,Who is Julian ?,ER Doctor,The doctor who initially treated Harry
+ae029461fcf47fb7c4e9e2574c7fb936ca29937b,test,Who is Paul Irving?,one of Anne's students.,Annes's student,Who is Paul Irving ?,one of Anne s students .,Annes s student
+ae029461fcf47fb7c4e9e2574c7fb936ca29937b,test,Who is Anne's new neighbor?,Mr. Harrison,Mr Harrison,Who is Anne s new neighbor ?,Mr. Harrison,Mr Harrison
+af7a0d8c4451211b245244cb4ac54532b160b5e5,test,Who is Tigranes?,The king of Armenia,King of Armenia,Who is Tigranes ?,The king of Armenia,King of Armenia
+af7a0d8c4451211b245244cb4ac54532b160b5e5,test,Who is Tigranes?,The defeated king of Armenia.,the defeated king of Armenia,Who is Tigranes ?,The defeated king of Armenia .,the defeated king of Armenia
+afa2f47d178398d3f3c9515662fc5bbd71b15ccd,valid,Who is Aaron Hancock?,A hobo philosopher,One of the men that character Evan Graham is based upon,Who is Aaron Hancock ?,A hobo philosopher,One of the men that character Evan Graham is based upon
+b063e2afb2fea948eeb22b94fde9fd804a285531,train,Who was Manly?,Charlotte's brother,"Charlotte's brother, a Colonel from the Revolutionary war.",Who was Manly ?,Charlotte s brother,"Charlotte s brother , a Colonel from the Revolutionary war ."
+b08882a8306a6a4b1f405827ee19b4aca538c023,test,Who is Oola?,the wife of the owner of the car Gary was driving,the real owner of the car's wife,Who is Oola ?,the wife of the owner of the car Gary was driving,the real owner of the car s wife
+b1b2826a2726fe62ceae88b01bf0be24d95a9d39,train,Who is Claude in relation to Margot?,Her son,Her son,Who is Claude in relation to Margot ?,Her son,Her son
+b1b2826a2726fe62ceae88b01bf0be24d95a9d39,train,Who is pregnant?,Pauline,Margot,Who is pregnant ?,Pauline,Margot
+b1b67dc8de94763e66312262449f6cd55956f1f0,train,Who was Clyde's brother?,Buck,Buck,Who was Clyde s brother ?,Buck,Buck
+b204fe7a3e05309d993312746b8694092786be79,valid,Who is Mulder and Scully's enemy?,The cigarette smoking man.,The Cigarette Smoking Man.,Who is Mulder and Scully s enemy ?,The cigarette smoking man .,The Cigarette Smoking Man .
+b2091fab7149af1b52bdd0a2bc28e60a2092a16a,valid,Who is Maurya's brother?,Michael,Maurya's brother is Bartley,Who is Maurya s brother ?,Michael,Maurya s brother is Bartley
+b236a647b02cd1b003edbf96ab501e8d6aea6c6d,test,Who is Agness?,Jake's second wife.,Jake's second wife.,Who is Agness ?,Jake s second wife .,Jake s second wife .
+b2ea4fae4188c23a975683eaeb43ed2ac698f7c0,train,Who is Kimball O'Hara?,The son of an Irish soldier and Irish mother who both died in poverty.,He is an orphan.,Who is Kimball O'Hara ?,The son of an Irish soldier and Irish mother who both died in poverty .,He is an orphan .
+b2ea4fae4188c23a975683eaeb43ed2ac698f7c0,train,Who is Mahbub Ali?,A member of the British SS and a horse trader.,A native operative of the British Secret service.,Who is Mahbub Ali ?,A member of the British SS and a horse trader .,A native operative of the British Secret service .
+b2fd5522ca8f334235d3e481ff91ddd982e84d02,train,WHO IS ROHASENA TO CHARUDATTA?,HIS SON,his son,WHO IS ROHASENA TO CHARUDATTA ?,HIS SON,his son
+b2fd5522ca8f334235d3e481ff91ddd982e84d02,train,WHO IS VASANTHASENA TO CHARUDATTA?,HIS MISTRISS,His mistress.,WHO IS VASANTHASENA TO CHARUDATTA ?,HIS MISTRISS,His mistress .
+b2fd5522ca8f334235d3e481ff91ddd982e84d02,train,WHO IS MADANIKA TO VASANTHASENA?,HER SLAVE,Her slave,WHO IS MADANIKA TO VASANTHASENA ?,HER SLAVE,Her slave
+b2fd5522ca8f334235d3e481ff91ddd982e84d02,train,WHO IS SARVILAKA TO MADANIKA?,HER LOVER,Her lover .,WHO IS SARVILAKA TO MADANIKA ?,HER LOVER,Her lover .
+b31c8b60d28467403c1615ec883b167a0c103835,test,Who is Andy's destructive neighbor?,Sid Phillips.,Sid,Who is Andy s destructive neighbor ?,Sid Phillips .,Sid
+b346adfa183aaa8aa160f0abd662f3463adbaf56,train,Who is Madam Max Goesler?,"A wealthy widow who, in the past,  had offered to marry Phineas Finn. ",A rich widow,Who is Madam Max Goesler ?,"A wealthy widow who , in the past , had offered to marry Phineas Finn .",A rich widow
+b38ea90791d8f8be86027c57edcea26dba5fcb44,test,Who is George Somerset?,Paula's architect,An architecht from London,Who is George Somerset ?,Paula s architect,An architecht from London
+b38ea90791d8f8be86027c57edcea26dba5fcb44,test,Who is George Somerset?,An architect employed by Paula Power,an architect,Who is George Somerset ?,An architect employed by Paula Power,an architect
+b3a2d33cda85a84d90b6a4a9f88ab920e2c9643f,test,Who is Constance in relation to Cesar?,his wife,Constance is Cesar's wife.,Who is Constance in relation to Cesar ?,his wife,Constance is Cesar s wife .
+b3a2d33cda85a84d90b6a4a9f88ab920e2c9643f,test,Who is Cesar's wife?,Constance,Constance.,Who is Cesar s wife ?,Constance,Constance .
+b3a3aa9733be6502e3df5dcd1658f2d436635fa9,train,Who is Lady Harman?,She is the wife of Sir Isaac Harman,the wife of Sir Isaac Harman,Who is Lady Harman ?,She is the wife of Sir Isaac Harman,the wife of Sir Isaac Harman
+b452510fec08b4c0590abdd1e8a4b134f57cd805,train,Who is Lloyd Abbott's wife?,Joan Abbott,Joan,Who is Lloyd Abbott s wife ?,Joan Abbott,Joan
+b5085440d9a6b8582451b18e55ee5793892899e4,train,Who is Harriet Byron?,She is an orphan who is heir to fifteen thousand pounds.,an orphan,Who is Harriet Byron ?,She is an orphan who is heir to fifteen thousand pounds .,an orphan
+b5085440d9a6b8582451b18e55ee5793892899e4,train,Who was Signorina Clementina della Porretta?,She was the daughter of an Italian baron.,She was an Italian woman who Grandison had proposed to.,Who was Signorina Clementina della Porretta ?,She was the daughter of an Italian baron .,She was an Italian woman who Grandison had proposed to .
+b510383c844f4f423a9e5ca63daa4b665916aa96,test,Who is Maia to Arnold Rubek? ,His wife.,She is his wife.,Who is Maia to Arnold Rubek ?,His wife .,She is his wife .
+b510383c844f4f423a9e5ca63daa4b665916aa96,test,Who is Irena to Arnold?,"The former model of his sculpture called ""Resurrection"". ",She is his artistic muse and nude model.,Who is Irena to Arnold ?,The former model of his sculpture called Resurrection .,She is his artistic muse and nude model .
+b5e8bad0c0071c50ed8594102c9988250c2c03b1,train,Who was Spencer's choice for bridegroom of Gloriana?,Arther,Arthur,Who was Spencer s choice for bridegroom of Gloriana ?,Arther,Arthur
+b61541153e7d52f0238fb8014efbad42728143fa,test,"Who is Delia, really?",Mrs. Malaprop.,Mrs. Malaprop.,"Who is Delia , really ?",Mrs. Malaprop .,Mrs. Malaprop .
+b6f65f8447d5268bdfeb7529edcf0c630683552b,train,Who is a geologist?,John Hale,Hale,Who is a geologist ?,John Hale,Hale
+b73035c123d8fab8f2be18dd9759bedbf1bbaf20,train,Who is Nabote?,The Queen of the Faries,The Queen of the Fairies,Who is Nabote ?,The Queen of the Faries,The Queen of the Fairies
+b73035c123d8fab8f2be18dd9759bedbf1bbaf20,train,Who is Desirs?,another beautiful princess who was kidnapped,A beautiful princess who was kidnapped.,Who is Desirs ?,another beautiful princess who was kidnapped,A beautiful princess who was kidnapped .
+b7d110c2b105935a4284db267650661a3d572b26,train,Who is Lester's mistress that is also George's former girlfriend?,Jackie,Jackie,Who is Lester s mistress that is also George s former girlfriend ?,Jackie,Jackie
+b7d110c2b105935a4284db267650661a3d572b26,train,Who is Jill?,One of George's prior lovers.,George's current girlfriend.,Who is Jill ?,One of George s prior lovers .,George s current girlfriend .
+b7e29b2f50e6e7fccc027144f4b2c90563e09916,train,Who is Homer's would-be assassin?,Abe Baker,abe baker is the assassin ,Who is Homer s would-be assassin ?,Abe Baker,abe baker is the assassin
+b7e29b2f50e6e7fccc027144f4b2c90563e09916,train,Who is El Hassan?,An imaginary leader,Homer Crawford.,Who is El Hassan ?,An imaginary leader,Homer Crawford .
+b833410a8ff29952ca664319cb3462f2fd07d4f9,valid,Who is Dwayne Murney?,The vice principal,Dwayne Murney is the vice principal of the school.,Who is Dwayne Murney ?,The vice principal,Dwayne Murney is the vice principal of the school .
+b856de66b8fd259ac0a3e5bef124efb447fe4f75,train,Who is Henry's Austrian colleague? ,Dr. Elsa Schneider,Dr. Elsa Schneider,Who is Henry s Austrian colleague ?,Dr. Elsa Schneider,Dr. Elsa Schneider
+b8b22116b9e2dba278243ab9a20b92cdd925f791,train,Who is Pinhead?,A leader among the Cenobites.,A Cenobite,Who is Pinhead ?,A leader among the Cenobites .,A Cenobite
+b8fdff367e0613f79caf042c8f036fdddd234364,train,Who is Clyde?,A school bully.,A bully at school,Who is Clyde ?,A school bully .,A bully at school
+b9b1d29235c8e39aef27ce894e77a19955e6e51e,train,Who is Marina?,Pericles' and Thaisa's daughter. ,The daughter of Pericles,Who is Marina ?,Pericles ' and Thaisa s daughter .,The daughter of Pericles
+ba09fb16effa053774cf76e1e27e3d46a45de048,test,Who is Thunderheart?,A Native American hero killed at Wounded Knee,Ray,Who is Thunderheart ?,A Native American hero killed at Wounded Knee,Ray
+ba75a22b975fe4a286bf129a1a3c354b42a60012,train,Who was James' principal publisher?,Harper,Harper,Who was James ' principal publisher ?,Harper,Harper
+ba75a22b975fe4a286bf129a1a3c354b42a60012,train,Who is James' protege?,John Singer Sargent,John Singer Sargent.,Who is James ' protege ?,John Singer Sargent,John Singer Sargent .
+ba8ee38aaf59d57090798dcbe0db6ef416af6533,train,Who is Marjory's landlord?,Don Bernardino,Don Bernardino,Who is Marjory s landlord ?,Don Bernardino,Don Bernardino
+bb4c45e6a2f4c58def38dbd630d7059028c27bdd,test,Who is Monkeybone?,A monkey comic strip character created by Stu Miley.,A rascal monkey. ,Who is Monkeybone ?,A monkey comic strip character created by Stu Miley .,A rascal monkey .
+bb6376e342dc66b433066219e35995b491923a16,test,Who is Iola's grandmother?,Harriet,Harriet,Who is Iola s grandmother ?,Harriet,Harriet
+bb9df0f4f33c3622d88052e257a9b7ec2004ffa4,train,Who is Freya?,A wise woman.,wise woman,Who is Freya ?,A wise woman .,wise woman
+bc4210c7f08ea8a3e4244644beecf738282dc01d,train,Who is Gregor?,A fellow mercaniere,German Mercenary,Who is Gregor ?,A fellow mercaniere,German Mercenary
+bc4210c7f08ea8a3e4244644beecf738282dc01d,train,Who is Natasha's boyfriend?,Mikhi,Mikhi,Who is Natasha s boyfriend ?,Mikhi,Mikhi
+bc4210c7f08ea8a3e4244644beecf738282dc01d,train,Who is Mikhi's girlfriend?,Natacha Kirilova,Natacha,Who is Mikhi s girlfriend ?,Natacha Kirilova,Natacha
+bc42c0d69d80a45724cb2c7ca1acb649147c3a4f,test,Who is Gamelin's mentor?,Robespierre.,Robespierre,Who is Gamelin s mentor ?,Robespierre .,Robespierre
+bcc5630960932198b83f7f446a700cc3d20ba03a,train,Who is Gabrielle?,Nathan's research assistant.,the french assistant,Who is Gabrielle ?,Nathan s research assistant .,the french assistant
+bd14fef15878fdac1e9c2d2dbe52df0951f38aad,test,Who is Charlie's assistant?,Bosley.,Bosley.,Who is Charlie s assistant ?,Bosley .,Bosley .
+bd14fef15878fdac1e9c2d2dbe52df0951f38aad,test,Who is Bosley?,Bosley is Charlie's assistant that works with the girls and helps take care of them.,assistant to Charlie,Who is Bosley ?,Bosley is Charlie s assistant that works with the girls and helps take care of them .,assistant to Charlie
+bd14fef15878fdac1e9c2d2dbe52df0951f38aad,test,Who is Eric Knox?,He created a new voice recognition system and is the head of Knox Enterprises.,software genius,Who is Eric Knox ?,He created a new voice recognition system and is the head of Knox Enterprises .,software genius
+bddb5d539d43bd3d63ca9ff7266e424eb5854521,valid,Who is Verdell?,Simon's dog.,Simon's dog ,Who is Verdell ?,Simon s dog .,Simon s dog
+bebb3d64b5731fd2cf2e4555686b4959eb2ac4f0,train,Who is Larry O'Keefe?,A pilot,An Irish-American pilot.,Who is Larry O'Keefe ?,A pilot,An Irish-American pilot .
+beffc971cf9ffce91739a7becca0ca2985d00f70,train,Who is Sara's college roommate?,Rebecca.,Rebecca,Who is Sara s college roommate ?,Rebecca .,Rebecca
+bf438dd002b209fa4550cd56752c6549428fc4bc,train,Who is Teddy?,An undercover officer who was trying to help find out name of the second attacker.,An undercover police officer. ,Who is Teddy ?,An undercover officer who was trying to help find out name of the second attacker .,An undercover police officer .
+bfa4337d607ac8fc05b9fe976d4f166d96cd99c4,train,Who is Yanko Goorall?,The emigrant,An emigrant from Central Europe,Who is Yanko Goorall ?,The emigrant,An emigrant from Central Europe
+bfa4337d607ac8fc05b9fe976d4f166d96cd99c4,train,Who is Johnny?,Amy and Yanko's son.,Yanko and Amy's son.,Who is Johnny ?,Amy and Yanko s son .,Yanko and Amy s son .
+bfd50b1cf73709308ab4ad727d829c5fca23480c,test,Who is Whistler to Blade? ,An old friend.,He is an old friend,Who is Whistler to Blade ?,An old friend .,He is an old friend
+bff116935a9696fc3351f49dd8a45a1ad9986458,test,Who is lthe attorneys wife?,Amaranta,amaranta,Who is lthe attorneys wife ?,Amaranta,amaranta
+bff116935a9696fc3351f49dd8a45a1ad9986458,test,Who is Ascencio?,Henriques son,Jamie's friend.,Who is Ascencio ?,Henriques son,Jamie s friend .
+bff116935a9696fc3351f49dd8a45a1ad9986458,test,Who is octavio?,Ascencio. Step dad,Ascanio's pretended father.,Who is octavio ?,Ascencio . Step dad,Ascanio s pretended father .
+c002791c4ff779710ca7ba8d8cde2ac4b27d28b3,train,Who is Tarr?,A British spy who insists there is a British intelligence mole. ,A spy brittish,Who is Tarr ?,A British spy who insists there is a British intelligence mole .,A spy brittish
+c085c72c78f6ad35854654d222a54b016b08dc65,test,Who is Ilya?,Tretiak's son,Tretiak's son.,Who is Ilya ?,Tretiak s son,Tretiak s son .
+c0aa30a9c4eeace0c59ae36a6f9387b553e8c245,train,WHO IS APAECIDES TO IONE?,HER BROTHER,He rescued her from Arbaces.,WHO IS APAECIDES TO IONE ?,HER BROTHER,He rescued her from Arbaces .
+c0aa30a9c4eeace0c59ae36a6f9387b553e8c245,train,Who is Ione's former guardian?,Arbaces,Arbaces,Who is Ione s former guardian ?,Arbaces,Arbaces
+c0d9cd53852bbae82b7af2c9acf6d9589142dec8,train,Who is Ylajali to the vagrant?,A young woman who he engages in physical intimacy with.,A romantic interest.,Who is Ylajali to the vagrant ?,A young woman who he engages in physical intimacy with .,A romantic interest .
+c2193fc3815805a7d95a72d4f28b02133a7db6de,train,Who is Nannie?,A sexy female witch.,She is a witch that Tam has taken a liking to.,Who is Nannie ?,A sexy female witch .,She is a witch that Tam has taken a liking to .
+c231d777e69681b32aff6a29bcb70932bc60c0a9,test,Who is Ellen to Robert?,His wife.,his spouse,Who is Ellen to Robert ?,His wife .,his spouse
+c29a505a7f2efe48bc73da66d4608888b8dc617b,train,Who is Vegan Todd Ingram?,Ramona's third ex.,"an ex, whom he defeats ",Who is Vegan Todd Ingram ?,Ramona s third ex .,"an ex , whom he defeats"
+c29a505a7f2efe48bc73da66d4608888b8dc617b,train,Who was Ramonas seventh evil ex?,Gideon.,Gideon.,Who was Ramonas seventh evil ex ?,Gideon .,Gideon .
+c2b895e8b32548747637d328a8fc77ad705e55f6,train,Who is Hermann the son of?,A wealthy innkeeper,Wealthy innkeeper,Who is Hermann the son of ?,A wealthy innkeeper,Wealthy innkeeper
+c2e872845e99f82ddfa5a3ed84f985a04b6729e6,test,Who is David Dokos?,George's neighbor who is trying to stop the construction of the house because it is 6 inches too tall,George's neighbor,Who is David Dokos ?,George s neighbor who is trying to stop the construction of the house because it is 6 inches too tall,George s neighbor
+c400547f76777cf05ab832229f730077ec3be94b,train,WHO WAS REVEREND HALY TO ELIZA?,HER BETHROTHED WHO DIED,Her betrothed.,WHO WAS REVEREND HALY TO ELIZA ?,HER BETHROTHED WHO DIED,Her betrothed .
+c400547f76777cf05ab832229f730077ec3be94b,train,WHO IS BOYER TO ELIZA?,A SUITOR,a suitor,WHO IS BOYER TO ELIZA ?,A SUITOR,a suitor
+c400547f76777cf05ab832229f730077ec3be94b,train,WHO IS CHARLES DEIGHTON TO SANFORD?,HIS FRIEND,his friend,WHO IS CHARLES DEIGHTON TO SANFORD ?,HIS FRIEND,his friend
+c400547f76777cf05ab832229f730077ec3be94b,train,Who is Boyer?,Boyer is a well-respected but boring clergyman.,a respected clergyman,Who is Boyer ?,Boyer is a well-respected but boring clergyman .,a respected clergyman
+c400547f76777cf05ab832229f730077ec3be94b,train,Who is Sanford?,Sanford is an aristocratic libertine. ,A man who courted Eliza.,Who is Sanford ?,Sanford is an aristocratic libertine .,A man who courted Eliza .
+c495d58b38155f9d465fc570dd35a74e9551dcaf,train,Who is Randall Peltzer?,Randall is Billy's Dad,Billy's Dad,Who is Randall Peltzer ?,Randall is Billy s Dad,Billy s Dad
+c495d58b38155f9d465fc570dd35a74e9551dcaf,train,Who is Billy's girlfriend?,Kate Beringer is billy's girlfriend,Kate Beringer.,Who is Billy s girlfriend ?,Kate Beringer is billy s girlfriend,Kate Beringer .
+c504d1c2be689fe79324ef90f3657dc02ef2acfb,train,Who is Whorfin?,He is the leader of the Red Lectiods,the leader of the Red Lectroids,Who is Whorfin ?,He is the leader of the Red Lectiods,the leader of the Red Lectroids
+c504d1c2be689fe79324ef90f3657dc02ef2acfb,train,WHO IS DR HIKITA TO BANZAI?,HIS MENTOR,His mentor.,WHO IS DR HIKITA TO BANZAI ?,HIS MENTOR,His mentor .
+c5210a714c3fecc18d770665ef641c61d10c1317,test,Who is Nell?,A food court worker. ,A person that works in the food court.,Who is Nell ?,A food court worker .,A person that works in the food court .
+c5210a714c3fecc18d770665ef641c61d10c1317,test,Who is Saddamn?,An Arab shopkeeper. ,A shopkeeper in the mall who is Arab.,Who is Saddamn ?,An Arab shopkeeper .,A shopkeeper in the mall who is Arab .
+c570e32f01dad103306d9b4320770daeb8873bca,train,Who is Gunlod's  Christian lover?,Gunlod's Christian lover is Gunnar.,Gunnar. ,Who is Gunlod s Christian lover ?,Gunlod s Christian lover is Gunnar .,Gunnar .
+c5fbceeedd74bdb32ed744381e7edd65cfd17a8a,test,Who was Tacitus's father-in-law?,Agricola,Agricola,Who was Tacitus s father-in-law ?,Agricola,Agricola
+c5fbceeedd74bdb32ed744381e7edd65cfd17a8a,test,Who is commander of the army?,Tacitus.,Agricola,Who is commander of the army ?,Tacitus .,Agricola
+c6bf28c8adbc7b8fb371bc7cb38d1be353597147,valid,Who is Princess Irene's nursemaid?,Lootie,Lootie.,Who is Princess Irene s nursemaid ?,Lootie,Lootie .
+c6bf28c8adbc7b8fb371bc7cb38d1be353597147,valid,Who is Princess Irene's nursemaid?,Lootie.,Lootie,Who is Princess Irene s nursemaid ?,Lootie .,Lootie
+c72161c89a7dc8ea5d62b200689bd2acae6f354d,train,Who is an insurance broker? ,Johana Baker,Johana Baker,Who is an insurance broker ?,Johana Baker,Johana Baker
+c85ec67ceff73b596af55bbd3cd88bfd37f622ec,train,Who is Erik?,Erik is an ex CIA operative who has been training Hanna.,An ex-CIA agent and father figure in Hanna's life.,Who is Erik ?,Erik is an ex CIA operative who has been training Hanna .,An ex-CIA agent and father figure in Hanna s life .
+c8ce03f26a02ca9fcfbb0c9272f4558402b919b4,train,Who is Stevei to Mrs. Verloc?,Brother,Her brother. ,Who is Stevei to Mrs. Verloc ?,Brother,Her brother .
+c8e44f344826eb56a9f8d4600582e8816a4da91d,train,Who is Bartleby?,The third scrivener who is hired. ,Bartleby is a scrivener. ,Who is Bartleby ?,The third scrivener who is hired .,Bartleby is a scrivener .
+c93b98fc3db3bc4323b55358caf2fa77b495a765,train,Who is Dulcea?,Phaedos' Master Warrior.,Pheados' Master Warrior,Who is Dulcea ?,Phaedos ' Master Warrior .,Pheados ' Master Warrior
+c964b6f4312c789c76b202a664ccab8a9807282f,train,Who was Andrew Treverton?,A villainious servant and heir to Porthagenna Tower,Mrs. Treverton's brother,Who was Andrew Treverton ?,A villainious servant and heir to Porthagenna Tower,Mrs. Treverton s brother
+c9fb048c6f4d00d15a69c9049c4826cc66118bb3,train,Who was Daffy?,Daffy is the person that told Richard about the island and gave him a map on how to get there.,A traveller who tells Richard of an island in the Gulf of Thailand.,Who was Daffy ?,Daffy is the person that told Richard about the island and gave him a map on how to get there .,A traveller who tells Richard of an island in the Gulf of Thailand .
+ca62fc427e58bfba7739e0d514ffe433695ff602,train,Who is Julius's girlfriend?,Lil,Lil,Who is Julius s girlfriend ?,Lil,Lil
+cacaa9792f080cab033f10fd7025c5d025f93d0a,train,Who was Reardon's wife?,Amy,Amy Reardon,Who was Reardon s wife ?,Amy,Amy Reardon
+cacaa9792f080cab033f10fd7025c5d025f93d0a,train,Who was Mirian?,Alfred's daughter,A research assistant. ,Who was Mirian ?,Alfred s daughter,A research assistant .
+cacaa9792f080cab033f10fd7025c5d025f93d0a,train,Who was John Yule?,Mirian's  uncle.,Martin's wealthy uncle,Who was John Yule ?,Mirian s uncle .,Martin s wealthy uncle
+cb5468ec85bb82131dad276d2bdf82161d607aba,train,Who is Anna?,The daughter of Gervaise and Coupeau.,The daughter,Who is Anna ?,The daughter of Gervaise and Coupeau .,The daughter
+cb5468ec85bb82131dad276d2bdf82161d607aba,train,Who is Coupeau?,The man that Gervaise marries.,Gervaise's husband. ,Who is Coupeau ?,The man that Gervaise marries .,Gervaise s husband .
+cb767b7edd8cf3c78492a3147415f3434349c0a7,test,Who was William Clayton?,Jane fiance.,Tarzan's cousin.,Who was William Clayton ?,Jane fiance .,Tarzan s cousin .
+cb767b7edd8cf3c78492a3147415f3434349c0a7,test,Who is William Cecil Clayton to Tarzan?,His cousin.,cousin,Who is William Cecil Clayton to Tarzan ?,His cousin .,cousin
+cbbbb720b94e009cc9a76b83f08f829de284617e,train,Who is Tommy Brock?,He's a Badger.,is the badger who stole the bunnies,Who is Tommy Brock ?,He s a Badger .,is the badger who stole the bunnies
+cbbbb720b94e009cc9a76b83f08f829de284617e,train,Who is Benjamin Bunny's wife?,Flopsy.,Flopsy,Who is Benjamin Bunny s wife ?,Flopsy .,Flopsy
+cbbbb720b94e009cc9a76b83f08f829de284617e,train,Who is Benjamin's cousin?,Peter Rabit.,Peter Rabbit ,Who is Benjamin s cousin ?,Peter Rabit .,Peter Rabbit
+cc8608ad66db28cabde4fb1b409aff6bce5f13de,train,Who is Adam's wife?,Clover.,Clover,Who is Adam s wife ?,Clover .,Clover
+ccdf8c8c07e95675fae3591714061ecacfd5ad2e,valid,Who was Audrey?,Audrey was Flecher formal wife,Fletcher's ex-wife.,Who was Audrey ?,Audrey was Flecher formal wife,Fletcher s ex-wife .
+ccdf8c8c07e95675fae3591714061ecacfd5ad2e,valid,Who was Samantha?,Samantha was Flecher Reede client.,Fletcher's current client.,Who was Samantha ?,Samantha was Flecher Reede client .,Fletcher s current client .
+ccfabbee5a88f09447f3cbba5ea0f86e5c039058,test,Who is Charley's girlfriend?,Amy Peterson,Amy,Who is Charley s girlfriend ?,Amy Peterson,Amy
+ccfc0362f4cbcc6901fe0ef65a54408c61fb2977,train,Who is downtrodden servant of the family?,Jeremiah ,Jeremiah Flintwinch,Who is downtrodden servant of the family ?,Jeremiah,Jeremiah Flintwinch
+ce08ce1f3259d5718a8814a60707402679600349,train,Who is Monsieur Orgon?,Silvia's father,Silvia's father.,Who is Monsieur Orgon ?,Silvia s father,Silvia s father .
+ce08ce1f3259d5718a8814a60707402679600349,train,Who is Silvia's servant?,Lisette,Lisette.,Who is Silvia s servant ?,Lisette,Lisette .
+ce08ce1f3259d5718a8814a60707402679600349,train,Who is Lisette to Silvia?,a servant,her servant,Who is Lisette to Silvia ?,a servant,her servant
+ce08ce1f3259d5718a8814a60707402679600349,train,Who is Monsieur Orgon's to Silvia?,her father,Her Fiance.,Who is Monsieur Orgon s to Silvia ?,her father,Her Fiance .
+ce08ce1f3259d5718a8814a60707402679600349,train,Who is Arlequin?,Dorante's servant,"Lissette""s significant other.",Who is Arlequin ?,Dorante s servant,Lissette s significant other .
+ce23d22d3c3b9297322ea9573f356987ecdeeeb6,test,Who is Santanico Pandemonium? ,The star stripper in the club.,the star stripper,Who is Santanico Pandemonium ?,The star stripper in the club .,the star stripper
+ce8cb184a11535e7a7c824c82b7772a1c3a7c92c,train,Who is Alexandre?,"a former pupil of Anne, a pianist.",Anne's pupil ,Who is Alexandre ?,"a former pupil of Anne , a pianist .",Anne s pupil
+ce8cb184a11535e7a7c824c82b7772a1c3a7c92c,train,Who is Anne and Georges's daughter? ,Eva,Eva,Who is Anne and Georges s daughter ?,Eva,Eva
+ceb4f09a3b51a02fdce4260a79a139723fd541a1,train,Who is Robinson's girlfriend?,Rachel,Rachel.,Who is Robinson s girlfriend ?,Rachel,Rachel .
+ceb53c6e5f1f89d2f4d43a0d9fa53af7734fa1d4,train,Who is John's sister Jennie?,Their housekeeper.,The housekeeper.,Who is John s sister Jennie ?,Their housekeeper .,The housekeeper .
+cefe0b107c44873159f4502d8698c5a3ad9352a0,train,Who is Murasaki to Lady Fujitsubo?,Her niece.,Lady Fujitsubo's niece.,Who is Murasaki to Lady Fujitsubo ?,Her niece .,Lady Fujitsubo s niece .
+cf2f6cbfb5bea59e783846202d9040713a79890f,train,Who was Alan?,Tracy Garner brother,Tracy's brother,Who was Alan ?,Tracy Garner brother,Tracy s brother
+cf873fb685ac6b1bd09c733ad9b0c0130d109454,train,Who is Gladys Leeman?,"Rebecca's mother, head of the pageant organization committee, and a former pageant winner",Head of the pageant committee and former pageant winner.,Who is Gladys Leeman ?,"Rebecca s mother , head of the pageant organization committee , and a former pageant winner",Head of the pageant committee and former pageant winner .
+d0384c80f6e170845dd6aade076d21da6174c045,train,Who is john Crocker?,A friend of the Celebrity before he was famous,The Celebrity's friend.,Who is john Crocker ?,A friend of the Celebrity before he was famous,The Celebrity s friend .
+d0384c80f6e170845dd6aade076d21da6174c045,train,Who is Charles Wrexall Allen?,The man the Celebrity is impersonating.,The man who the celebrity is impersonating,Who is Charles Wrexall Allen ?,The man the Celebrity is impersonating .,The man who the celebrity is impersonating
+d0cad885bea05d1a0272e36b14ddeef899db5cee,train,Who is Paul?,"A sugar plantation owner who hires Betsy to care for Jessica, his wife.",Sugar plantation owner. ,Who is Paul ?,"A sugar plantation owner who hires Betsy to care for Jessica , his wife .",Sugar plantation owner .
+d0cad885bea05d1a0272e36b14ddeef899db5cee,train,Who is Wesley?,Paul's half brother who loves Jessica.,Jessica's former fiance,Who is Wesley ?,Paul s half brother who loves Jessica .,Jessica s former fiance
+d15686cf4482b52351e990ccd991fefda8d2f6dc,test,Who is Conan?,"The son of Corin, the leader of a barbarian tribe.  ",The son of a barbarian chief.,Who is Conan ?,"The son of Corin , the leader of a barbarian tribe .",The son of a barbarian chief .
+d15686cf4482b52351e990ccd991fefda8d2f6dc,test,Who is Lucius?,A soldier of Zym's that Conan remembers.,a soldier from zyms ,Who is Lucius ?,A soldier of Zym s that Conan remembers .,a soldier from zyms
+d1960641caba4c85c372a2177e6727ad948c7005,train,Who is Lionel Logue?,An Australian Speech therapist,He is an Australian speech therapist.,Who is Lionel Logue ?,An Australian Speech therapist,He is an Australian speech therapist .
+d226b0c7fb662f93cc3298e3caa21212f59e0a36,train,Who is Charlie?,Young Italian American man.,A young Italian-American moving up through the ranks of the Mafia in New York.,Who is Charlie ?,Young Italian American man .,A young Italian-American moving up through the ranks of the Mafia in New York .
+d226b0c7fb662f93cc3298e3caa21212f59e0a36,train,Who is Michael's Henchman?,Jimmy,Jimmy Shorts,Who is Michael s Henchman ?,Jimmy,Jimmy Shorts
+d226b0c7fb662f93cc3298e3caa21212f59e0a36,train,Who is Teresa?,She is Johnny's cousin.,Johnny Boy's cousin,Who is Teresa ?,She is Johnny s cousin .,Johnny Boy s cousin
+d345218d6fb0e8b6e1c7efa193276efb6e83a308,train,Who is Bishop Bridgenorth's youngest daughter?,Edith,Edith is Bishop Bridgenorth's youngest daughter.,Who is Bishop Bridgenorth s youngest daughter ?,Edith,Edith is Bishop Bridgenorth s youngest daughter .
+d5615c44b01f98de34d10baaccc981995a43864d,train,"Who is Wyburn ""Wybie"" Lovat?",He is the grandson of the landlady of the Pink Palace Apartments.,the landladys grandson ,Who is Wyburn Wybie Lovat ?,He is the grandson of the landlady of the Pink Palace Apartments .,the landladys grandson
+d56d2864cceb811c9b29e3aa547374ebf7b26be3,train,Who was Ursula granddaughter of?,Tom.,Tom Brangwen.,Who was Ursula granddaughter of ?,Tom .,Tom Brangwen .
+d56d2864cceb811c9b29e3aa547374ebf7b26be3,train,Who is Ursula?,His granddaughter. ,Anna and Will's daughter.,Who is Ursula ?,His granddaughter .,Anna and Will s daughter .
+d56d2864cceb811c9b29e3aa547374ebf7b26be3,train,Who is Anton Skrebensky?,A British soldier of Polish ancestry.,A soldier,Who is Anton Skrebensky ?,A British soldier of Polish ancestry .,A soldier
+d56d2864cceb811c9b29e3aa547374ebf7b26be3,train,Who is Lydia?,A Polish refugee and widow. ,anna's mom,Who is Lydia ?,A Polish refugee and widow .,anna s mom
+d5b32abd0fe5966b8c619084932c5d832d51f063,test,Who is Tyler's roommate?,Aiden,Aidan.,Who is Tyler s roommate ?,Aiden,Aidan .
+d5b32abd0fe5966b8c619084932c5d832d51f063,test,Who is Caroline?,Tyler's younger sister.,Tyler's sister,Who is Caroline ?,Tyler s younger sister .,Tyler s sister
+d6c728cc9fabd2ef68dabc990731470f455e8fac,train,Who is David Gale?,A professor on death row in a Texas prison.,Convicted,Who is David Gale ?,A professor on death row in a Texas prison .,Convicted
+d81debbae25eebaf6ac998a0059eaa08cc7be5bc,train,Who is Hildy Johnson?,Walter's ex-wife and former reporter,A reporter for The Morning Post and ex-wife of Walter Burns.,Who is Hildy Johnson ?,Walter s ex-wife and former reporter,A reporter for The Morning Post and ex-wife of Walter Burns .
+d81debbae25eebaf6ac998a0059eaa08cc7be5bc,train,Who is Bruce Baldwin?,An insurance man to whom Hildy is engaged.,insurance man,Who is Bruce Baldwin ?,An insurance man to whom Hildy is engaged .,insurance man
+d81debbae25eebaf6ac998a0059eaa08cc7be5bc,train,Who is Earl Williams?,A convicted killer due to be executed.,Convicted Murderer,Who is Earl Williams ?,A convicted killer due to be executed .,Convicted Murderer
+d81debbae25eebaf6ac998a0059eaa08cc7be5bc,train,Who is Walter's ex-wife?,Hildy,Hildy.,Who is Walter s ex-wife ?,Hildy,Hildy .
+d87a40e39666a2b9e096f60a84cbe3b9fd32589f,train,Who is Miriam Rooth?,A young British actress.,a young actress,Who is Miriam Rooth ?,A young British actress .,a young actress
+d87a40e39666a2b9e096f60a84cbe3b9fd32589f,train,Who is Julia Dallow?,A lady friend of Nick's.,Nick Dormer's lady friend.,Who is Julia Dallow ?,A lady friend of Nick s .,Nick Dormer s lady friend .
+d8844d709aa624a5ffe70f185dc68488839d37ea,train,Who is Selena?,She is Claudio Perrini's wife.,"Claudio's wife, and El Lobo",Who is Selena ?,She is Claudio Perrini s wife .,"Claudio s wife , and El Lobo"
+d8aeeba694332530d1ca1647779c3228959aa20a,valid,Who is Debbie to Steven?,His wife.,is his wife,Who is Debbie to Steven ?,His wife .,is his wife
+d8e966a26d8054e3155ed4a4ade83b2bab83e95b,train,Who was among the new accuatences meat aboard?,Victor Valdi,Victor Valdi ,Who was among the new accuatences meat aboard ?,Victor Valdi,Victor Valdi
+d985a7679a1b086447b9cda085422f8dc7252105,train,Who was Helen Walshingham?,A wood carving class teacher,A wood carving teacher and Kipps once fiance ,Who was Helen Walshingham ?,A wood carving class teacher,A wood carving teacher and Kipps once fiance
+d985a7679a1b086447b9cda085422f8dc7252105,train,Who was Artie's childhood girlfriend?,Anna,Ann Pornick,Who was Artie s childhood girlfriend ?,Anna,Ann Pornick
+da0fbf9aa024eeace9a2e1aef91915f26856d233,train,Who is John Fothergill West?,The fiance of General Heatherstone's daughter Gabriel.,the general's daughter's finace,Who is John Fothergill West ?,The fiance of General Heatherstone s daughter Gabriel .,the general s daughter s finace
+da215ca3bcbf04997227bce18a3f8782f8c956e4,train,Who is Owen?,Owen is a spy working for Conchubor.,A spy.,Who is Owen ?,Owen is a spy working for Conchubor .,A spy .
+da215ca3bcbf04997227bce18a3f8782f8c956e4,train,Who is Conchubor?,The High King of Ulster,The Old King of Ulster,Who is Conchubor ?,The High King of Ulster,The Old King of Ulster
+da92db374a011f526873e2c6734a2dd54f197fa5,train,Who is George's sister?,Kate,Kate,Who is George s sister ?,Kate,Kate
+da92db374a011f526873e2c6734a2dd54f197fa5,train,Who is Kate in relation to Alice?,A Cousin,She's her cousin.,Who is Kate in relation to Alice ?,A Cousin,She s her cousin .
+daa54dd9f8daecd7bcc6f01f3b360a272d5d97a4,test,Who is Amory's mentor?,Monsignor Darcy,Monsignor Darcy. ,Who is Amory s mentor ?,Monsignor Darcy,Monsignor Darcy .
+daa54dd9f8daecd7bcc6f01f3b360a272d5d97a4,test,Who is Beatrice in relation to Amory?,His mother,His mother.,Who is Beatrice in relation to Amory ?,His mother,His mother .
+daa54dd9f8daecd7bcc6f01f3b360a272d5d97a4,test,Who is Monsignor Darcy in relation to Amory?,his mentor,His mentor.,Who is Monsignor Darcy in relation to Amory ?,his mentor,His mentor .
+db25c1e66223c9829dbec103c7e4b1820d240c08,train,Who was responsible for Michael's death?,Castor Troy,Castor troy,Who was responsible for Michael s death ?,Castor Troy,Castor troy
+db50738d7cae3992d86212a129d743ba0838e65b,test,Who is Mamie Mannering?,"Peter's friend in Kensington Gardens that he proposes to, she is the basis for Wendy Darling.",A girl who gets lost in the Gardens,Who is Mamie Mannering ?,"Peter s friend in Kensington Gardens that he proposes to , she is the basis for Wendy Darling .",A girl who gets lost in the Gardens
+dcc32fc8e81332ee23773037a78b3ef5edf4f53f,train,Who is True-wit to Dauphine?,a friend,Her friend.,Who is True-wit to Dauphine ?,a friend,Her friend .
+dd2d1de84e1da738d7e13f2288e75f0ca49dd1f7,valid,Who is Domino Harvey?,A bounty hunter who works for a bail bondsman. ,A former model and bounty hunter,Who is Domino Harvey ?,A bounty hunter who works for a bail bondsman .,A former model and bounty hunter
+dd2f9e47986fa729eedcfeefed5fdd7128e173f2,test,Who is Anne to Rilla?,Mother,mom,Who is Anne to Rilla ?,Mother,mom
+ddd55023a3dd6800331b50c560f74390f85f1e06,train,Who is Crystal?,Julian's mother.,Julian and Billy's mother,Who is Crystal ?,Julian s mother .,Julian and Billy s mother
+ddd878f7e5c406f3aa4308eb96577145c9cc673c,train,Who is Romeo? ,A mexican underground fighter who joins the McManus brother's team. ,A Mexican underground fighter,Who is Romeo ?,A mexican underground fighter who joins the McManus brother s team .,A Mexican underground fighter
+de01eef0c46c744cbc407f886e97195c15d133dc,train,Who is Elliot Carver's personal assassin?,Dr. Kaufman,Dr. Kaufman,Who is Elliot Carver s personal assassin ?,Dr. Kaufman,Dr. Kaufman
+de42ec88ce00d0f1e21ad4ad719d1d64499e5166,valid,Who is Drexl?,Alabama's former pimp.,Alabama's pimp,Who is Drexl ?,Alabama s former pimp .,Alabama s pimp
+de42ec88ce00d0f1e21ad4ad719d1d64499e5166,valid,Who is Clifford?,Clarence's father.,Clarence father.,Who is Clifford ?,Clarence s father .,Clarence father .
+de473a0652a9752467748e558602267725ec4422,train,Who is most responsible for the creation of SkyNet?,Miles Bennett Dyson,Miles Bennett Dyson,Who is most responsible for the creation of SkyNet ?,Miles Bennett Dyson,Miles Bennett Dyson
+deae2c2c3964684550d73f691762da489f9782f7,train,Who is Eddie Adams?,A high school dropout.,He is the main character.,Who is Eddie Adams ?,A high school dropout .,He is the main character .
+def05b2808f7557610b6b71051b257dd1f955bc1,train,Who is Hypatia's fiancee?,Bentley Summerhays,Bentley Summerhays,Who is Hypatia s fiancee ?,Bentley Summerhays,Bentley Summerhays
+def05b2808f7557610b6b71051b257dd1f955bc1,train,Who is Gunner?,A cashier,A cashier with a grudge against the wealthy class.,Who is Gunner ?,A cashier,A cashier with a grudge against the wealthy class .
+dfc26addcd9cd2cf53ed6804445d8bc60668d316,train,Who is Elektra?,Robert King's daughter.,The daughter of British oil tycoon Sir Robert King.,Who is Elektra ?,Robert King s daughter .,The daughter of British oil tycoon Sir Robert King .
+e034bde573f14b8bbbbfc19ea55bab96c9c2a2aa,test,Who is beautiful?,Elisabeth. ,Elisabeth,Who is beautiful ?,Elisabeth .,Elisabeth
+e0c74cdf270ebe29a2139e7319fc7314738c88ee,valid,Who is Sector Seven's director?,Tom Banachek,Tom Banachek,Who is Sector Seven s director ?,Tom Banachek,Tom Banachek
+e0c74cdf270ebe29a2139e7319fc7314738c88ee,valid,Who is Megatron?,The leader of the Decepticons,leader of the Decepticons,Who is Megatron ?,The leader of the Decepticons,leader of the Decepticons
+e11589d91adedbbb983989cb3ed213c6e76ed99a,train,Who is Muriela?,A Corinthian slave that was brought along by Zargheba to impersonate the oracle.,A Corinthian slave girl,Who is Muriela ?,A Corinthian slave that was brought along by Zargheba to impersonate the oracle .,A Corinthian slave girl
+e11589d91adedbbb983989cb3ed213c6e76ed99a,train,Who is Bit-Yakin?, A pelishti traveller,Bit-Yakin was a Pelishti traveller.,Who is Bit-Yakin ?,A pelishti traveller,Bit-Yakin was a Pelishti traveller .
+e11918fe15248b740d970ca62dfd10cdd4065f6f,train,Who is Elsa?,The village beauty.,The village beauty.,Who is Elsa ?,The village beauty .,The village beauty .
+e1a5be12e8c521868c2f4c7485797ffa7e0acd9d,train,Who is Anabel?,She is Champernell's 16 year old niece.,Champernells niece,Who is Anabel ?,She is Champernell s 16 year old niece .,Champernells niece
+e292eae2486862f6df6ff388cb2dd6777bc73f27,test,Who is Cheryl Cohen-Greene?,A sex surrogate.,A sex surrogate,Who is Cheryl Cohen-Greene ?,A sex surrogate .,A sex surrogate
+e29f23ebe56136421e71a8caa88693c07a1ba623,train,Who is Aristo to Callista?,Her brother,Her brother.,Who is Aristo to Callista ?,Her brother,Her brother .
+e29f23ebe56136421e71a8caa88693c07a1ba623,train,Who was caecilius and what was he reffered later?,caecilius is a mysterious christian priest and is later referred to as st. cyprian of carthage,He was a Christian priest who was identified as St Cyprian of Carthage,Who was caecilius and what was he reffered later ?,caecilius is a mysterious christian priest and is later referred to as st. cyprian of carthage,He was a Christian priest who was identified as St Cyprian of Carthage
+e29f23ebe56136421e71a8caa88693c07a1ba623,train,Who is callista?,"callista is a young and beautiful greek girl , she is a gifted  young woman.",She is a girl who is young and beautiful.,Who is callista ?,"callista is a young and beautiful greek girl , she is a gifted young woman .",She is a girl who is young and beautiful .
+e2b2c77fb78c35ba232fb1e043031f31cc1a3689,train,Who is Amphiltryon's wife?,Alcmena,alcmena,Who is Amphiltryon s wife ?,Alcmena,alcmena
+e2b2c77fb78c35ba232fb1e043031f31cc1a3689,train,Who is Amphitryon wife?,Alcmena ,Alcmena ,Who is Amphitryon wife ?,Alcmena,Alcmena
+e34f792dd7a299d7e2a03bbe0f03048505cfebcc,train,Who is Jenny?,An Orangatan.,a young orangutan brought from Borneo to the London Zoo where she died of pneumonia,Who is Jenny ?,An Orangatan .,a young orangutan brought from Borneo to the London Zoo where she died of pneumonia
+e34f792dd7a299d7e2a03bbe0f03048505cfebcc,train,"Who was Darwin's ""accomplice""?",Emma.,Emma,Who was Darwin s accomplice ?,Emma .,Emma
+e3793c8072528b1d92b8614113e6d2b5748652cd,train,Who is Latika?,"A girl from the same slum as Jamal and Salim, who the brothers take in during the Bombay riots.", girl from the slum,Who is Latika ?,"A girl from the same slum as Jamal and Salim , who the brothers take in during the Bombay riots .",girl from the slum
+e37b89959b8a08a31c7623074f65877668b47d26,train,Who is Fritz von Tarlenheim?,a loyal courtier,The loyal courtier.,Who is Fritz von Tarlenheim ?,a loyal courtier,The loyal courtier .
+e3aea7e1997b6057899be86ce2acd04a2df6bf57,train,Who is Walter Hartright?,A young art teacher.,An art teacher.,Who is Walter Hartright ?,A young art teacher .,An art teacher .
+e3b700a2a9853e91d32726b11328d5ffd087297a,train,Who is Baucaire actually?,A French Prince,A French Prince,Who is Baucaire actually ?,A French Prince,A French Prince
+e4081796caf2b0354f1fc78626b7a74396979e5b,train,Who is Jenna?,A young Chinese-American girl who lives in Max's apartment building.,his Daughter,Who is Jenna ?,A young Chinese-American girl who lives in Max s apartment building .,his Daughter
+e4081796caf2b0354f1fc78626b7a74396979e5b,train,Who is Euclid?,Max's computer,Max's computer,Who is Euclid ?,Max s computer,Max s computer
+e524c75271fe0e5c4b1fdbc3c2e297cdecf1b113,test,Who is Ruth's son?,Leonard,Leonard.,Who is Ruth s son ?,Leonard,Leonard .
+e53665b111c3ab95216386fd492e54a0eb0906b0,train,Who is Elizabeth Ann?,An orphan,An orphan.,Who is Elizabeth Ann ?,An orphan,An orphan .
+e53665b111c3ab95216386fd492e54a0eb0906b0,train,Who is Frances?,Betsy's cousin,her father's cousin,Who is Frances ?,Betsy s cousin,her father s cousin
+e5514678c3a6ac0dad17b96993ea231da4fecd0a,valid,Who is Rebecca's protector?,Jane,Jane,Who is Rebecca s protector ?,Jane,Jane
+e57471b92e3889301c10fbf9eb8d78204ca7d80e,train,Who is Patience Crabstick?,Lizzie's disloyal maid,Lizzie's maid ,Who is Patience Crabstick ?,Lizzie s disloyal maid,Lizzie s maid
+e5a717d519b7648ce17e3f1f78dd4ba0548c8338,train,Who is Hrothgar?,King of the Danes.,The king of the Danes,Who is Hrothgar ?,King of the Danes .,The king of the Danes
+e5a717d519b7648ce17e3f1f78dd4ba0548c8338,train,Who is Wiglaf?,Swedish relative of Beowulf who helps him defeat the dragon,Beowulf's reletive.,Who is Wiglaf ?,Swedish relative of Beowulf who helps him defeat the dragon,Beowulf s reletive .
+e5a717d519b7648ce17e3f1f78dd4ba0548c8338,train,Who is a hero of the Geats?,Beowulf. ,Beowulf.,Who is a hero of the Geats ?,Beowulf .,Beowulf .
+e5b92b062c01f4016c439c2f76a114370142d414,train,Who is Somerset?,A near retiring detective who is Mills' partner on the case.,detective ,Who is Somerset ?,A near retiring detective who is Mills ' partner on the case .,detective
+e5c7770f84262102e2d284d4589cae5aa6e73872,train,Who is Kwytoffle?,The pretended magician. ,A fake Magician,Who is Kwytoffle ?,The pretended magician .,A fake Magician
+e5c7770f84262102e2d284d4589cae5aa6e73872,train,Who is Sesely?,The daughter of Baron Merd of Heg. ,Daughter to Baron Merd of Heg. ,Who is Sesely ?,The daughter of Baron Merd of Heg .,Daughter to Baron Merd of Heg .
+e5c7770f84262102e2d284d4589cae5aa6e73872,train,Who is Nerle?,Prince Marvel's squire boy.,A prisoner,Who is Nerle ?,Prince Marvel s squire boy .,A prisoner
+e60d35663e8d38fa4bde3bff0690ab2ca735fd74,train,Who is Connor MacLeod?,The Highlander.,The Highlander,Who is Connor MacLeod ?,The Highlander .,The Highlander
+e62ba8eff570a51d9e5dd256e45012d4d83bfd5f,test,Who is Anastasie to Delphine?,Her sister. ,sister,Who is Anastasie to Delphine ?,Her sister .,sister
+e6ff33cf1eb66a9bcffffbeb0866ec6ccee7f3af,test,Who is Merrick?,The Watcher who guides and trains Buffy.,"he is a Watcher who informs Buffy that she is the Slayer, and he guides and trains her",Who is Merrick ?,The Watcher who guides and trains Buffy .,"he is a Watcher who informs Buffy that she is the Slayer , and he guides and trains her"
+e7598e595c6dd58166b88f92a5723e63f3d93b78,train,Who was Madana?,Madana was the god of love.,God of Love,Who was Madana ?,Madana was the god of love .,God of Love
+e7598e595c6dd58166b88f92a5723e63f3d93b78,train,Who was Vansata?,Vansata was the god of springti and eternal youth.,The god of springtime and eternal youth.,Who was Vansata ?,Vansata was the god of springti and eternal youth .,The god of springtime and eternal youth .
+e7598e595c6dd58166b88f92a5723e63f3d93b78,train,Who was Chitra?,Chita was a great warrior and a hero.,The daughter of the King of Manipur and a warrior.,Who was Chitra ?,Chita was a great warrior and a hero .,The daughter of the King of Manipur and a warrior .
+e80dcfbc4d200c173d6ac969a9b160a40a1edf70,train,Who is Lenny's ex-girlfriend?,Faith Justin,Faith Justin ,Who is Lenny s ex-girlfriend ?,Faith Justin,Faith Justin
+e80dcfbc4d200c173d6ac969a9b160a40a1edf70,train,Who is Faith's new boyfriend?,Philo Gant,philo gant,Who is Faith s new boyfriend ?,Philo Gant,philo gant
+e80dcfbc4d200c173d6ac969a9b160a40a1edf70,train,Who is Iris to Lenny?,His ex-girlfriend's friend.,she is a friend of his ex-girlfriend,Who is Iris to Lenny ?,His ex-girlfriend s friend .,she is a friend of his ex-girlfriend
+e80dcfbc4d200c173d6ac969a9b160a40a1edf70,train,Who is Faith's boyfriend?,Philo Gant,Philo Gant,Who is Faith s boyfriend ?,Philo Gant,Philo Gant
+e814b013d044140a64ff47ad920009fe7c9db547,train,Who is Aina?,A human slave that the earth men found on Mars.,A slave.,Who is Aina ?,A human slave that the earth men found on Mars .,A slave .
+e8f4c55b6eed0c4e0e6b34b48651bafa884ae1b5,train,Who is Ashe's employer?,Mammoth Publishing Company,"First Mammoth Publishing Company, and then Mr. Peters",Who is Ashe s employer ?,Mammoth Publishing Company,"First Mammoth Publishing Company , and then Mr. Peters"
+e92339d923dacda2b56d536945db17f321e1a47a,train,Who is Gene?,The creepy neighbor who distrusts Tom (and is a Philly's fan),a neighbor,Who is Gene ?,The creepy neighbor who distrusts Tom ( and is a Philly s fan ),a neighbor
+e93ace5fb122b6962098ca5c0bf2a9e4e8b86893,train,Who was Adele Tace?,Adele Tace was maid of Madame Dauvray.,Madame Dauvray's maid,Who was Adele Tace ?,Adele Tace was maid of Madame Dauvray .,Madame Dauvray s maid
+e93ace5fb122b6962098ca5c0bf2a9e4e8b86893,train,Who is rich?,Madame Dauvray.,Madame Dauvray,Who is rich ?,Madame Dauvray .,Madame Dauvray
+e9ff026e90e2506a4e2710fac9cfb0df33248fa4,train,Who is Starwatcher?,A Fuzzy Leader in working with humans.,A fuzzy,Who is Starwatcher ?,A Fuzzy Leader in working with humans .,A fuzzy
+ea5d07dd2150a3e4fd5199ab496074839a019ded,train,Who is really responsible to Tina's death?,Freddy Krugger,Freddy,Who is really responsible to Tina s death ?,Freddy Krugger,Freddy
+ea6d777ae79760c3e6d087a038f0ecf11c34d586,train,Who is Kroll to Rosmer?,"Kroll is Rosmer's brother in law, friend and local school master. ",His friend and brother-in-law,Who is Kroll to Rosmer ?,"Kroll is Rosmer s brother in law , friend and local school master .",His friend and brother-in-law
+eaba6723befdddc5c5177c5c1bf5262d850c2a99,test,Who is Hippolita ?,Manfred's divorced wife,Manfred's first wife,Who is Hippolita ?,Manfred s divorced wife,Manfred s first wife
+eb6c58c2168f0a9e60f23b8107d17be92503030f,train,Who is a New England novelist? ,Paine,Paine,Who is a New England novelist ?,Paine,Paine
+ebbac675f4d13527d9d6af2aeddff8f92b7e3e4d,valid,Who is Marvin Nash?,the kidnapped police man.,A kidnapped policeman,Who is Marvin Nash ?,the kidnapped police man .,A kidnapped policeman
+ec427a332515c850a9a458df1e5878cb5d7917b5,train,WHO IS NEIL DOWNE TO NORMAN?,HIS BEST FRIEND,his best friend,WHO IS NEIL DOWNE TO NORMAN ?,HIS BEST FRIEND,his best friend
+ec427a332515c850a9a458df1e5878cb5d7917b5,train,WHO IS ALVIN TO NORMAN?,A SCHOOL BULLY,SCHOOL BULLY,WHO IS ALVIN TO NORMAN ?,A SCHOOL BULLY,SCHOOL BULLY
+ec427a332515c850a9a458df1e5878cb5d7917b5,train,WHO IS COURTNEY TO NORMAN?,HIS SISTER,his sister,WHO IS COURTNEY TO NORMAN ?,HIS SISTER,his sister
+ec5123faf9944ed8ef012cce89123db124242b3d,test,Who is responsible for the death of Murron?,English Soldiers,English soldiers,Who is responsible for the death of Murron ?,English Soldiers,English soldiers
+ec5123faf9944ed8ef012cce89123db124242b3d,test,Who is Longshanks son?,Prince Edward.,Prince Edward,Who is Longshanks son ?,Prince Edward .,Prince Edward
+edede4913db00fabf2d1b47e28eeddf56618e977,test,Who is Luca?,Luca is the woman that Luke becomes after he completely transforms into a woman.,female version of luke,Who is Luca ?,Luca is the woman that Luke becomes after he completely transforms into a woman .,female version of luke
+ee3ba75510af0a8836993c57cb6809b676edad63,train,Who is Donnie Azoff?,The neighbor Jordan befriends and co-founds their company with,Jordan's neighbor,Who is Donnie Azoff ?,The neighbor Jordan befriends and co-founds their company with,Jordan s neighbor
+ee626ccf176e4834186d4125aeaacf6fc2cb2a87,train,Who is Nikolas Rokoff's henchman?,Alexis Paulvitch,Alexis Paulvitch,Who is Nikolas Rokoff s henchman ?,Alexis Paulvitch,Alexis Paulvitch
+ee6f2d470966fa272e00d6ad19d12a706545faff,test,Who is Alma?,Hitchcock's wife,Hitchcock's wife.,Who is Alma ?,Hitchcock s wife,Hitchcock s wife .
+ee9d965dea242752ee8786b1ec0d53a82a3fde0e,train,Who is Sofronia's lover?,Olindo,Olindo,Who is Sofronia s lover ?,Olindo,Olindo
+eec864a5517c25d30b351c93c57054bb89811368,train,Who is Androcles?,a Christian clothes maker who is on the run from the Romans who want to kill him,A fugitive Christian,Who is Androcles ?,a Christian clothes maker who is on the run from the Romans who want to kill him,A fugitive Christian
+eec864a5517c25d30b351c93c57054bb89811368,train,Who is Ferrovius?,a new Christian who is having issues with the Christian practices he is trying to learn and his violent tendencies. ,A new Christian convert. ,Who is Ferrovius ?,a new Christian who is having issues with the Christian practices he is trying to learn and his violent tendencies .,A new Christian convert .
+ef102d02ce5962470a8cbf9d9219625d0080384c,train,Who is Glencora to Plantagenet Palliser? ,Plantagenet's wife. ,his wife,Who is Glencora to Plantagenet Palliser ?,Plantagenet s wife .,his wife
+ef102d02ce5962470a8cbf9d9219625d0080384c,train,Who is Phineas Finn to the Duke?,An old colleague. ,his defender,Who is Phineas Finn to the Duke ?,An old colleague .,his defender
+ef31dd1863ac76fa8be81963c77e8c86ed67db74,train,Who is Arthur Lestrange?,He is the father of Dicky and uncle of Emmeline.,"Father of Dicky, Uncle of Emmeline",Who is Arthur Lestrange ?,He is the father of Dicky and uncle of Emmeline .,"Father of Dicky , Uncle of Emmeline"
+ef31dd1863ac76fa8be81963c77e8c86ed67db74,train,Who is Arthur?,He is Dickey's father and Emmeline's uncle.,Dicky's father and Emmeline's uncle.,Who is Arthur ?,He is Dickey s father and Emmeline s uncle .,Dicky s father and Emmeline s uncle .
+ef8b2d07b6d31531a169fefa7a7585b43aa71f60,train,Who is Mimi?,Alans neighbor.,One of Alan's not quite human neighbors.,Who is Mimi ?,Alans neighbor .,One of Alan s not quite human neighbors .
+ef92e6a5b6fe08813c84e8349ddd2cb2dc842bc7,test,Who is bisexual?,Catherine Tramell,Catherine Tramell.,Who is bisexual ?,Catherine Tramell,Catherine Tramell .
+efb0cbe1fdfe5278fa0028c67230ba7b81c27635,train,Who was Griffin's assistant?,Thomas Marvel.,Thomas Marvel.,Who was Griffin s assistant ?,Thomas Marvel .,Thomas Marvel .
+f01426d161b74fa8cc69b259b8460271b8c70121,train,Who is Ascanius the son of?,Aeneas,Aeneas's,Who is Ascanius the son of ?,Aeneas,Aeneas s
+f01426d161b74fa8cc69b259b8460271b8c70121,train,Who is Dido?,The Queen of Carthage,The queen of carthage,Who is Dido ?,The Queen of Carthage,The queen of carthage
+f01426d161b74fa8cc69b259b8460271b8c70121,train,Who is Jupiter's wife?,Juno,Juno,Who is Jupiter s wife ?,Juno,Juno
+f01426d161b74fa8cc69b259b8460271b8c70121,train,Who is Juno to Jupiter? ,Juno is Jupiter's wife. ,Jupiter's wife,Who is Juno to Jupiter ?,Juno is Jupiter s wife .,Jupiter s wife
+f01426d161b74fa8cc69b259b8460271b8c70121,train,Who is Aeneas to Venus?,Aeneas is Venus' son.,Aeneas is Venus's son,Who is Aeneas to Venus ?,Aeneas is Venus ' son .,Aeneas is Venus s son
+f070ce5262bb59e814309025a4fb2adde266fe35,train,Who is Jeffrey?,Joe's roommate/lover from Oxford,Joe's roommate and lover. ,Who is Jeffrey ?,Joe s roommate/lover from Oxford,Joe s roommate and lover .
+f1239e5e117e2e30093e5cb5c98db3ce935a055b,train,Who is Countess Mary Korotkova to Prince Stepan Kasatsky?,His fiance.,His fiancee ,Who is Countess Mary Korotkova to Prince Stepan Kasatsky ?,His fiance .,His fiancee
+f19862b256b0ce49a796c88b2c80399b9f24d302,train,Who is Charley?,Charley is Alaric's cousin.,Charley Tudor seems to be a partier who is in love with Katie but is engaged to someone else.,Who is Charley ?,Charley is Alaric s cousin .,Charley Tudor seems to be a partier who is in love with Katie but is engaged to someone else .
+f1c34596be81d736e30489c95e62a198b02d9fac,valid,Who is Christopher Blake?,He is a descendant of a rich and arisocratic family.,A descendant of a rich family.,Who is Christopher Blake ?,He is a descendant of a rich and arisocratic family .,A descendant of a rich family .
+f2454588fd5606c7a4dedfeddfbfe1cdb580754b,train,WHO WAS YURI BUTSU TO SERA?,HER PIMP,Her pimp.,WHO WAS YURI BUTSU TO SERA ?,HER PIMP,Her pimp .
+f25715af54045266164c91b6de03814f9d8bca8f,train,Who is Boba Fett?,A notorious bounty hunter,A bounty hunter for Darth Vader,Who is Boba Fett ?,A notorious bounty hunter,A bounty hunter for Darth Vader
+f25715af54045266164c91b6de03814f9d8bca8f,train,Who is Boba Fett?,A notorious bounty hunter tasked by Darth Vader to find the Millennium Falcon.,bounty hunter,Who is Boba Fett ?,A notorious bounty hunter tasked by Darth Vader to find the Millennium Falcon .,bounty hunter
+f324b3fdf4815ba0073872d15405510f34bb9d2a,train,Who is already in the dugout?,A senior officer.,A senior officer,Who is already in the dugout ?,A senior officer .,A senior officer
+f332e6f13bebaadce541f01d1a86f53058813db9,train,Who was John Holroyd in relation to Gibbon?,His friend,a friend,Who was John Holroyd in relation to Gibbon ?,His friend,a friend
+f332e6f13bebaadce541f01d1a86f53058813db9,train,Who is Suzanne Curchod to Gibbon? ,Gibbon's Swiss girlfriend. ,His one time lover,Who is Suzanne Curchod to Gibbon ?,Gibbon s Swiss girlfriend .,His one time lover
+f3dfd74b81d1cc1db840db8bceabc4da2bdf2953,train,Who is Anna?,"She is Emma, with new memories.",Emma's new identity.,Who is Anna ?,"She is Emma , with new memories .",Emma s new identity .
+f3f6610dba556fdbd410fb8bf356c6b24fda45f0,train,Who is Richard Scruggs?,"He is a lawyer, who is heading the case against the tobacco companies",An attorney for Mississippi in a lawsuit against tobacco companies.,Who is Richard Scruggs ?,"He is a lawyer , who is heading the case against the tobacco companies",An attorney for Mississippi in a lawsuit against tobacco companies .
+f4148de27a9751817e9823d0b2e1d253d7b6b8e9,train,WHO IS EMMELINE TO CLARENCE MUMFORD?,HIS WIFE,She is his wife.,WHO IS EMMELINE TO CLARENCE MUMFORD ?,HIS WIFE,She is his wife .
+f4148de27a9751817e9823d0b2e1d253d7b6b8e9,train,WHO IS CECILY TO LOUISE DEKKER?,HER STEPSISTER,She is Cecily's stepsister.,WHO IS CECILY TO LOUISE DEKKER ?,HER STEPSISTER,She is Cecily s stepsister .
+f4b73f85ef41a1d9c729959832a6722637e0a6ab,test,Who is Patterson's wife?,Helena.,Helena.,Who is Patterson s wife ?,Helena .,Helena .
+f4d34bcb783300803817b84656a65051b017e8f2,train,Who is Harold Percy Smith-Oldwick?,A British aviator,british aviator,Who is Harold Percy Smith-Oldwick ?,A British aviator,british aviator
+f5255dcda3e92492cca0b95687bf01d0908b07b4,train,Who is Aziz's organization?,Crimson Jihad.,Crimson Jihad. ,Who is Aziz s organization ?,Crimson Jihad .,Crimson Jihad .
+f54615bb99bbb62503c7d55d2cf6a49c2168a46e,test,Who was Conroy's wife?,Linda,Linda.,Who was Conroy s wife ?,Linda,Linda .
+f67c7a2c3c54410ebc976f8c2a3b52fa71052c51,train,Who is Segismundo a representation of?,King Philip IV of Spain.,He represents King Philip IV of Spain.,Who is Segismundo a representation of ?,King Philip IV of Spain .,He represents King Philip IV of Spain .
+f75afa70c82c3f894abccad514688a835e45c600,train,Who is Todd Anderson's roommate?,Neil Perry.,Neil Perry,Who is Todd Anderson s roommate ?,Neil Perry .,Neil Perry
+f75afa70c82c3f894abccad514688a835e45c600,train,Who is Gale Nolan?,The school headmaster.,The Headmaster,Who is Gale Nolan ?,The school headmaster .,The Headmaster
+f7bb9eb9306b79cad4b6466f2ac3dcbd0e5fa63a,test,Who is Sister Mary Clarence?,The identity assumed by Deloris Wilson under the Witness Protection Program.,Deloris Wilson,Who is Sister Mary Clarence ?,The identity assumed by Deloris Wilson under the Witness Protection Program .,Deloris Wilson
+f7bf427e41af53409d7907160f7908e723b78eb0,train,Who is Erin's lawyer?,Ed Masry,Ed,Who is Erin s lawyer ?,Ed Masry,Ed
+f7bf427e41af53409d7907160f7908e723b78eb0,train,Who was Erin's lawyer?,Ed Masry,Ed Masry,Who was Erin s lawyer ?,Ed Masry,Ed Masry
+f81b9695ef205b8904e6e174f7e056b92f088e3c,train,Who is Stark's psychiatrist at the mental facility?,Tom Becker,Dr. Thomas Becker,Who is Stark s psychiatrist at the mental facility ?,Tom Becker,Dr. Thomas Becker
+f8275ee93c7df3f4daf8a4e78a5d1c2c47d7eba1,train,Who was John A. Scali?,A reporter for ABC news.,John A. Scali was a reporter with ABC News.,Who was John A. Scali ?,A reporter for ABC news .,John A. Scali was a reporter with ABC News .
+f8544c9577a500e557ce5ea7b487c867c3de21a9,test,Who is Nancy's boyfriend?,Ned Nickerson,Ned Nickerson.,Who is Nancy s boyfriend ?,Ned Nickerson,Ned Nickerson .
+f865713a51422129cd8d15ea2bb1ac324d65afdb,train,Who is Norma's butler?,Max.,Max,Who is Norma s butler ?,Max .,Max
+f8de0c6632791304d0cdc32f5edb38a0e565b16f,train,Who is fiercely protective of Lilia's son?,Gino,Gino,Who is fiercely protective of Lilia s son ?,Gino,Gino
+f909d31f8d88fe802b45e1e4475353f0d241c5b5,train,Who is Charlemange's nephew?,Portagonist Roland,Roland,Who is Charlemange s nephew ?,Portagonist Roland,Roland
+f90f97c9ae38be55921b5e8a93d06ddada82dd1f,valid,Who is Ernest's godfather?,Overton,"Overton, the narrator of the story.",Who is Ernest s godfather ?,Overton,"Overton , the narrator of the story ."
+f91675dfda3bf99e3668a7f1ff06f9eacedaf28c,test,Who was Jasper Fenn?,Mountaaineer.,A mountaineer.,Who was Jasper Fenn ?,Mountaaineer .,A mountaineer .
+f9eefde042d49c10f82206e9331d5ebe06136aaf,train,Who is Rosamond Vincy?,The Mayor's daughter who marries Lydgate.,"the niece of Mr. Bulstrode, daughter of the mayor, and wife of Lydgate",Who is Rosamond Vincy ?,The Mayor s daughter who marries Lydgate .,"the niece of Mr. Bulstrode , daughter of the mayor , and wife of Lydgate"
+fba51a67cf7aa08f14b84721571e67cc840d8203,train,Who is Darcy? ,Nick's coworker and love interest. ,The woman that was hired instead of Nick getting the promotion ,Who is Darcy ?,Nick s coworker and love interest .,The woman that was hired instead of Nick getting the promotion
+fbbfafdd97567ddaadc565e18ac617703e1fed66,train,Who is Lucia to Turiddu?, Lucia is his mother.,mother,Who is Lucia to Turiddu ?,Lucia is his mother .,mother
+fc7187dffd2fe9018b288b0d81c5e049ce0ad716,test,Who is Thunderdel?,A two headed giant,A two-headed giant.,Who is Thunderdel ?,A two headed giant,A two-headed giant .
+fc724594f1ffb52d1101209b11cebc95700ee082,train,Who is Mephistopheles?,The devil.,The Devil.,Who is Mephistopheles ?,The devil .,The Devil .
+fc79357de2e376b0fe00069cfe9099ac4ce51426,test,Who was Frenchman de Vac? ,The King's past fencing master. ,the king's fencing master,Who was Frenchman de Vac ?,The King s past fencing master .,the king s fencing master
+fcc0308422461028f07592872b425bc34b50b6e6,test,Who is Lapp?,A French man who comes to town claiming he was in a shipwreck.,"Napoleon's aide, Bonaventure de Lissac",Who is Lapp ?,A French man who comes to town claiming he was in a shipwreck .,"Napoleon s aide , Bonaventure de Lissac"
+fcf28eb74e5d50c402f34d32ce2370ce1bd12506,test,Who is Mrs. Warrens daughter?,Vivie,Vivie,Who is Mrs. Warrens daughter ?,Vivie,Vivie
+fcf6a9c1f0b8b5d551f464275aa47fede6814558,test,Who is Wesley?,A hitman who scalps Betty's husband and is later learned to be Charlie's son.,One of the hitmen chasing Betsy,Who is Wesley ?,A hitman who scalps Betty s husband and is later learned to be Charlie s son .,One of the hitmen chasing Betsy
+fdfbfabc1a72a0fb7f31ac7ad9e1ced05c838ef0,train,Who was Richter?,Lori's real husband,Cohaagen's operative and Lori's real husband,Who was Richter ?,Lori s real husband,Cohaagen s operative and Lori s real husband
+fdfbfabc1a72a0fb7f31ac7ad9e1ced05c838ef0,train,Who was Melina?,The woman from Quaid dream.,woman from Quaid's dream,Who was Melina ?,The woman from Quaid dream .,woman from Quaid s dream
+fdfbfabc1a72a0fb7f31ac7ad9e1ced05c838ef0,train,Who was Benny?,A tax driver,Benny was a taxi driver who also was secretly working for Cohaagen.,Who was Benny ?,A tax driver,Benny was a taxi driver who also was secretly working for Cohaagen .
+fe94da874e9c2093a2b381f69ac4130c2ae3e734,train,Who is Scott Smith?,Harvey Milk's lover,Milk's younger gay lover,Who is Scott Smith ?,Harvey Milk s lover,Milk s younger gay lover
+fea54b235b1c054d1c90e87f57e3bfb64cbf3a5b,train,Who is Valerie Lewton?,A high school teacher.,Their teacher.,Who is Valerie Lewton ?,A high school teacher .,Their teacher .
+fea54b235b1c054d1c90e87f57e3bfb64cbf3a5b,train,Who is William Bludworth?,Bludworth is a mortician. ,A mortician,Who is William Bludworth ?,Bludworth is a mortician .,A mortician
+febd3002298e75a9e9b5569500989766137608f8,train,Who is Larry's economics teacher?,Dr. Matsutani,Dr. Ed Matsutani,Who is Larry s economics teacher ?,Dr. Matsutani,Dr. Ed Matsutani
+fee64a7ee5b0427d78d666770c064213f245884a,train,Who was Harold Stegeman in reality?,An 8 year old boy who died,Phil Champagne,Who was Harold Stegeman in reality ?,An 8 year old boy who died,Phil Champagne
+ffa719867c77cfd8fc661fdb6d8c8d266746e15f,valid,Who is Randi? ,Marianne's sister,Marianne's sister,Who is Randi ?,Marianne s sister,Marianne s sister
+ffae045d630abf7e4c282849d16819ceff60c2b0,train,Who is Lisa in relation to Brad?,Brad's girlfriend,his girlfriend,Who is Lisa in relation to Brad ?,Brad s girlfriend,his girlfriend
+ffae045d630abf7e4c282849d16819ceff60c2b0,train,Who is Stacy in relation to Brad?,Brad's sister,his sister,Who is Stacy in relation to Brad ?,Brad s sister,his sister
+ffcf7daee9cda766d2fcf1f6399b29be41876b21,test,Who is Evelyn's sister and her daughter? ,Katherine,Katherine,Who is Evelyn s sister and her daughter ?,Katherine,Katherine
